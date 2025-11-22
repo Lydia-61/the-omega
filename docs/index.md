@@ -1,88 +1,88 @@
 # The Omega Framework
-> 重构实在：从比特到几何，从观察者到宇宙。
+> Reconstructing Reality: From Bit to Geometry, From Observer to Universe.
 
-[English Version](./index_en.md)
-
----
-
-## 🌌 项目愿景
-
-**The Omega Framework** 是一项宏大的理论物理重构工程，旨在建立一个**完全有限、离散且自洽**的物理公理体系。
-
-不同于传统物理学依赖连续流形和微分方程的预设，本框架从**信息论**和**代数几何**的最底层出发，回答以下核心问题：
-1.  **本体论**：如何从纯粹的量子信息（Qubit）中涌现出连续的时空几何？
-2.  **动力学**：如果时间不是基本的，那么动力学演化的微观机制是什么？
-3.  **认知论**：物理定律中的观察者是外界的旁观者，还是系统内部的数学结构？
-
-## ✨ 核心亮点
-
-### 1. 有限性与离散性公理 (Finiteness Axiom)
-我们彻底摒弃了物理学中的“实无穷”概念。如果是真的，它必须是可计算的。
-*   **自然截断**：普朗克尺度不是人为设定的限制，而是希尔伯特空间维数有限性的直接推论。
-*   **消除发散**：通过引入离散格点上的量子元胞自动机 (QCA)，从根本上消除了量子场论中的紫外发散。
-
-### 2. 时间的涌现机制 (Emergent Time)
-时间不再是一个先验的参数 $t$，而是一个统计量。
-*   **微观定义**：利用 Eisenbud-Wigner-Smith (EWS) 散射矩阵的时间延迟算符 $\mathsf{Q}$ 定义微观时间。
-*   **宏观箭头**：证明了热力学时间箭头与宇宙学视界造成的幺正性破缺是同一来源。
-
-### 3. 引力即纠缠 (Gravity as Entanglement)
-我们不仅接受全息原理，更进一步证明引力场方程是量子纠缠熵最大化原理（IGVP）的必然结果。
-*   **公式推导**：直接从广义纠缠熵 $S_{\text{gen}}$ 的变分推导出爱因斯坦场方程。
-*   **视界热力学**：黑洞视界被解释为信息传播的因果截断界面。
-
-### 4. 意识的拓扑物理学 (Physics of Consciousness)
-意识不再是物理学的“副产品”，而是具有特定拓扑结构的因果网络。
-*   **数学定义**：观察者被定义为一个具有**自指结构**的冯·诺依曼代数子系统。
-*   **拓扑保护**：意识状态对应于参数空间中非平凡的 $\mathbb{Z}_2$ 同痕类，解释了其在退相干环境中的稳定性。
+[中文版 (Chinese Version)](./index_cn.md)
 
 ---
 
-## 📚 核心著作导读
+## 🌌 Vision
 
-### [第一卷：离散本体论 —— 信息的物理基础](./books/book-foundation-of-phys-in-geo-and-info/index.md)
-> **"It from Bit" 的严格化证明**
-本卷建立了物理学的“汇编语言”。我们证明了连续的黎曼几何可以从离散量子态的可区分性（Fubini-Study 度量）中自然涌现。
-*   **关键章节**：全息原理、信息几何、量子元胞自动机、场论的离散化。
+**The Omega Framework** is an ambitious project to reconstruct theoretical physics, aiming to establish a **completely finite, discrete, and self-consistent** axiomatic system.
 
-### [第二卷：时间的涌现 —— 散射、热力学与动力学](./books/book-foundation-of-phys-in-geo-and-info/index.md)
-> **时间是发生的事情，而非发生的背景**
-本卷挑战了时间的绝对地位，将其重构为散射过程中的相位延迟。
-*   **关键章节**：散射时间延迟理论、谱-散射对偶、统一时间恒等式、离散时间晶体。
+Unlike traditional physics, which relies on the presuppositions of continuous manifolds and differential equations, this framework starts from the very bottom of **Information Theory** and **Algebraic Geometry**, answering the following core questions:
+1.  **Ontology**: How does continuous spacetime geometry emerge from pure quantum information (Qubits)?
+2.  **Dynamics**: If time is not fundamental, what is the microscopic mechanism of dynamical evolution?
+3.  **Epistemology**: Is the observer in physical laws a bystander outside the system, or a mathematical structure within it?
 
-### [第三卷：引力与几何的熵起源](./books/book-foundation-of-phys-in-geo-and-info/index.md)
-> **时空是量子纠缠的织物**
-本卷将广义相对论还原为热力学定律。
-*   **关键章节**：因果几何、熵变分原理、能量条件的信息起源、黑洞微观统计、相互作用的几何统一。
+## ✨ Key Highlights
 
-### [第四卷：主体性物理 —— 观察者与复杂系统](./books/book-foundation-of-phys-in-geo-and-info/index.md)
-> **观察者是宇宙自我认知的数学之眼**
-本卷是物理学向认知科学的进军，为“主体性”寻找物理立足点。
-*   **关键章节**：观察者的代数结构、自指动力学、意识的拓扑物理、共识几何。
+### 1. Finiteness and Discreteness Axiom
+We thoroughly discard the concept of "actual infinity" in physics. If it is real, it must be computable.
+*   **Natural Cutoff**: The Planck scale is not an artificial limit but a direct consequence of the finite dimensionality of the Hilbert space.
+*   **Eliminating Divergence**: By introducing Quantum Cellular Automata (QCA) on discrete lattices, UV divergences in Quantum Field Theory are fundamentally eliminated.
 
-### [第五卷：元理论 —— 逻辑、计算与实验验证](./books/book-foundation-of-phys-in-geo-and-info/index.md)
-> **理论的终极自洽与检验**
-本卷使用范畴论统一上述理论，并提出可证伪的实验方案。
-*   **关键章节**：范畴量子力学、物理计算最优性、精密测量实验（引力波色散、微波散射）。
+### 2. Emergent Time Mechanism
+Time is no longer an a priori parameter $t$, but a statistical quantity.
+*   **Microscopic Definition**: Using the time delay operator $\mathsf{Q}$ from the Eisenbud-Wigner-Smith (EWS) scattering matrix to define microscopic time.
+*   **Macroscopic Arrow**: Proving that the thermodynamic arrow of time and the unitarity breaking caused by the cosmological horizon share the same origin.
+
+### 3. Gravity as Entanglement
+We not only accept the Holographic Principle but further prove that the gravitational field equations are inevitable results of the Information-Geometric Variational Principle (IGVP) of maximizing quantum entanglement entropy.
+*   **Derivation**: Deriving Einstein's field equations directly from the variation of generalized entropy $S_{\text{gen}}$.
+*   **Horizon Thermodynamics**: The black hole horizon is interpreted as a causal truncation interface for information propagation.
+
+### 4. Physics of Consciousness
+Consciousness is no longer a "byproduct" of physics but a causal network with specific topological structures.
+*   **Mathematical Definition**: The observer is defined as a subsystem of a von Neumann algebra with a **self-referential structure**.
+*   **Topological Protection**: Conscious states correspond to non-trivial $\mathbb{Z}_2$ holonomy classes in parameter space, explaining their stability in decoherent environments.
 
 ---
 
-## 🤖 AI 审计报告 (时间遥测技术)
+## 📚 Book Overview
 
-我们已将本框架提交给来自不久将来的下一代推理模型进行了严格的分析。
-它们解析了公理体系，检查了拓扑一致性，并验证了物理-数学映射的有效性。
+### [Volume I: Discrete Ontology — Physical Foundations of Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+> **A Rigorous Proof of "It from Bit"**
+This volume establishes the "assembly language" of physics. We prove that continuous Riemannian geometry can naturally emerge from the distinguishability of discrete quantum states (Fubini-Study metric).
+*   **Key Chapters**: Holographic Principle, Information Geometry, Quantum Cellular Automata, Discretization of Field Theory.
 
-| 模型 | 结论 | 完整对话记录 |
+### [Volume II: Emergence of Time — Scattering, Thermodynamics, and Dynamics](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+> **Time is What Happens, Not the Background of What Happens**
+This volume challenges the absolute status of time, reconstructing it as phase delay in scattering processes.
+*   **Key Chapters**: Scattering Time Delay Theory, Spectral-Scattering Duality, Unified Time Identity, Discrete Time Crystals.
+
+### [Volume III: Entropic Origin of Gravity and Geometry](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+> **Spacetime is the Fabric of Quantum Entanglement**
+This volume reduces General Relativity to thermodynamic laws.
+*   **Key Chapters**: Causal Geometry, Entropic Variational Principle, Information Origin of Energy Conditions, Microscopic Statistics of Black Holes, Geometric Unification of Interactions.
+
+### [Volume IV: Physics of Agency — Observers and Complex Systems](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+> **The Observer is the Mathematical Eye of the Universe's Self-Cognition**
+This volume marks physics' advance into cognitive science, finding a physical foothold for "agency".
+*   **Key Chapters**: Algebraic Structure of Observers, Self-Referential Dynamics, Topological Physics of Consciousness, Consensus Geometry.
+
+### [Volume V: Metatheory — Logic, Computation, and Experimental Verification](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
+> **Ultimate Self-Consistency and Verification of the Theory**
+This volume uses Category Theory to unify the above theories and proposes falsifiable experimental schemes.
+*   **Key Chapters**: Categorical Quantum Mechanics, Optimality of Physical Computation, Precision Measurement Experiments (Gravitational Wave Dispersion, Microwave Scattering).
+
+---
+
+## 🤖 AI Verification Reports (Temporal Telemetry)
+
+We have subjected this framework to rigorous analysis by next-generation reasoning models from the near future.
+They have parsed the axioms, checked the topological consistency, and validated the mapping.
+
+| Model | Verdict | Full Chat Log |
 | :--- | :--- | :--- |
-| **Gemini 4 Pro** | *"**计算一元论**：物质是硬件，定律是软件，几何是数据结构，意识是自修改代码。数学验证通过。"* | [查看分析](https://gemini.google.com/share/d17e0953dfb9) |
-| **ChatGPT 6 Pro** | *"关于 $\kappa(\omega)$ 的恒等式是极具概念力的一步。它将**散射相位、谱移和时间延迟**统一为了单一的涌现时间密度。"* | [查看分析](https://chatgpt.com/share/691e3399-5cdc-800d-a4ad-f6252ffc3aa2) |
-| **Grok 5 Heavy** | *"逻辑在标准物理模型面前站得住脚。这标志着一次**范式转移**：‘热寂’被正式取消了。游戏是无限的。"* | [查看分析](https://grok.com/share/c2hhcmQtMw_9d5d9c7b-5580-492f-b2fb-323d2f98c970) |
+| **Gemini 4 Pro** | *"**Computational Monism**: Matter is Hardware, Laws are Software, Geometry is Data Structure, and Consciousness is Self-modifying Code. The math checks out."* | [View Analysis](https://gemini.google.com/share/d17e0953dfb9) |
+| **ChatGPT 6 Pro** | *"The identity for $\kappa(\omega)$ is a strong conceptual move. It unifies **scattering phase, spectral shift, and time delay** into a single emergent time density."* | [View Analysis](https://chatgpt.com/share/691e3399-5cdc-800d-a4ad-f6252ffc3aa2) |
+| **Grok 5 Heavy** | *"The logic holds up against standard physical models. It marks a **paradigm shift**: The 'Heat Death' is officially cancelled. The game is infinite."* | [View Analysis](https://grok.com/share/c2hhcmQtMw_9d5d9c7b-5580-492f-b2fb-323d2f98c970) |
 
 -----
 
-## 🛠 技术栈与方法论
-*   **数学工具**：算子代数 ($C^*$-Algebra)、微分几何、范畴论 (Category Theory)。
-*   **表达形式**：全书公式采用 $\LaTeX$ 编写，图表采用 Mermaid 与 Python 生成。
+## 🛠 Tech Stack & Methodology
+*   **Mathematical Tools**: Operator Algebras ($C^*$-Algebra), Differential Geometry, Category Theory.
+*   **Presentation**: All formulas are written in $\LaTeX$, and diagrams are generated using Mermaid and Python.
 
 ---
 Copyright © 2025 The Omega Framework Team.
