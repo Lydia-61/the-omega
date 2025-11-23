@@ -19,12 +19,8 @@
 
 <p align="center">
   <strong>观看框架讲解</strong>
-  <br><br>
-  <a href="https://youtu.be/-bhgzuFOaro">
-    <img src="https://img.youtube.com/vi/-bhgzuFOaro/maxresdefault.jpg" alt="观看视频" width="100%" style="max-width: 640px; border: 3px solid #FF0000; border-radius: 8px;">
-  </a>
   <br>
-  <em>点击上方图片在 YouTube 上观看视频</em>
+  <a href="https://youtu.be/-bhgzuFOaro">▶️ https://youtu.be/-bhgzuFOaro</a>
 </p>
 
 ---
