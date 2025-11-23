@@ -1,14 +1,14 @@
 # The Omega Framework
 > 重构实在：从比特到几何，从观察者到宇宙。
 
-[English Version](./index.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./assets/pdf/Reality_Decompiled.pdf) | [▶️ Video](https://youtu.be/-bhgzuFOaro)
+[English Version](./index.md) | [📥 PDF](./books/book-foundation-of-phys-in-geo-and-info/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./books/book-first-principles-from-unitary-computation-to-physical-reality/Reality_Decompiled.pdf) | [▶️ Video](https://youtu.be/-bhgzuFOaro)
 
 ---
 
 ## 🌌 项目愿景
 
 <p align="center">
-  <img src="./assets/img/architecture.png" alt="The Omega Architecture" width="100%">
+  <img src="./books/book-foundation-of-phys-in-geo-and-info/architecture.png" alt="The Omega Architecture" width="100%">
 </p>
 
 **The Omega Framework** 是一项宏大的理论物理重构工程，旨在建立一个**完全有限、离散且自洽**的物理公理体系。

@@ -2,6 +2,12 @@
 
 本书从第一原理出发，建立基于离散信息本体的物理理论框架。
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Reality_Decompiled.pdf)
+
 ## 前言
 
 - [前言：奥卡姆的终极剃刀](foreword.md)

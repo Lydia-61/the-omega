@@ -2,6 +2,10 @@
 
 This book is the third volume of the trilogy, exploring the physical foundations of consciousness, experience, and the participatory universe.
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 ## Foreword
 
 - [Preface: Confessions of a Brain in a Vat](foreword_en.md)

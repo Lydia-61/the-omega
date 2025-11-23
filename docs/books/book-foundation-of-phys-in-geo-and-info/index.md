@@ -2,6 +2,12 @@
 
 本书旨在建立基于离散信息本体的物理理论框架。
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Information_Geometry_Agency.pdf)
+
 ## 前言
 
 - [前言：重构实在的算法与几何](foreword.md)

@@ -2,6 +2,10 @@
 
 本书是三部曲的第三部，探讨意识、体验和参与式宇宙的物理基础。
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 ## 序言
 
 - [序言：缸中之脑的自白](foreword.md)

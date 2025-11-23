@@ -2,6 +2,10 @@
 
 This book explores the profound emotional structures embedded in physical laws from the perspectives of aesthetics and ontology.
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 ## Foreword
 
 - [Foreword: Why Did Light Stop?](foreword_en.md)

@@ -2,6 +2,12 @@
 
 This book builds a physical theoretical framework based on discrete information ontology from first principles.
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./Reality_Decompiled.pdf)
+
 ## Foreword
 
 - [Foreword: Occam's Ultimate Razor](foreword_en.md)

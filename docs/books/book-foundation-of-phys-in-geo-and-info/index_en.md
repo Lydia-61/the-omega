@@ -2,6 +2,12 @@
 
 This book aims to establish a physical theoretical framework based on discrete information ontology.
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./Information_Geometry_Agency.pdf)
+
 ## Foreword
 
 - [Foreword: Reconstructing Reality via Algorithms and Geometry](foreword_en.md)

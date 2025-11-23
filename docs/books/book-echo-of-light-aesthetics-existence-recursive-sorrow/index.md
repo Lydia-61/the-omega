@@ -2,6 +2,10 @@
 
 本书从美学和存在论的视角，探讨物理定律中蕴含的深刻情感结构。
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
 ## 前言
 
 - [序言：光为什么停下来？](foreword.md)
