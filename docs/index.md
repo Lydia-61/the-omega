@@ -1,7 +1,7 @@
 # The Omega Framework
 > Reconstructing Reality: From Bit to Geometry, From Observer to Universe.
 
-[中文版 (Chinese Version)](./index_cn.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf)
+[中文版 (Chinese Version)](./index_cn.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./assets/pdf/Reality_Decompiled.pdf)
 
 ---
 

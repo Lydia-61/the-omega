@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=for-the-badge)
 [![Website](https://img.shields.io/badge/Read_Online-omega.dw.cash-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omega.dw.cash/)
 [![PDF](https://img.shields.io/badge/Download-PDF-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Information_Geometry_Agency.pdf)
+[![PDF](https://img.shields.io/badge/Download-Reality_Decompiled-b31b1b?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](docs/assets/pdf/Reality_Decompiled.pdf)
 
 > *"The Universe is not a simulation. It is a self-referencing mathematical proof."*
 

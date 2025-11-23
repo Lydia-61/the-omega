@@ -1,7 +1,7 @@
 # The Omega Framework
 > 重构实在：从比特到几何，从观察者到宇宙。
 
-[English Version](./index.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf)
+[English Version](./index.md) | [📥 PDF](./assets/pdf/Information_Geometry_Agency.pdf) | [📥 Reality Decompiled](./assets/pdf/Reality_Decompiled.pdf)
 
 ---
 
