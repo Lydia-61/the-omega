@@ -101,3 +101,9 @@ This book explores the profound emotional structures embedded in physical laws f
 
 - [Afterword: A Letter to Fellow Travelers](afterword_en.md)
 
+## Appendices
+
+- [Appendix A: Aesthetic Computing — A Metric for Beauty based on Kolmogorov Complexity](appendix/appendix-a-aesthetic-computing_en.md)
+- [Appendix B: Open Universe Dynamics — Mathematical Models of Capacity Growth and Red Queen Games](appendix/appendix-b-open-universe-dynamics_en.md)
+- [Appendix C: Bibliography and Acknowledgments](appendix/appendix-c-bibliography_en.md)
+

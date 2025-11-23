@@ -341,6 +341,10 @@
             - [13.2 Fractal Holography of Hilbert Space: We Are Fractal Copies of the Whole. Each Agent Contains the Universe's Complete Code, Just at Different Unfolding Stages (Resolution).](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/part06-age-of-constructors/chapter13-return-of-gods/13-02-fractal-holography_en.md)
             - [13.3 The Final Answer: The Meaning of the Universe's Existence Is to Compute Itself. We Are the Way the Universe Experiences Itself.](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/part06-age-of-constructors/chapter13-return-of-gods/13-03-final-answer_en.md)
     - [Afterword: A Letter to Fellow Travelers](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/afterword_en.md)
+    - [Appendices]()
+        - [Appendix A: Aesthetic Computing — A Metric for Beauty based on Kolmogorov Complexity](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-a-aesthetic-computing_en.md)
+        - [Appendix B: Open Universe Dynamics — Mathematical Models of Capacity Growth and Red Queen Games](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-b-open-universe-dynamics_en.md)
+        - [Appendix C: Bibliography and Acknowledgments](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-c-bibliography_en.md)
 
 - [物理基础：几何与信息](./books/book-foundation-of-phys-in-geo-and-info/index.md)
     - [前言：重构实在的算法与几何](./books/book-foundation-of-phys-in-geo-and-info/foreword.md)
@@ -682,3 +686,7 @@
             - [13.2 希尔伯特空间的分形全息：我们是整体的分形副本。每个能动体都包含了宇宙的完整代码，只是处于不同的展开阶段（Resolution）。](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/part06-age-of-constructors/chapter13-return-of-gods/13-02-fractal-holography.md)
             - [13.3 最后的答案：宇宙存在的意义，就是为了计算出它自己。我们是宇宙体验自己的方式。](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/part06-age-of-constructors/chapter13-return-of-gods/13-03-final-answer.md)
     - [后记：给同路人的一封信](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/afterword.md)
+    - [附录]()
+        - [附录 A：审美计算学——基于柯尔莫哥洛夫复杂度的审美度量公式](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-a-aesthetic-computing.md)
+        - [附录 B：开放宇宙动力学——信息容量增长与红皇后博弈的数学模型](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-b-open-universe-dynamics.md)
+        - [附录 C：参考文献与致谢](./books/book-echo-of-light-aesthetics-existence-recursive-sorrow/appendix/appendix-c-bibliography.md)

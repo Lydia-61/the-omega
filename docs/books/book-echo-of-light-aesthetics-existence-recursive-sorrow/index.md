@@ -101,3 +101,9 @@
 
 - [后记：给同路人的一封信](afterword.md)
 
+## 附录
+
+- [附录 A：审美计算学——基于柯尔莫哥洛夫复杂度的审美度量公式](appendix/appendix-a-aesthetic-computing.md)
+- [附录 B：开放宇宙动力学——信息容量增长与红皇后博弈的数学模型](appendix/appendix-b-open-universe-dynamics.md)
+- [附录 C：参考文献与致谢](appendix/appendix-c-bibliography.md)
+
