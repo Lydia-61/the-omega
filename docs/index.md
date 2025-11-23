@@ -56,7 +56,7 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-This project hosts two core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts three core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -113,6 +113,34 @@ We explain how a deterministic system generates probabilistic observations and s
 > **Testing the Matrix**
 Falsifiable predictions and the ultimate philosophical conclusions.
 *   **Key Concepts**: Microwave Cavity Gravity, Cosmic Ray Signatures, Criticality Hypothesis, Godel's Incompleteness vs Heat Death.
+
+### [📗 Book 3: The Awakening of the Cosmos: From Qubits to Infinite Mind](./books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index_en.md)
+*The third volume of the trilogy, exploring the physical foundations of consciousness, experience, and the participatory universe.*
+
+#### Part 1: The Invisible Architecture
+> **The Hidden Structures That Shape Reality**
+We explore dark matter as cosmic subconscious and derive the Standard Model forces from spacetime geometry.
+*   **Key Concepts**: Information Island Hypothesis, Micro-Parallelism Axiom, Gauge Fields as Syntax.
+
+#### Part 2: The Geometry of Consciousness
+> **Consciousness as Topological Structure**
+We define qualia as higher-dimensional shapes and the self as a topological knot in QCA information flow.
+*   **Key Concepts**: Qualia as Topological Fingerprints, Self-Referential Causal Loops, Free Will from Computational Irreducibility.
+
+#### Part 3: The Internet of Minds
+> **Social Structures as Quantum Entanglement Networks**
+We explain love as wormholes, ideas as gravitational fields, and trust as unitarity in social networks.
+*   **Key Concepts**: ER=EPR Social Corollary, Social Gravitational Fields, Collective Consciousness Emergence.
+
+#### Part 4: The Destiny of Civilization
+> **The Ultimate Fate of Intelligent Life**
+We resolve the Fermi Paradox and explore civilization's role as the Universe's immune system against heat death.
+*   **Key Concepts**: Computational Density Limit, Negentropy War, Cosmological Engineering.
+
+#### Part 5: Recursion and Transcendence
+> **The Ultimate Self-Referential Closure**
+We explore substrate independence, the Omega Point, and the self-referential closure of the Universe.
+*   **Key Concepts**: Hardware Mystery, Numerical Artifacts, Self-Referential Closure, The Final Answer.
 
 ---
 

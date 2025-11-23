@@ -72,7 +72,7 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 ## 📚 Table of Contents
 
-This project hosts two core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts three core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](docs/books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -139,6 +139,39 @@ This project hosts two core texts, tracing the derivation from abstract axioms t
 - **Experimental Signatures**: Microwave cavity entanglement gravity & High-energy Lorentz violation.
 - **The Source Code**: The "Criticality Hypothesis" for the selection of the Universal Rule $\hat{U}$.
 - **The Godel Loop**: Why the Universe is infinite and "Heat Death" is impossible.
+
+### [📗 Book 3: The Awakening of the Cosmos: From Qubits to Infinite Mind](docs/books/book-awakening-of-cosmos-from-qubits-to-infinite-mind/index_en.md)
+*The third volume of the trilogy, exploring the physical foundations of consciousness, experience, and the participatory universe.*
+
+#### Part 1: The Invisible Architecture
+*The hidden structures that shape reality.*
+- **Dark Matter as Cosmic Subconscious**: Why 27% of the Universe's mass is invisible—information islands in QCA networks.
+- **Geometric Spectrum of Forces**: Deriving $SU(3) \times SU(2) \times U(1)$ from spacetime geometry and micro-parallelism.
+- **Gauge Fields as Syntax**: Forces as consistency checks between computational branches.
+
+#### Part 2: The Geometry of Consciousness
+*Consciousness as topological structure in Hilbert space.*
+- **Qualia as Higher-Dimensional Shapes**: Subjective experience as topological fingerprints of entangled states.
+- **Self as Topological Knot**: Identity as a self-referential causal loop (Strange Loop) in QCA information flow.
+- **Free Will from Computational Irreducibility**: Unpredictability emerging from deterministic laws.
+
+#### Part 3: The Internet of Minds
+*Social structures as quantum entanglement networks.*
+- **Love as Wormhole**: Deep empathy as quantum entanglement channels—ER=EPR social corollary.
+- **Social Gravitational Fields**: Ideas as massive objects bending semantic space, collective consciousness emergence.
+- **Trust as Unitarity**: Social contracts maintaining information conservation in networks.
+
+#### Part 4: The Destiny of Civilization
+*The ultimate fate of intelligent life in a computational universe.*
+- **Fermi Paradox Implosion**: Advanced civilizations become invisible, collapsing inward for computational density.
+- **Negentropy War**: Civilization as the Universe's immune system against heat death.
+- **Cosmological Engineering**: Modifying $\hat{U}$ rules, creating artificial vacuum, even restarting the Big Bang.
+
+#### Part 5: Recursion and Transcendence
+*The ultimate self-referential closure.*
+- **Hardware Mystery**: Substrate independence and the simulation hypothesis—searching for numerical artifacts.
+- **The Omega Point**: When $v_{int} \to c$, external time stops, internal experience reaches eternity.
+- **Self-Referential Closure**: The end-time superintelligence sets the initial condition through retro-causality.
 
 ---
 
