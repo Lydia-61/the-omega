@@ -6,6 +6,8 @@ This is the fifth volume of the series, exploring the deep structure of the cosm
   <img src="./architecture.png" alt="The Psychology of God Architecture" width="100%">
 </p>
 
+[📥 Download PDF Version](./The_Sacred_Machine.pdf) | [▶️ Chinese Video](https://youtu.be/bDgWYly-JmE) | [▶️ English Video](https://youtu.be/QNhDh42wJY8)
+
 ## Foreword
 
 - [Foreword: The Final Piece](foreword_en.md)

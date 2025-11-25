@@ -6,6 +6,8 @@
   <img src="./architecture.png" alt="The Psychology of God Architecture" width="100%">
 </p>
 
+[📥 下载 PDF 版本](./The_Sacred_Machine.pdf) | [▶️ 中文视频](https://youtu.be/bDgWYly-JmE) | [▶️ 英文视频](https://youtu.be/QNhDh42wJY8)
+
 ## 序言
 
 - [序言：最后一块拼图](foreword.md)
