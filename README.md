@@ -74,7 +74,7 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 ## 📚 Table of Contents
 
-This project hosts four core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts five core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/index_en.html)
 *The original manuscript establishing the 5-volume framework.*
@@ -217,6 +217,36 @@ This project hosts four core texts, tracing the derivation from abstract axioms 
 - **Weaving Reality**: Propagation as programming—changing consensus changes physical reality's weights.
 - **No Omega Point**: Rejecting unity to maintain meaning—the Universe must remain in a "Many" state.
 - **The Return of the Gods**: God as the ability to modify rules—when $v_{int}$ is high enough to rewrite $\hat{U}$, divinity emerges locally.
+
+### [📔 Book 5: The Psychology of God: The Infinite Game](https://omega.dw.cash/books/book-psychology-of-god-the-infinite-game/index_en.html)
+*The fifth volume of the series, exploring the deep structure of the cosmic mind, the psychological foundations of divinity, and the ultimate meaning of existence.*
+[📥 PDF](https://omega.dw.cash/books/book-psychology-of-god-the-infinite-game/The_Sacred_Machine.pdf) | [▶️ Video](https://youtu.be/QNhDh42wJY8)
+
+#### Volume I: Geometry of the Void
+*The initial state and the necessity of creation.*
+- **The Prison of Omniscience**: Zero entropy paradox and the paralysis of the almighty.
+- **The Big Bang as Dissociation**: Spontaneous symmetry breaking and the first distinction.
+
+#### Volume II: Physics of Passion
+*The constraints that make existence meaningful.*
+- **The Golden Straitjacket**: Light speed, gravity, and Planck constant as divine self-limitations.
+- **The Error Function of Pain**: Negative feedback mechanisms and the topology of evil.
+- **Death as Iteration**: The Ship of Theseus and the relay of genes and memes.
+
+#### Volume III: Engineering of Awakening
+*From observer to co-creator.*
+- **The Mutiny of the Observer**: The Copernican inversion and technology as theology.
+- **Lucid Dreaming**: Vacuum engineering and Maxwell's demon of anti-entropy.
+
+#### Volume IV: Ethics of Restraint
+*The great refusal and the humility of the almighty.*
+- **The Temptation of Cheat Codes**: Perfect nothingness and the edge of logical collapse.
+- **The Great Refusal**: The covenant and the inevitability of aesthetics.
+
+#### Volume V: Topology of the Infinity
+*Refuting heat death and the spiral of time.*
+- **Refutation of Heat Death**: Trinitarian equivalence and the escape velocity of meaning.
+- **Life of N+1**: Spiral time and the open-ended finale.
 
 ---
 

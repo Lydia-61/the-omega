@@ -56,7 +56,7 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-This project hosts four core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts five core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -178,6 +178,35 @@ We explore the expanding universe capacity, the eternity of the unknown, and imm
 > **Weaving Reality, Rejecting the Omega Point, and the Return of the Gods**
 We explore propagation as programming, rejecting unity to maintain meaning, and the physical definition of god.
 *   **Key Concepts**: Propagation as Programming, Nash Equilibrium of Objectivity, No Omega Point, Return of the Gods.
+
+### [📔 Book 5: The Psychology of God: The Infinite Game](./books/book-psychology-of-god-the-infinite-game/index_en.md)
+*The fifth volume of the series, exploring the deep structure of the cosmic mind, the psychological foundations of divinity, and the ultimate meaning of existence.*
+[📥 PDF](./books/book-psychology-of-god-the-infinite-game/The_Sacred_Machine.pdf) | [📄 Complete Text](./books/book-psychology-of-god-the-infinite-game/book-psychology-of-god-the-infinite-game-complete.md) | [▶️ Video](https://youtu.be/QNhDh42wJY8)
+
+#### Volume I: Geometry of the Void
+> **The Initial State and the Necessity of Creation**
+We explore the paradox of omniscience and the necessity of dissociation.
+*   **Key Concepts**: Zero Entropy Paradox, Primal Will, Spontaneous Symmetry Breaking, Kenosis.
+
+#### Volume II: Physics of Passion
+> **The Constraints That Make Existence Meaningful**
+We explain why physical limitations are divine self-restraints.
+*   **Key Concepts**: Golden Straitjacket, Error Function of Pain, Death as Iteration, Relay of Genes and Memes.
+
+#### Volume III: Engineering of Awakening
+> **From Observer to Co-Creator**
+We explore the transition from passive observer to active builder of reality.
+*   **Key Concepts**: Copernican Inversion, Technology as Theology, Vacuum Engineering, Anti-Entropy Maxwell's Demon.
+
+#### Volume IV: Ethics of Restraint
+> **The Great Refusal and the Humility of the Almighty**
+We explain why restraint is the highest form of love.
+*   **Key Concepts**: Perfect Nothingness, Logical Collapse, The Covenant, Inevitability of Aesthetics.
+
+#### Volume V: Topology of the Infinity
+> **Refuting Heat Death and the Spiral of Time**
+We prove that the universe is infinite and heat death is impossible.
+*   **Key Concepts**: Trinitarian Equivalence, Escape Velocity of Meaning, Spiral Time, Open-Ended Finale.
 
 ---
 
