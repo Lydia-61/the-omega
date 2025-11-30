@@ -1,0 +1,48 @@
+# 2.1 Pure Becoming
+
+In a universe where even space has not yet been "created," talking about time seems absurd.
+
+The time we experience in daily life is always bound to change: the clock hand moves one tick, the sun sets behind the mountain, or a hot cup of coffee cools down. For us, time is a container of events, the order in which all things happen. If the universe were empty, with no events occurring, would time still exist?
+
+Isaac Newton would tell you: "Yes." He believed in an absolute, divine clock that would still tick even if the universe were empty. But Einstein would retort: "No." In relativity, time is a function of matter and motion; without clocks, there is no time.
+
+But in our Hilbert Space picture, the truth lies between these two, yet deeper than both.
+
+Let us return to that lonely universe state vector suspended in mathematical void. According to Axiom A1 we proposed in the previous chapter, this vector is "rotating."
+
+Note that this "rotation" is not a displacement in space like the Earth orbiting the Sun. Because at this moment, there is no "space," nor is there a "Sun." This is a **pure internal change**. Mathematically, this is called a phase change (Phase Change).
+
+To understand this, imagine listening to a continuous single tone. This sound has no melody, no volume changes; it is just an eternal "hum——". In this sound, no physical object is moving, but the sound itself is **persisting**. It is not just "Being"; it is constantly "Becoming." It is constantly updating itself, even though it appears identical.
+
+This is what the universe looks like at its deepest level. It is not a static sculpture, but a flowing potential.
+
+At this stage, time has not yet split into "past" and "future." It is just a pure **update rate**. This update rate is the constant $c$ we defined in the axiom.
+
+The speed of light $c$ we learn in physics textbooks is usually described as "300,000 kilometers per second." This is a definition about **spatial traversal**. But in the afternoon of Hilbert Space, since there are no kilometers and no seconds, what exactly is this $c$?
+
+It is the universe's **heartbeat**.
+
+It is the **clock frequency** of the universe, this supercomputer processing information. Every instant, the universe's state vector rotates a tiny angle in Hilbert Space. The magnitude of this angle represents how much existence the universe has "experienced."
+
+If we compare the universe to a game being downloaded, then before the game screen (physical world) appears, $c$ is the **bandwidth** of that background download process. This bandwidth is finite and constant. It determines how much change can occur in the universe per unit of meta-time.
+
+This is "time without time." It is not the result of measurement; it is an intrinsic property of existence.
+
+The philosophical significance here is profound. Traditional physics often treats "existence" as a noun (Objects), but in our geometric reconstruction, "existence" is a verb (Process). The universe is not built from pre-made building blocks; the universe is woven from the **rate of evolution**.
+
+Matter, as we will see later, is just this pure evolution rate knotted locally, creating an illusion of stillness. And energy is just an indicator of how fast this evolution rate is.
+
+So when we say "the speed of light is an insurmountable limit," we are actually saying: **As part of the universe, your existence rate cannot exceed the universe's overall refresh rate.** You cannot run faster than the creator.
+
+This pure, colorless **stream of becoming** flowing at rate $c$ is the raw material of all things.
+
+But this stream of light alone is extremely boring. If the universe were just a single tone humming at a constant frequency, there would never be galaxies, nor life. To transform this monotonous "one" into the rich "many," this light must be broken. It must be observed, measured, **projected**.
+
+This leads to a crucial step in our journey: How do we magically conjure the reality of here and now from this abstract mathematical heartbeat?
+
+The answer lies in an ancient and mysterious geometric art—projection.
+
+---
+
+*（Next, we will enter section 2.2 "The Art of Projection," exploring how observers intervene in this light like a prism, and decompose the unified $c$ into the physical laws we are familiar with.）*
+

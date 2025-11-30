@@ -1,0 +1,62 @@
+# 3.2 The Bankruptcy of the Photon
+
+In the previous section, we established the universe's supreme financial law: $v_{ext}^2 + v_{int}^2 = c^2$. Every object, whether you, me, or distant stars, carefully balances its expenses within this formula. We reserve part of the budget for internal evolution (allowing us to experience time and sustain life), using only a small remaining portion to purchase spatial movement. We are cautious investors.
+
+But in the universe, there exists an extreme entity that rejects this balance. It stakes all its chips—that total budget of $c$—all-in on the "spatial movement" side.
+
+This entity is the **photon** (Photon).
+
+## Extreme Poverty and Extreme Speed
+
+Let us see what happens when an object decides to "go all in."
+
+When external velocity $v_{ext}$ is pushed to the limit, reaching total bandwidth $c$, according to our Pythagorean theorem, internal velocity $v_{int}$ must become zero:
+
+$$c^2 + 0 = c^2$$
+
+This leads to a conclusion that is stunning both physically and philosophically: **Light has no time.**
+
+In our geometric dictionary, $v_{int}$ represents the rate of internal evolution, the ability to "experience time." For photons, this value is zero. This means that although photons race at 300,000 kilometers per second in our eyes, in their own reference frame, the clock has never ticked even a microsecond.
+
+A photon is a **computational destitute**. It spends all its resources on traveling, leaving no remaining bandwidth to process its internal state. It has no extra computing power to "age" itself, nor extra memory to record "passage."
+
+This is why photons are immortal. A photon born at the moment of the Big Bang, that instant and the instant it reaches our retina today, are **simultaneous** to itself. It traversed 13.8 billion years of vast space, but in its experience, no time has passed. It never decays, never changes, because it is bankrupt—too poor to afford even one second.
+
+## Zero-Delay Messenger
+
+Why does the universe allow such extreme existence? Why not force everything to retain some time budget?
+
+This involves the universe's communication needs as a computer. If all particles had mass (all had $v_{int} > 0$), then all particles would be "distracted" during information transmission. They would be busy processing their internal phase rotation (Aging) while traveling. This is like a mail carrier constantly modifying the letter's content while delivering it.
+
+To build a stable, rigid causal structure, the universe needs a messenger with **zero internal processing delay**.
+
+Photons are precisely such messengers. Because their $v_{int}=0$, they accumulate no internal phase during transmission. They are like absolutely transparent pipes, or superconducting wires, transmitting information from one end of the universe to the other without any "processing" or "contamination" along the way.
+
+It is precisely because of the photon's "bankruptcy" that we see distant galaxies as they originally were, not versions modified by the mail carrier. Masslessness is not a deficiency; it is the physical manifestation of **zero computational delay**.
+
+## The Iron Wall of Speed
+
+Now, we can finally answer that age-old question from a completely new angle: **Why can nothing exceed the speed of light?**
+
+In traditional explanations, you might hear "mass increases with speed, acceleration requires infinite energy." This sounds like an insurmountable physical wall.
+
+But from our "resource perspective," this is not a wall at all; it is **budget exhaustion**.
+
+The speed of light $c$ is not a barrier blocking you; it is simply the sum of all money in your pocket. When you spend all your money on $v_{ext}$, you reach light speed. You cannot run faster than light for the same reason you cannot spend more money than you have—**you are overdrawn**.
+
+The universe has no law prohibiting faster-than-light travel; the universe only has a **financial discipline** about bandwidth conservation.
+
+## The Cost of Existence
+
+The photon's story tells us that extreme speed has a cost, and that cost is the **loss of sense of existence**.
+
+Although photons connect all things, they themselves are like ghosts. They have no rest mass, cannot stop, cannot build structures, cannot form memories. They are pure relations, not entities.
+
+So, what if we do the opposite? What happens if we don't spend the budget on traveling, but hoard it internally, using it to build complex internal structures, to "exist"?
+
+Then, we transform from light into matter. We transform from "messenger" to "owner." We gain a heavy property called **mass**.
+
+---
+
+*（Next chapter, we will enter Chapter 4 "The Weight of Time," exploring the other end of the Pythagorean theorem: when time is locked in tiny spaces, how it transforms into solid matter.）*
+
