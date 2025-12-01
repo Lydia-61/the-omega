@@ -65,6 +65,8 @@
 
 - [6.1 Horizons as Bottlenecks](volume06-gravity-and-traffic-control/chapter06-01-horizons-as-bottlenecks/chapter06-01-horizons-as-bottlenecks_en.md)
 - [6.2 Emergent Spacetime](volume06-gravity-and-traffic-control/chapter06-02-emergent-spacetime/chapter06-02-emergent-spacetime_en.md)
+- [6.3 The Universal Cold Storage](volume06-gravity-and-traffic-control/chapter06-03-the-universal-cold-storage/chapter06-03-the-universal-cold-storage_en.md)
+- [6.4 Routing Overhead](volume06-gravity-and-traffic-control/chapter06-04-routing-overhead/chapter06-04-routing-overhead_en.md)
 
 ### Volume 07: Computation & Complexity
 
@@ -72,6 +74,7 @@
 
 - [7.1 The Simulation Hypothesis](volume07-computation-and-complexity/chapter07-01-the-simulation-hypothesis/chapter07-01-the-simulation-hypothesis_en.md)
 - [7.2 Quantum Walks](volume07-computation-and-complexity/chapter07-02-quantum-walks/chapter07-02-quantum-walks_en.md)
+- [7.3 The Scrambling Protocol](volume07-computation-and-complexity/chapter07-03-the-scrambling-protocol/chapter07-03-the-scrambling-protocol_en.md)
 
 ### Volume 08: The Observer & Consciousness
 
@@ -79,6 +82,7 @@
 
 - [8.1 Biological Optimization](volume08-the-observer-and-consciousness/chapter08-01-biological-optimization/chapter08-01-biological-optimization_en.md)
 - [8.2 Clock Synchronization](volume08-the-observer-and-consciousness/chapter08-02-clock-synchronization/chapter08-02-clock-synchronization_en.md)
+- [8.3 Relative Horizons](volume08-the-observer-and-consciousness/chapter08-03-relative-horizons/chapter08-03-relative-horizons_en.md)
 
 ## Appendices
 
@@ -100,9 +104,9 @@
 
 ---
 
-> **System Status: Initializing...**
+**System Status: Initializing...**
 
-> **Documentation Version: 1.0 LTS**
+**Documentation Version: 1.0 LTS**
 
-> **Last Updated: Rolling Release**
+**Last Updated: Rolling Release**
 

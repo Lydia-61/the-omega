@@ -1,6 +1,6 @@
 # Preface: The Architect's Manifesto
 
-> **"Physics is no longer a grand edifice, but a pile of unmaintained legacy code. We need refactoring."**
+**"Physics is no longer a grand edifice, but a pile of unmaintained legacy code. We need refactoring."**
 
 ---
 
@@ -67,11 +67,11 @@ The book adopts a **dual-layer narrative structure**:
 
 Now, let us initiate the boot sequence and load **Volume Zero: Ontology and Axioms**.
 
-> **System Boot Sequence Initiated...**
+**System Boot Sequence Initiated...**
 
-> **Loading Kernel: Fubini-Study Metric... [OK]**
+**Loading Kernel: Fubini-Study Metric... [OK]**
 
-> **Checking Capacity Constraints... [OK]**
+**Checking Capacity Constraints... [OK]**
 
-> **Welcome to the Real World.**
+**Welcome to the Real World.**
 

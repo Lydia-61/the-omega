@@ -65,6 +65,8 @@
 
 - [6.1 视界即瓶颈 (Horizons as Bottlenecks)](volume06-gravity-and-traffic-control/chapter06-01-horizons-as-bottlenecks/chapter06-01-horizons-as-bottlenecks.md)
 - [6.2 涌现时空 (Emergent Spacetime)](volume06-gravity-and-traffic-control/chapter06-02-emergent-spacetime/chapter06-02-emergent-spacetime.md)
+- [6.3 宇宙的冷存储 (The Universal Cold Storage)](volume06-gravity-and-traffic-control/chapter06-03-the-universal-cold-storage/chapter06-03-the-universal-cold-storage.md)
+- [6.4 路由开销 (Routing Overhead)](volume06-gravity-and-traffic-control/chapter06-04-routing-overhead/chapter06-04-routing-overhead.md)
 
 ### 卷七：计算与复杂度 (Volume 07: Computation & Complexity)
 
@@ -72,6 +74,7 @@
 
 - [7.1 模拟假说 (The Simulation Hypothesis)](volume07-computation-and-complexity/chapter07-01-the-simulation-hypothesis/chapter07-01-the-simulation-hypothesis.md)
 - [7.2 量子行走 (Quantum Walks)](volume07-computation-and-complexity/chapter07-02-quantum-walks/chapter07-02-quantum-walks.md)
+- [7.3 扰动协议 (The Scrambling Protocol)](volume07-computation-and-complexity/chapter07-03-the-scrambling-protocol/chapter07-03-the-scrambling-protocol.md)
 
 ### 卷八：观察者与意识 (Volume 08: The Observer & Consciousness)
 
@@ -79,6 +82,7 @@
 
 - [8.1 生物优化 (Biological Optimization)](volume08-the-observer-and-consciousness/chapter08-01-biological-optimization/chapter08-01-biological-optimization.md)
 - [8.2 时钟同步 (Clock Synchronization)](volume08-the-observer-and-consciousness/chapter08-02-clock-synchronization/chapter08-02-clock-synchronization.md)
+- [8.3 相对视界 (Relative Horizons)](volume08-the-observer-and-consciousness/chapter08-03-relative-horizons/chapter08-03-relative-horizons.md)
 
 ## 附录 (Appendices)
 
@@ -100,9 +104,9 @@
 
 ---
 
-> **System Status: Initializing...**
+**System Status: Initializing...**
 
-> **Documentation Version: 1.0 LTS**
+**Documentation Version: 1.0 LTS**
 
-> **Last Updated: Rolling Release**
+**Last Updated: Rolling Release**
 

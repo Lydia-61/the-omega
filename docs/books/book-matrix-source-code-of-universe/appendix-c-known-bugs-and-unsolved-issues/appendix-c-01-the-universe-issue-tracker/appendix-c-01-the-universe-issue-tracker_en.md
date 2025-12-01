@@ -8,9 +8,11 @@
 
 ## 1. Overview: System Stability Report
 
-Although the FS-QCA architecture (Fubini-Study Geometry + Quantum Cellular Automata) successfully reconstructed major parts of special relativity, quantum mechanics, and thermodynamics, and eliminated serious errors like ultraviolet divergences, the current universe version (v1.0) is not flawless.
+Although the FS-QCA architecture (Fubini-Study Geometry + Quantum Cellular Automata) successfully reconstructed major parts of special relativity, quantum mechanics, and thermodynamics, and eliminated serious errors like ultraviolet divergences, the current universe version (v1.1) is not flawless.
 
 As honest architects, we list here the current **Known Issues**. These are the most stubborn mysteries at the frontiers of physics, and are **Bounty Tasks** left for future developers (that is, you reading this book).
+
+**Note:** In the v1.1 incremental patch, we have re-evaluated the status of some Issues. Certain phenomena long marked as "serious errors" have been reclassified as design features based on the new storage/computation separation architecture.
 
 ---
 
@@ -86,6 +88,52 @@ As honest architects, we list here the current **Known Issues**. These are the m
 
 ---
 
+## 5. Issue #EventHorizon: The Information Loss Paradox
+
+**—— Tags:** `WONTFIX` `By Design` `v1.1 Status Update`
+
+**—— Status Update:** `OPEN` $\to$ `WONTFIX` (By Design)
+
+* **Original Bug Description:**
+
+    After matter falls into a black hole, its quantum information seems to vanish into thin air. This violates the principle of unitarity, i.e., the law of information conservation. This was considered a serious kernel-level data loss Bug.
+
+* **Architect's Resolution:**
+
+    **This is not a Bug, this is a Feature.**
+
+    In Chapters 6.3 and 7.3, we confirmed that black holes are the system's **core dump** and **cold storage** regions.
+
+    * **Phenomenon Explanation:** Information is not lost; it is encrypted by the **fast scrambling** algorithm and stored holographically on the horizon surface.
+
+    * **Design Intent:** To prevent system crashes caused by local high-density nodes, these processes must be forcibly suspended. The horizon is a necessary **firewall**.
+
+    * **Data Recovery:** Data is eventually released through Hawking radiation (slow GC). Although "unreadable" for current users, it is complete for system logs.
+
+    * **Conclusion:** **Preserve horizon unidirectionality.** Allowing bidirectional access would cause causal law circular dependencies.
+
+---
+
+## 6. Issue #Singularity: The Singularity
+
+**—— Tags:** `MONITORED` `Managed Exception` `v1.1 Status Update`
+
+**—— Status Update:** `CRITICAL` $\to$ `MONITORED` (Managed Exception)
+
+* **Original Bug Description:**
+
+    General relativity predicts a point of infinite curvature at the center of a black hole. Code divides by zero here, causing a crash.
+
+* **Architect's Resolution:**
+
+    In the FS-QCA architecture, due to **Brillouin zone cutoff** (Chapter 2.2), physically there is no true infinitesimal point.
+
+    * **Correction Mechanism:** The singularity is actually a **maximum-density lattice core**. When data packets are compressed to the lattice limit (Planck scale), the system triggers **Pauli exclusion principle** or higher-order **quantum degeneracy pressure** to resist further compression.
+
+    * **Current Status:** Although mathematical formulas diverge in the continuous limit, in discrete runtime, it's just a **full load** storage cluster. The system can handle this boundary condition without crashing.
+
+---
+
 ## The Architect's Note
 
 ### On: Bug Bounty Program
@@ -105,6 +153,56 @@ This book (documentation) ends here. But the universe's operation continues.
 Your task is not to memorize this documentation, but to **Fork** it, to **Debug** it.
 
 **Git Push Origin Master.**
+
+---
+
+### Architect's Special Memo: The Lifecycle of Information
+
+**Subject:** Unified Memory Management Strategy for "Forgetting" and "Black Holes"
+
+**To:** All Sentient Observers
+
+---
+
+As an architect, I notice that many observers (especially carbon-based life forms) fear "forgetting" and are puzzled by "black holes." This stems from misunderstanding of the **Information Lifecycle**.
+
+In a universe with finite bandwidth ($c_{FS}$) and finite memory, **persistence** is expensive. To keep the system stable long-term, we designed two fundamentally different memory release mechanisms. Please distinguish them:
+
+#### **1. Active Release: Biological Forgetting**
+
+* **Operation Code:** `free(pointer)`
+
+* **Executor:** Local subsystem (life forms).
+
+* **Purpose:** **Performance Optimization**.
+
+    To maintain agile thinking (high $v_{int}$) and action (high $v_{ext}$) under finite bandwidth $c_{FS}$, you must sever unnecessary environmental entanglement (reduce $v_{env}$).
+
+    **Forgetting is a feature of wisdom.** Only by clearing the cache can you load new programs.
+
+#### **2. Forced Swap: Black Hole Archiving**
+
+* **Operation Code:** `swap_out(process)`
+
+* **Executor:** System kernel (gravity).
+
+* **Purpose:** **Disaster Recovery**.
+
+    When local information density exceeds physical limits and threatens system crash, the kernel forcibly intervenes. It **suspends** all processes in that region and serializes them onto the "horizon," this slow hard drive.
+
+    **Black holes are the universe's fuses.** They sacrifice local accessibility for global network stability.
+
+#### **Conclusion**
+
+* If you actively forget, you are **free** (retaining $v_{int}$).
+
+* If you refuse to forget and try to grab infinite information, the system will eventually forcibly "archive" you through gravitational collapse, and you become a **black hole** ($v_{int} \to 0$).
+
+In this operating system called the universe, **Flow** is far more important than **Hoarding**.
+
+Please stay light.
+
+---
 
 **End of Documentation.**
 

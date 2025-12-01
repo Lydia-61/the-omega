@@ -62,23 +62,23 @@ As a "barbarian" who broke into the physics sanctuary, Ma Haobo carries no histo
 
 ## 4. User Reviews
 
-> "$\star\star\star\star\star$ **Finally someone fixed that 'infinity' Bug!**
+"$\star\star\star\star\star$ **Finally someone fixed that 'infinity' Bug!**
 
-> Quantum field theory used to always cause memory overflow (divergence). After using this book's QCA patch, the system runs extremely stable. Highly recommended!"
+Quantum field theory used to always cause memory overflow (divergence). After using this book's QCA patch, the system runs extremely stable. Highly recommended!"
 
-> —— *Anonymous High-Energy Physics Graduate Student*
+—— *Anonymous High-Energy Physics Graduate Student*
 
-> "$\star\star\star\star\star$ **God is a Programmer.**
+"$\star\star\star\star\star$ **God is a Programmer.**
 
-> I always found relativistic time dilation hard to understand, until the author told me it's 'CPU throttling.' Now physics is as clear as an API document to me."
+I always found relativistic time dilation hard to understand, until the author told me it's 'CPU throttling.' Now physics is as clear as an API document to me."
 
-> —— *Senior Backend Architect*
+—— *Senior Backend Architect*
 
-> "$\star\star\star\star\star$ **Documentation is hardcore, but worth reading.**
+"$\star\star\star\star\star$ **Documentation is hardcore, but worth reading.**
 
-> Warning: After reading this book, you may find yourself wanting to find the universe's command line console."
+Warning: After reading this book, you may find yourself wanting to find the universe's command line console."
 
-> —— *The Oracle*
+—— *The Oracle*
 
 -----
 

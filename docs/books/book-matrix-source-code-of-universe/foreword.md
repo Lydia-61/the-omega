@@ -1,6 +1,6 @@
 # 前言：架构师的宣言 (Preface: The Architect's Manifesto)
 
-> **"物理学已经不是一座大厦，而是一堆不再维护的遗留代码（Legacy Code）。我们需要重构。"**
+**"物理学已经不是一座大厦，而是一堆不再维护的遗留代码（Legacy Code）。我们需要重构。"**
 
 ---
 
@@ -67,11 +67,11 @@
 
 现在，让我们启动引导程序，加载 **卷零：本体与公理**。
 
-> **System Boot Sequence Initiated...**
+**System Boot Sequence Initiated...**
 
-> **Loading Kernel: Fubini-Study Metric... [OK]**
+**Loading Kernel: Fubini-Study Metric... [OK]**
 
-> **Checking Capacity Constraints... [OK]**
+**Checking Capacity Constraints... [OK]**
 
-> **Welcome to the Real World.**
+**Welcome to the Real World.**
 
