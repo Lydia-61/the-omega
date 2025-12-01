@@ -85,3 +85,4 @@ If any of these effects are confirmed, physics will undergo a paradigm shift. We
 Although we cannot touch hardware, we can outline the supercomputer running us through these "bugs." It not only explains the world, but also hints at what engineering trade-offs the **designer** behind this machine faced.
 
 
+

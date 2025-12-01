@@ -61,3 +61,4 @@ Understanding this, we understand why dark matter must exist. If the universe is
 *(Author's Note: This chapter starts from physical mechanisms and ultimately rises to the philosophical theme of the book—the cosmic mind metaphor. This sets the stage for subsequent discussions on "consciousness geometry.")*
 
 
+

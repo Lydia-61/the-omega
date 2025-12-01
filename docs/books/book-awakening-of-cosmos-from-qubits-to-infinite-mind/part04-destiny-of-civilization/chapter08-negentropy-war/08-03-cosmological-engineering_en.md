@@ -69,3 +69,4 @@ By restarting the Big Bang, we will inscribe life's code into the underlying log
 *(Author's Note: At this point, Part IV "The Destiny of Civilization" concludes. Starting from Fermi Paradox, we deduced implosion, virtual ascension, until cosmological engineering. We see that intelligent life has the potential to evolve from passive observers to active constructors. Next, we will enter the final part of the book—Part V: Return and Transcendence, to explore ultimate questions that transcend physics, even transcend logic.)*
 
 
+

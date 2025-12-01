@@ -59,3 +59,4 @@ In the gravitational fields of these black holes, **"independent thinking" requi
 The charm of leaders is essentially the enormous spacetime curvature they create in semantic space. They don't need to force you; they merely bend the paths your thoughts walk.
 
 
+

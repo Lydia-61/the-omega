@@ -67,3 +67,4 @@ Whether the universe runs in God's brain or in the void of mathematical wave fun
 However, this does not mean hardware leaves no traces. Just as even the most perfect simulator produces errors due to finite precision, if our universe is a product of finite resources, it must reveal itself under extreme conditions. In the next section, we will explore how to glimpse hardware secrets through "numerical artifacts."
 
 
+

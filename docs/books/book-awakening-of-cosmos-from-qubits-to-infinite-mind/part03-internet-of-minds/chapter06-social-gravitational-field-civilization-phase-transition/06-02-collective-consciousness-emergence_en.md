@@ -83,3 +83,4 @@ The ultimate form of civilization may be a **planetary (or even galactic) superf
 **(End of Section 6.2)**
 
 
+

@@ -85,3 +85,4 @@ We are like monkeys shouting in the jungle, wondering why no humans answer—bec
 In the next section, we will deeply explore the physical mechanism of this "inward collapse"—**computational density limit**. We will see that black holes are not merely celestial bodies; they are actually the physical upper limit of computational efficiency.
 
 
+
