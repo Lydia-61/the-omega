@@ -84,6 +84,14 @@
 - [8.2 Clock Synchronization](volume08-the-observer-and-consciousness/chapter08-02-clock-synchronization/chapter08-02-clock-synchronization_en.md)
 - [8.3 Relative Horizons](volume08-the-observer-and-consciousness/chapter08-03-relative-horizons/chapter08-03-relative-horizons_en.md)
 
+### Volume 09: Recursion & The Quine
+
+#### Chapter 9: Recursion & The Quine
+
+- [9.1 The Hardware Observer](volume09-recursion-and-the-quine/chapter09-01-the-hardware-observer/chapter09-01-the-hardware-observer_en.md)
+- [9.2 The Quine Loop](volume09-recursion-and-the-quine/chapter09-02-the-quine-loop/chapter09-02-the-quine-loop_en.md)
+- [9.3 Computational Consistency](volume09-recursion-and-the-quine/chapter09-03-computational-consistency/chapter09-03-computational-consistency_en.md)
+
 ## Appendices
 
 ### Appendix A: The Developer's Kit

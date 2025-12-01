@@ -84,6 +84,14 @@
 - [8.2 时钟同步 (Clock Synchronization)](volume08-the-observer-and-consciousness/chapter08-02-clock-synchronization/chapter08-02-clock-synchronization.md)
 - [8.3 相对视界 (Relative Horizons)](volume08-the-observer-and-consciousness/chapter08-03-relative-horizons/chapter08-03-relative-horizons.md)
 
+### 卷九：递归与奎恩 (Volume 09: Recursion & The Quine)
+
+#### 第九章：递归与奎恩
+
+- [9.1 硬件观察者 (The Hardware Observer)](volume09-recursion-and-the-quine/chapter09-01-the-hardware-observer/chapter09-01-the-hardware-observer.md)
+- [9.2 奎恩闭环 (The Quine Loop)](volume09-recursion-and-the-quine/chapter09-02-the-quine-loop/chapter09-02-the-quine-loop.md)
+- [9.3 计算一致性 (Computational Consistency)](volume09-recursion-and-the-quine/chapter09-03-computational-consistency/chapter09-03-computational-consistency.md)
+
 ## 附录 (Appendices)
 
 ### 附录 A：开发者工具箱 (Appendix A: The Developer's Kit)
