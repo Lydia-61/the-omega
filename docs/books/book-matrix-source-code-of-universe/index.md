@@ -88,19 +88,23 @@
 
 ### 附录 A：开发者工具箱 (Appendix A: The Developer's Kit)
 
-- [A.1 FS-API 参考手册 (The FS-API Reference)](appendix-a-developers-kit/appendix-a-01-fs-api-reference/appendix-a-01-fs-api-reference.md)
+- [A.1 FS-API 参考手册 (The FS-API Reference)](appendices/appendix-a-01-fs-api-reference.md)
 
 ### 附录 B：扩展编写指南 (Appendix B: Writing Extensions)
 
-- [B.1 如何定义新的物理扇区 (How to Define New Physical Sectors)](appendix-b-writing-extensions/appendix-b-01-how-to-define-new-physical-sectors/appendix-b-01-how-to-define-new-physical-sectors.md)
+- [B.1 如何定义新的物理扇区 (How to Define New Physical Sectors)](appendices/appendix-b-01-how-to-define-new-physical-sectors.md)
 
 ### 附录 C：已知问题与待解决事项 (Appendix C: Known Bugs & Unsolved Issues)
 
-- [C.1 宇宙 Issue 追踪器 (The Universe Issue Tracker)](appendix-c-known-bugs-and-unsolved-issues/appendix-c-01-the-universe-issue-tracker/appendix-c-01-the-universe-issue-tracker.md)
+- [C.1 宇宙 Issue 追踪器 (The Universe Issue Tracker)](appendices/appendix-c-01-the-universe-issue-tracker.md)
 
 ### 附录 D：参考文献与致谢 (Appendix D: References & Acknowledgments)
 
-- [D.1 核心代码库与依赖项 (The Kernel Source & Dependencies)](appendix-d-references-and-acknowledgments/appendix-d-01-the-kernel-source-and-dependencies/appendix-d-01-the-kernel-source-and-dependencies.md)
+- [D.1 核心代码库与依赖项 (The Kernel Source & Dependencies)](appendices/appendix-d-01-the-kernel-source-and-dependencies.md)
+
+### 附录 E：系统架构图 (Appendix E: System Architecture)
+
+- [E.1 宇宙内核架构图 (The Universe Kernel Architecture Diagram)](appendices/appendix-e-01-the-universe-kernel-architecture-diagram.md)
 
 ---
 

@@ -88,19 +88,23 @@
 
 ### Appendix A: The Developer's Kit
 
-- [A.1 The FS-API Reference](appendix-a-developers-kit/appendix-a-01-fs-api-reference/appendix-a-01-fs-api-reference_en.md)
+- [A.1 The FS-API Reference](appendices/appendix-a-01-fs-api-reference_en.md)
 
 ### Appendix B: Writing Extensions
 
-- [B.1 How to Define New Physical Sectors](appendix-b-writing-extensions/appendix-b-01-how-to-define-new-physical-sectors/appendix-b-01-how-to-define-new-physical-sectors_en.md)
+- [B.1 How to Define New Physical Sectors](appendices/appendix-b-01-how-to-define-new-physical-sectors_en.md)
 
 ### Appendix C: Known Bugs & Unsolved Issues
 
-- [C.1 The Universe Issue Tracker](appendix-c-known-bugs-and-unsolved-issues/appendix-c-01-the-universe-issue-tracker/appendix-c-01-the-universe-issue-tracker_en.md)
+- [C.1 The Universe Issue Tracker](appendices/appendix-c-01-the-universe-issue-tracker_en.md)
 
 ### Appendix D: References & Acknowledgments
 
-- [D.1 The Kernel Source & Dependencies](appendix-d-references-and-acknowledgments/appendix-d-01-the-kernel-source-and-dependencies/appendix-d-01-the-kernel-source-and-dependencies_en.md)
+- [D.1 The Kernel Source & Dependencies](appendices/appendix-d-01-the-kernel-source-and-dependencies_en.md)
+
+### Appendix E: System Architecture
+
+- [E.1 The Universe Kernel Architecture Diagram](appendices/appendix-e-01-the-universe-kernel-architecture-diagram_en.md)
 
 ---
 
