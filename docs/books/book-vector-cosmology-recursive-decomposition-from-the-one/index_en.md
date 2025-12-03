@@ -2,6 +2,12 @@
 
 **Subtitle: The Recursive Decomposition from The One**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./Reality_Source_Code.pdf) | [▶️ Video](https://youtu.be/iuL9v3yQb0c)
+
 ## Version Information
 
 **Version:** 1.0

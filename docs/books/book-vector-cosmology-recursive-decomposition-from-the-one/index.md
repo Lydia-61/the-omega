@@ -2,6 +2,12 @@
 
 **副标题：Vector Cosmology: The Recursive Decomposition from The One**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Reality_Source_Code.pdf) | [▶️ 视频](https://youtu.be/iuL9v3yQb0c)
+
 ## 版本信息
 
 **Version:** 1.0
