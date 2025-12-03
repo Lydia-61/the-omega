@@ -2,6 +2,12 @@
 
 **Subtitle: 矢量宇宙论 III：自然的生成元**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./The_Natural_Generator.pdf) | [▶️ Video](https://youtu.be/ZPxuL_BLQJ4)
+
 ## Version Information
 
 **Version:** 1.0

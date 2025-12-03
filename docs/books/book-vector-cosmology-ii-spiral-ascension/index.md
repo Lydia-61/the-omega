@@ -2,6 +2,12 @@
 
 **副标题：Vector Cosmology II: The Ascension of The Spiral**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Circle_Spiral_Synthesis.pdf) | [▶️ 视频](https://youtu.be/QvmBQj61BEc)
+
 ## 版本信息
 
 **Version:** 1.0

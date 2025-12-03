@@ -2,6 +2,12 @@
 
 **副标题：Vector Cosmology III: The Natural Generator**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./The_Natural_Generator.pdf) | [▶️ 视频](https://youtu.be/ZPxuL_BLQJ4)
+
 ## 版本信息
 
 **Version:** 1.0

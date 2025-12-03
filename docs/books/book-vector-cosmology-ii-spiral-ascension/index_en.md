@@ -2,6 +2,12 @@
 
 **Subtitle: 矢量宇宙论 II：螺旋的飞升**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./Circle_Spiral_Synthesis.pdf) | [▶️ Video](https://youtu.be/QvmBQj61BEc)
+
 ## Version Information
 
 **Version:** 1.0
