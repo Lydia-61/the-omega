@@ -49,6 +49,57 @@
 - [6.2 The Complex Origami](chapter06-curled-dimensions/chapter06-02-complex-origami_en.md)
 - [6.3 The Transaction of Forces](chapter06-curled-dimensions/chapter06-03-transaction-of-forces_en.md)
 
+### Chapter 7: The Holographic Pi Code
+
+- [7.1 The Levinson Knot](chapter07-holographic-pi-code/chapter07-01-levinson-knot_en.md)
+- [7.2 All Information is in the Circle](chapter07-holographic-pi-code/chapter07-02-all-information-in-circle_en.md)
+- [7.3 Matter as Counting](chapter07-holographic-pi-code/chapter07-03-matter-as-counting_en.md)
+
+### Chapter 8: Matter as Topology
+
+- [8.1 Geometry in Energy Space](chapter08-matter-as-topology/chapter08-01-geometry-in-energy-space_en.md)
+- [8.2 The Meaning of Time Delay](chapter08-matter-as-topology/chapter08-02-meaning-of-time-delay_en.md)
+- [8.3 The Antidote to Negative Time](chapter08-matter-as-topology/chapter08-03-antidote-to-negative-time_en.md)
+
+### Chapter 9: The Forgotten Sector
+
+- [9.1 The Perfect Circle Ruptured](chapter09-forgotten-sector/chapter09-01-perfect-circle-ruptured_en.md)
+- [9.2 The Invisible Tax](chapter09-forgotten-sector/chapter09-02-invisible-tax_en.md)
+- [9.3 The Thermodynamic Arrow](chapter09-forgotten-sector/chapter09-03-thermodynamic-arrow_en.md)
+
+### Chapter 10: The Counter-Flow Circle: Life
+
+- [10.1 The Negentropy Enclave](chapter10-counter-flow-circle-life/chapter10-01-negentropy-enclave_en.md)
+- [10.2 The Entropic Speed Limit Axiom](chapter10-counter-flow-circle-life/chapter10-02-entropic-speed-limit-axiom_en.md)
+
+### Chapter 11: The Observer: Self-Reference
+
+- [11.1 The Recursive Loop](chapter11-observer-self-reference/chapter11-01-recursive-loop_en.md)
+- [11.2 Collapse and Audit](chapter11-observer-self-reference/chapter11-02-collapse-and-audit_en.md)
+
+### Chapter 12: Epilogue: The Return to One
+
+- [12.1 My Mind is the Universe](chapter12-epilogue-return-to-one/chapter12-01-my-mind-is-the-universe_en.md)
+- [12.2 The Dao is the Circle](chapter12-epilogue-return-to-one/chapter12-02-the-dao-is-the-circle_en.md)
+- [12.3 The Final Manifesto](chapter12-epilogue-return-to-one/chapter12-03-the-final-manifesto_en.md)
+
+## Appendices
+
+- [Appendix A: Fubini-Study Metric and Velocity Formula](appendix/appendix-a-fubini-study-metric-and-velocity-formula_en.md)
+- [Appendix B: Geometric Derivation of Quantum Speed Limits](appendix/appendix-b-geometric-derivation-of-quantum-speed-limits_en.md)
+- [Appendix C: Entropic Speed Limit: Detailed Derivation](appendix/appendix-c-entropic-speed-limit-detailed-derivation_en.md)
+- [Appendix D: QCA Realisation and Lieb-Robinson Bounds](appendix/appendix-d-qca-realisation-and-lieb-robinson-bounds_en.md)
+- [Appendix E: Narrow-Band Scattering and FS Distance Derivation](appendix/appendix-e-narrow-band-scattering-and-fs-distance-derivation_en.md)
+- [Appendix F: FS-Levinson Relation and Topological Counting](appendix/appendix-f-fs-levinson-relation-and-topological-counting_en.md)
+
+## Bibliography
+
+- [Bibliography](bibliography_en.md)
+
+## Glossary
+
+- [Glossary of Terms](glossary_en.md)
+
 ---
 
 **Documentation Version: 1.0**

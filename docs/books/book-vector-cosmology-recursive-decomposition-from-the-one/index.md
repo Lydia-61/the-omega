@@ -49,6 +49,57 @@
 - [6.2 复杂的折纸 (The Complex Origami)](chapter06-curled-dimensions/chapter06-02-complex-origami.md)
 - [6.3 力的交易 (The Transaction of Forces)](chapter06-curled-dimensions/chapter06-03-transaction-of-forces.md)
 
+### 第7章：$\pi$ 的全息代码
+
+- [7.1 莱文森之结 (The Levinson Knot)](chapter07-holographic-pi-code/chapter07-01-levinson-knot.md)
+- [7.2 所有的信息都在圆中 (All Information is in the Circle)](chapter07-holographic-pi-code/chapter07-02-all-information-in-circle.md)
+- [7.3 物质即计数 (Matter as Counting)](chapter07-holographic-pi-code/chapter07-03-matter-as-counting.md)
+
+### 第8章：物质即拓扑
+
+- [8.1 能量空间的几何 (Geometry in Energy Space)](chapter08-matter-as-topology/chapter08-01-geometry-in-energy-space.md)
+- [8.2 时间延迟的意义 (The Meaning of Time Delay)](chapter08-matter-as-topology/chapter08-02-meaning-of-time-delay.md)
+- [8.3 负时间的解毒剂 (The Antidote to Negative Time)](chapter08-matter-as-topology/chapter08-03-antidote-to-negative-time.md)
+
+### 第9章：被遗忘的扇区
+
+- [9.1 完美的圆破裂了 (The Perfect Circle Ruptured)](chapter09-forgotten-sector/chapter09-01-perfect-circle-ruptured.md)
+- [9.2 隐形税收 (The Invisible Tax)](chapter09-forgotten-sector/chapter09-02-invisible-tax.md)
+- [9.3 热力学之箭 (The Thermodynamic Arrow)](chapter09-forgotten-sector/chapter09-03-thermodynamic-arrow.md)
+
+### 第10章：逆流的圆：生命
+
+- [10.1 负熵飞地 (The Negentropy Enclave)](chapter10-counter-flow-circle-life/chapter10-01-negentropy-enclave.md)
+- [10.2 熵限速公理 (The Entropic Speed Limit Axiom)](chapter10-counter-flow-circle-life/chapter10-02-entropic-speed-limit-axiom.md)
+
+### 第11章：观察者：宇宙的自指
+
+- [11.1 递归的闭环 (The Recursive Loop)](chapter11-observer-self-reference/chapter11-01-recursive-loop.md)
+- [11.2 坍缩与审计 (Collapse and Audit)](chapter11-observer-self-reference/chapter11-02-collapse-and-audit.md)
+
+### 第12章：归一
+
+- [12.1 我心即宇宙 (My Mind is the Universe)](chapter12-epilogue-return-to-one/chapter12-01-my-mind-is-the-universe.md)
+- [12.2 道即是圆 (The Dao is the Circle)](chapter12-epilogue-return-to-one/chapter12-02-the-dao-is-the-circle.md)
+- [12.3 终极宣言 (The Final Manifesto)](chapter12-epilogue-return-to-one/chapter12-03-the-final-manifesto.md)
+
+## 附录
+
+- [附录 A：Fubini-Study 度量与速度公式 (Appendix A: Fubini-Study Metric and Velocity Formula)](appendix/appendix-a-fubini-study-metric-and-velocity-formula.md)
+- [附录 B：量子速度极限的几何推导 (Appendix B: Geometric Derivation of Quantum Speed Limits)](appendix/appendix-b-geometric-derivation-of-quantum-speed-limits.md)
+- [附录 C：熵速极限的详细推导 (Appendix C: Entropic Speed Limit: Detailed Derivation)](appendix/appendix-c-entropic-speed-limit-detailed-derivation.md)
+- [附录 D：QCA 实现与 Lieb-Robinson 界 (Appendix D: QCA Realisation and Lieb-Robinson Bounds)](appendix/appendix-d-qca-realisation-and-lieb-robinson-bounds.md)
+- [附录 E：窄带散射与 FS 距离推导 (Appendix E: Narrow-Band Scattering and FS Distance Derivation)](appendix/appendix-e-narrow-band-scattering-and-fs-distance-derivation.md)
+- [附录 F：FS-莱文森关系与拓扑计数 (Appendix F: FS-Levinson Relation and Topological Counting)](appendix/appendix-f-fs-levinson-relation-and-topological-counting.md)
+
+## 参考文献
+
+- [参考文献 (Bibliography)](bibliography.md)
+
+## 术语表
+
+- [术语表 (Glossary of Terms)](glossary.md)
+
 ---
 
 **Documentation Version: 1.0**
