@@ -523,6 +523,12 @@
     - [Epilogue: The I/O of The Universe](./books/book-matrix-source-code-of-universe/epilogue/epilogue_en.md)
     - [Afterword](./books/book-matrix-source-code-of-universe/afterword_en.md)
 
+- [Vector Cosmology: The Recursive Decomposition from The One (EN)](./books/book-vector-cosmology-recursive-decomposition-from-the-one/index_en.md)
+    - [Prologue: The Wuji](./books/book-vector-cosmology-recursive-decomposition-from-the-one/prologue_en.md)
+    - [Chapter 1: In the Beginning was the Circle]()
+        - [1.1 The First Orthogonal Decomposition](./books/book-vector-cosmology-recursive-decomposition-from-the-one/chapter01-in-the-beginning-was-the-circle/chapter01-in-the-beginning-was-the-circle_en.md)
+        - [1.2 The Pythagorean Echo of the Universe](./books/book-vector-cosmology-recursive-decomposition-from-the-one/chapter01-in-the-beginning-was-the-circle/chapter01-in-the-beginning-was-the-circle_en.md#12-the-pythagorean-echo-of-the-universe)
+
 - [物理基础：几何与信息](./books/book-foundation-of-phys-in-geo-and-info/index.md)
     - [前言：重构实在的算法与几何](./books/book-foundation-of-phys-in-geo-and-info/foreword.md)
     - [第一卷：离散本体论 —— 信息的物理基础]()
@@ -1084,3 +1090,9 @@
             - [E.1 宇宙内核架构图 (The Universe Kernel Architecture Diagram)](./books/book-matrix-source-code-of-universe/appendices/appendix-e-01-the-universe-kernel-architecture-diagram.md)
     - [终章：宇宙的 I/O](./books/book-matrix-source-code-of-universe/epilogue/epilogue.md)
     - [后记](./books/book-matrix-source-code-of-universe/afterword.md)
+
+- [矢量宇宙论：从"一"开始的递归分解](./books/book-vector-cosmology-recursive-decomposition-from-the-one/index.md)
+    - [序言：无极](./books/book-vector-cosmology-recursive-decomposition-from-the-one/prologue.md)
+    - [第1章：太初有圆]()
+        - [1.1 第一次正交分解](./books/book-vector-cosmology-recursive-decomposition-from-the-one/chapter01-in-the-beginning-was-the-circle/chapter01-in-the-beginning-was-the-circle.md)
+        - [1.2 毕达哥拉斯的宇宙回响](./books/book-vector-cosmology-recursive-decomposition-from-the-one/chapter01-in-the-beginning-was-the-circle/chapter01-in-the-beginning-was-the-circle.md#12-毕达哥拉斯的宇宙回响-the-pythagorean-echo-of-the-universe)
