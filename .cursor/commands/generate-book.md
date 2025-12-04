@@ -11,7 +11,12 @@ This document provides detailed instructions for converting English Markdown fil
    ```bash
    brew install pandoc  # macOS
    ```
-3. **Python 3**: For any helper scripts (if needed)
+3. **latexpand**: Usually included with LaTeX distributions. If not available, install via:
+   ```bash
+   # On macOS with MacTeX, it's included
+   # On Linux with TeX Live, install texlive-extra-utils
+   ```
+4. **Python 3**: For any helper scripts (if needed)
 
 ## Book Directory Structure
 
@@ -215,25 +220,55 @@ Create a main `.tex` file (e.g., `book-name.tex`) with the following structure:
 
 ### Step 5: Compile EPUB
 
-1. Check if pandoc is installed:
+**Important**: Pandoc cannot directly process LaTeX `\include{}` and `\input{}` commands. You must first merge all included files into a single LaTeX file using `latexpand`.
+
+1. Check if required tools are installed:
    ```bash
    which pandoc
+   which latexpand
    ```
 
-2. Convert LaTeX to EPUB:
+2. Merge all LaTeX files into a single file:
    ```bash
-   pandoc book-name.tex -o book-name.epub \
+   cd /path/to/book-directory
+   latexpand book-name.tex > book-name-merged.tex
+   ```
+   
+   **Note**: If `latexpand` reports errors, check the merged file and fix any syntax issues (e.g., extra braces, unclosed math mode).
+
+3. Convert merged LaTeX file to EPUB:
+   ```bash
+   pandoc book-name-merged.tex -o book-name.epub \
+     --from=latex+raw_tex \
+     --to=epub3 \
      --metadata title="Book Title" \
      --metadata author="Author Name" \
-     --metadata subtitle="Subtitle (if any)" \
      --toc --toc-depth=3 \
      --mathml
    ```
+   
+   **Key options**:
+   - `--from=latex+raw_tex`: Enables raw LaTeX processing for better compatibility
+   - `--to=epub3`: Generates EPUB3 format
+   - `--mathml`: Ensures math formulas are properly rendered
 
-3. Verify EPUB generation:
+4. Verify EPUB generation:
    ```bash
    ls -lh book-name.epub
    ```
+   
+   **Check file size**: The EPUB should be significantly larger than a few KB (typically 50KB+ for a complete book). If the file is too small (e.g., < 20KB), it likely means content wasn't included properly.
+
+5. Clean up temporary merged file:
+   ```bash
+   rm book-name-merged.tex
+   ```
+
+#### 5.1 Common EPUB Generation Issues
+
+- **EPUB file too small (< 20KB)**: This usually means `\include{}` and `\input{}` commands weren't processed. Use `latexpand` to merge files first.
+- **Pandoc parsing errors**: Check the merged LaTeX file for syntax errors (extra braces, unclosed math mode, etc.) and fix them before regenerating EPUB.
+- **Missing content in EPUB**: Verify that all included `.tex` files exist and are readable.
 
 ## Conversion Guidelines
 
@@ -263,7 +298,7 @@ Before finalizing, verify:
 - [ ] Main LaTeX file includes all parts, chapters, and appendices
 - [ ] PDF compiles without errors
 - [ ] Table of contents is generated correctly
-- [ ] EPUB file is generated successfully
+- [ ] EPUB file is generated successfully and has reasonable size (> 50KB for a complete book)
 - [ ] All images are included (if any)
 - [ ] Mathematical formulas render correctly
 - [ ] Special characters are properly escaped
@@ -290,11 +325,20 @@ find . -name "*_en.md" -type f | sort
 pdflatex book-name.tex
 pdflatex book-name.tex
 
-# 6. Compile EPUB
-pandoc book-name.tex -o book-name.epub \
+# 6. Merge LaTeX files for EPUB generation
+latexpand book-name.tex > book-name-merged.tex
+
+# 7. Compile EPUB
+pandoc book-name-merged.tex -o book-name.epub \
+  --from=latex+raw_tex \
+  --to=epub3 \
   --metadata title="Book Title" \
   --metadata author="Author Name" \
-  --toc --toc-depth=3 --mathml
+  --toc --toc-depth=3 \
+  --mathml
+
+# 8. Clean up
+rm book-name-merged.tex
 ```
 
 ## Notes

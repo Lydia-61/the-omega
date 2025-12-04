@@ -71,6 +71,10 @@
 - [9.2 The Final Formula (最后的公式)](chapter09-self-caused/chapter09-02-final-formula_en.md)
 - [9.3 The Ultimate State (终极状态)](chapter09-self-caused/chapter09-03-ultimate-state_en.md)
 
+### Bonus Chapter
+
+- [Bonus Chapter: The Riemann Hypothesis — The Cosmic Balance Beam (番外篇：黎曼猜想——宇宙的平衡木)](bonus-riemann-hypothesis/bonus-riemann-hypothesis_en.md)
+
 ## Appendices
 
 - [Appendix A: The Mathematics of Modular Time (模时间的数学原理)](appendix-a-modular-time-mathematics/appendix-a-mathematics-of-modular-time_en.md)
