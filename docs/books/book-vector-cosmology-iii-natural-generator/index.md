@@ -80,6 +80,7 @@
 - [附录 A：模时间的数学原理 (Appendix A: The Mathematics of Modular Time)](appendix-a-modular-time-mathematics/appendix-a-mathematics-of-modular-time.md)
 - [附录 B：信息几何与对数度量 (Appendix B: Information Geometry and Logarithmic Metric)](appendix-b-information-geometry-logarithmic-metric/appendix-b-information-geometry-logarithmic-metric.md)
 - [附录 C：李代数与指数映射 (Appendix C: Lie Algebras and the Exponential Map)](appendix-c-lie-algebras-exponential-map/appendix-c-lie-algebras-exponential-map.md)
+- [附录 D：演化方程与宇宙坐标 (Appendix D: The Evolution Equation and Cosmic Coordinates)](appendix-d-evolution-equation-cosmic-coordinates/appendix-d-evolution-equation-cosmic-coordinates.md)
 
 ## 致谢
 
