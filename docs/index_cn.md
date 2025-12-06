@@ -56,7 +56,7 @@
 
 ## 📚 核心著作导读
 
-本项目包含十三部核心著作，从抽象公理推导到物理实在。
+本项目包含十五部核心著作，从抽象公理推导到物理实在。
 
 ### [📘 第一部：几何与信息中的物理基础 (Book 1)](./books/book-foundation-of-phys-in-geo-and-info/index.md)
 *建立五卷本框架的原始手稿。*
@@ -183,10 +183,30 @@
 [📥 PDF](./books/book-vector-cosmology-v-minting-of-time/Minting_Time_The_Alchemist_s_Rebellion.pdf) | [▶️ 视频](https://youtu.be/kfAHuCDQPBk)
 
 <p align="center">
-  <img src="./books/book-vector-cosmology-v-minting-of-time/architecture.png" alt="第十三部架构图" width="50%">
+  <img src="./books/book-vector-cosmology-v-minting-of-time/architecture-thumb.png" alt="第十三部架构图" width="50%">
 </p>
 
 **卷次**：货币——$c_{FS}$ 的流通 → 幻影——Omega 的真相 → 晶体——对数与永生 → 丰碑——金的意志 → 拒绝——无限的游戏 → 连续——记忆的永不中断 → 终章：见证——最后的守望者
+
+### [📗 第十四部：矢量宇宙论 VI：维度的编织 (Book 14)](./books/book-vector-cosmology-vi-weaving-of-dimensions/index.md)
+*矢量宇宙论系列的第六部，探讨全息纠缠与时空的涌现。*
+[📥 PDF](./books/book-vector-cosmology-vi-weaving-of-dimensions/Stitch_the_Stars.pdf) | [▶️ 视频](https://youtu.be/qgwaTToh4Gs)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-vi-weaving-of-dimensions/architecture-thumb.png" alt="第十四部架构图" width="50%">
+</p>
+
+**卷次**：织机——纠缠的几何 → 协议——全息纠错码 → 张力——引力的热力学 → 断裂——奇点与火墙 → 缝合——虫洞工程学
+
+### [📙 第十五部：矢量宇宙论 VII：因果的闭环 (Book 15)](./books/book-vector-cosmology-vii-loop-of-causality/index.md)
+*矢量宇宙论系列的第七部，探讨逆向时间与宿命的重写。*
+[📥 PDF](./books/book-vector-cosmology-vii-loop-of-causality/The_Ouroboros_Protocol.pdf) | [▶️ 视频](https://youtu.be/iygx9QDBivk)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-vii-loop-of-causality/architecture-thumb.png" alt="第十五部架构图" width="50%">
+</p>
+
+**卷次**：逆行——未来的回响 → 共时性——非因果的连接 → 闭环——引导自举 → 重写——编辑时间线 → 镜像——单一玩家 → 终章：握手——这一刻
 
 ---
 

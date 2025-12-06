@@ -2,6 +2,14 @@
 
 **Subtitle: Retro-causality and the Rewriting of Fate**
 
+**矢量宇宙论 VII：因果的闭环**
+
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF](./The_Ouroboros_Protocol.pdf) | [▶️ Video](https://youtu.be/iygx9QDBivk)
+
 ## Version Information
 
 **Version:** 1.0

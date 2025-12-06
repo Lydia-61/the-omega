@@ -4,6 +4,12 @@
 
 **矢量宇宙论 VI：维度的编织**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 Download PDF](./Stitch_the_Stars.pdf) | [▶️ Video](https://youtu.be/qgwaTToh4Gs)
+
 ## Version Information
 
 **Version:** 1.0

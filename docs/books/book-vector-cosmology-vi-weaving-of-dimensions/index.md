@@ -4,6 +4,12 @@
 
 **Vector Cosmology VI: The Weaving of Dimensions**
 
+<p align="center">
+  <img src="./architecture.png" alt="The Omega Architecture" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Stitch_the_Stars.pdf) | [▶️ 视频](https://youtu.be/qgwaTToh4Gs)
+
 ## 版本信息
 
 **Version:** 1.0

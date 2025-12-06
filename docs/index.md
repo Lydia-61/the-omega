@@ -56,7 +56,7 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-This project hosts thirteen core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts fifteen core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -183,10 +183,30 @@ This project hosts thirteen core texts, tracing the derivation from abstract axi
 [📥 PDF](./books/book-vector-cosmology-v-minting-of-time/Minting_Time_The_Alchemist_s_Rebellion.pdf) | [▶️ Video](https://youtu.be/kfAHuCDQPBk)
 
 <p align="center">
-  <img src="./books/book-vector-cosmology-v-minting-of-time/architecture.png" alt="Book 13 Architecture" width="50%">
+  <img src="./books/book-vector-cosmology-v-minting-of-time/architecture-thumb.png" alt="Book 13 Architecture" width="50%">
 </p>
 
 **Volumes**: Currency — The Circulation of $c_{FS}$ → Phantom — The Truth of Omega → Crystal — Logarithm and Immortality → Monument — The Will of Gold → Rejection — The Infinite Game → Continuity — The Non-Interruption of Memory → Epilogue: Witness — The Last Watchman
+
+### [📗 Book 14: Vector Cosmology VI: The Weaving of Dimensions](./books/book-vector-cosmology-vi-weaving-of-dimensions/index_en.md)
+*The sixth volume of the Vector Cosmology series, exploring holographic entanglement and the emergence of spacetime.*
+[📥 PDF](./books/book-vector-cosmology-vi-weaving-of-dimensions/Stitch_the_Stars.pdf) | [▶️ Video](https://youtu.be/qgwaTToh4Gs)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-vi-weaving-of-dimensions/architecture-thumb.png" alt="Book 14 Architecture" width="50%">
+</p>
+
+**Volumes**: The Loom — The Geometry of Entanglement → Protocol — Quantum Error Correction → Tension — The Thermodynamics of Gravity → Rupture — Singularities and Firewalls → Suture — Wormhole Engineering
+
+### [📙 Book 15: Vector Cosmology VII: The Loop of Causality](./books/book-vector-cosmology-vii-loop-of-causality/index_en.md)
+*The seventh volume of the Vector Cosmology series, exploring retro-causality and the rewriting of fate.*
+[📥 PDF](./books/book-vector-cosmology-vii-loop-of-causality/The_Ouroboros_Protocol.pdf) | [▶️ Video](https://youtu.be/iygx9QDBivk)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-vii-loop-of-causality/architecture-thumb.png" alt="Book 15 Architecture" width="50%">
+</p>
+
+**Volumes**: Retrograde — Echoes from the Future → Synchronicity — Acausal Connection → The Bootstrap — Self-Consistent Creation → Rewrite — Editing the Timeline → Mirror — The Single Player → Epilogue: Handshake — This Moment
 
 ---
 
