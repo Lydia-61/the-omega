@@ -1,0 +1,8 @@
+# Chapter 9: ER = EPR
+
+At the beginning of Volume V, we raised a core question: Can we suture two distant regions together by artificially creating entanglement?
+
+The answer lies hidden in the deepest coincidence in the history of physics.
+
+This chapter will reveal that the two papers Einstein wrote in 1935—one about wormholes (ER), one about entanglement (EPR)—actually describe the same thing. Wormholes are entanglement; entanglement is wormholes. This is the universe's "backend channel."
+

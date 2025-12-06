@@ -1,0 +1,10 @@
+# Chapter 1: The Threads of Entanglement
+
+In the prologue, we dismantled the classical illusion of "space as container" and established a new picture of "space as relational network." Now, we must delve into the microscopic texture of this network.
+
+If the universe is a piece of fabric, what is the smallest unit constituting this fabric—those "threads" that stitch the void together?
+
+Physics gives the answer: **Bell Pairs**.
+
+This chapter will reveal how entanglement—the most bizarre phenomenon in quantum mechanics—emerges at the macroscopic scale as the geometric space we depend on for survival. We will see that distance is not a chasm separating us; distance is merely the manifestation of the threads connecting us being stretched thin.
+
