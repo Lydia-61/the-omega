@@ -4,6 +4,12 @@
 
 **Vector Cosmology IV: The Apocalypse of Constants**
 
+<p align="center">
+  <img src="./architecture.png" alt="矢量宇宙论 IV 架构图" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./Accelerating_Reality.pdf) | [▶️ 视频](https://youtu.be/pRebRkbP7VE)
+
 ## 版本信息
 
 **Version:** 1.0

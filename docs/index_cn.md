@@ -56,7 +56,7 @@
 
 ## 📚 核心著作导读
 
-本项目包含十一部核心著作，从抽象公理推导到物理实在。
+本项目包含十二部核心著作，从抽象公理推导到物理实在。
 
 ### [📘 第一部：几何与信息中的物理基础 (Book 1)](./books/book-foundation-of-phys-in-geo-and-info/index.md)
 *建立五卷本框架的原始手稿。*
@@ -167,6 +167,16 @@
 </p>
 
 **章节**：旋转的指数 → 路径积分 → 导数即本体 → 连续的复利 → 虚时间 → 模流假说 → 信息的度量 → 感觉的对数律 → 自生
+
+### [📋 第十二部：矢量宇宙论 IV：常数的启示录 (Book 12)](./books/book-vector-cosmology-iv-apocalypse-of-constants/index.md)
+*矢量宇宙论系列的第四部，探讨相变时代——加速现实的导航手册。*
+[📥 PDF](./books/book-vector-cosmology-iv-apocalypse-of-constants/Accelerating_Reality.pdf) | [▶️ 视频](https://youtu.be/pRebRkbP7VE)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-iv-apocalypse-of-constants/architecture-thumb.png" alt="第十二部架构图" width="50%">
+</p>
+
+**卷次**：方程——四季的齿轮 → 坐标——黎明的时刻 → 预言——指数的未来 → 导航——驾驶员手册 → 番外篇：黑盒与永生
 
 ---
 

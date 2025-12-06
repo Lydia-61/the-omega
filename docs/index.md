@@ -56,7 +56,7 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-This project hosts eleven core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts twelve core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -167,6 +167,16 @@ This project hosts eleven core texts, tracing the derivation from abstract axiom
 </p>
 
 **Chapters**: The Rotating Exponential → The Sum of Paths → The Derivative is the Ontology → Continuous Compounding → Imaginary Time → The Modular Flow Hypothesis → The Measure of Information → The Logarithmic Law of Sensation → The Self-Caused
+
+### [📋 Book 12: Vector Cosmology IV: The Apocalypse of Constants](./books/book-vector-cosmology-iv-apocalypse-of-constants/index_en.md)
+*The fourth volume of the Vector Cosmology series, exploring the phase transition era—navigation manual for accelerating reality.*
+[📥 PDF](./books/book-vector-cosmology-iv-apocalypse-of-constants/Accelerating_Reality.pdf) | [▶️ Video](https://youtu.be/pRebRkbP7VE)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-iv-apocalypse-of-constants/architecture-thumb.png" alt="Book 12 Architecture" width="50%">
+</p>
+
+**Volumes**: The Equation — Gears of the Seasons → The Coordinate — Dawn at 1800 → Prophecy — The Exponential Future → Navigation — The Pilot's Manual → Epilogue: The Black Box and Immortality
 
 ---
 

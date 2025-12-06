@@ -4,6 +4,12 @@
 
 **Subtitle: Navigation Manual for the Phase Transition (相变时代的导航手册)**
 
+<p align="center">
+  <img src="./architecture.png" alt="Vector Cosmology IV Architecture" width="100%">
+</p>
+
+[📥 Download PDF Version](./Accelerating_Reality.pdf) | [▶️ Video](https://youtu.be/pRebRkbP7VE)
+
 ## Version Information
 
 **Version:** 1.0

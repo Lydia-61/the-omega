@@ -74,7 +74,7 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 ## 📚 Table of Contents
 
-This project hosts eleven core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts twelve core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/index_en.html)
 *The original manuscript establishing the 5-volume framework.*
@@ -185,6 +185,16 @@ This project hosts eleven core texts, tracing the derivation from abstract axiom
 </p>
 
 **Chapters**: The Rotating Exponential → The Sum of Paths → The Derivative is the Ontology → Continuous Compounding → Imaginary Time → The Modular Flow Hypothesis → The Measure of Information → The Logarithmic Law of Sensation → The Self-Caused
+
+### [📋 Book 12: Vector Cosmology IV: The Apocalypse of Constants](https://omega.dw.cash/books/book-vector-cosmology-iv-apocalypse-of-constants/index_en.html)
+*The fourth volume of the Vector Cosmology series, exploring the phase transition era—navigation manual for accelerating reality.*
+[📥 PDF](https://omega.dw.cash/books/book-vector-cosmology-iv-apocalypse-of-constants/Accelerating_Reality.pdf) | [▶️ Video](https://youtu.be/pRebRkbP7VE)
+
+<p align="center">
+  <img src="docs/books/book-vector-cosmology-iv-apocalypse-of-constants/architecture-thumb.png" alt="Book 12 Architecture" width="50%">
+</p>
+
+**Volumes**: The Equation — Gears of the Seasons → The Coordinate — Dawn at 1800 → Prophecy — The Exponential Future → Navigation — The Pilot's Manual → Epilogue: The Black Box and Immortality
 
 ---
 
