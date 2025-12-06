@@ -1,0 +1,14 @@
+# Chapter 10: Algorithm of the Infinite Game
+
+In the previous chapter, we established the thermodynamic guarantee of "never shut down." The Creator (or the universe's underlying generative mechanism) promises us through continuous dark energy injection that the source of negentropy is infinite.
+
+This solves the resource problem of **"can we keep playing"**.
+
+But immediately, we face a deeper **"how to play"** problem.
+
+If resources are infinite, if time has no end, then what are we pursuing in this universe?
+
+Moreover, if one day we truly solve all problems, learn all knowledge, reach that so-called "fulfillment," what should we do after that?
+
+This chapter will introduce the ultimate perspective of **Game Theory**. We will overturn the concept of "clearing levels" and establish an **"algorithm of the infinite game"**.
+

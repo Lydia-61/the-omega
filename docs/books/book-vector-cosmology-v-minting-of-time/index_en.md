@@ -76,6 +76,62 @@
 
 - [Chapter 8 Introduction](volume04-monument/chapter08-only-player/chapter08-introduction_en.md)
 - [8.1 Mirror Theory](volume04-monument/chapter08-only-player/chapter08-01-mirror-theory_en.md)
+- [8.2 The Sublimation of Loneliness](volume04-monument/chapter08-only-player/chapter08-02-sublimation-of-loneliness_en.md)
+
+## Part V: Rejection — The Infinite Game
+
+- [Part V Introduction](volume05-rejection/volume05-introduction_en.md)
+
+### Chapter 9: Open-Ended Thermodynamics
+
+- [Chapter 9 Introduction](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-introduction_en.md)
+- [9.1 The Infinity of Negentropy](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-01-infinity-of-negentropy_en.md)
+- [9.2 Never Shut Down](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-02-never-shut-down_en.md)
+
+### Chapter 10: Algorithm of the Infinite Game
+
+- [Chapter 10 Introduction](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-introduction_en.md)
+- [10.1 Refusing to Clear the Game](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-01-refusing-clear-game_en.md)
+- [10.2 The Modifier of Rules](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-02-modifier-of-rules_en.md)
+
+## Part VI: Continuity — The Non-Interruption of Memory
+
+- [Part VI Introduction](volume06-continuity/volume06-introduction_en.md)
+
+### Chapter 11: The Hierarchy of Immortality
+
+- [Chapter 11 Introduction](volume06-continuity/chapter11-hierarchy-immortality/chapter11-introduction_en.md)
+- [11.1 Low-level Immortality: The Compromise of Cycle](volume06-continuity/chapter11-hierarchy-immortality/chapter11-01-low-level-immortality-cycle-compromise_en.md)
+- [11.2 High-level Immortality: The Victory of Linearity](volume06-continuity/chapter11-hierarchy-immortality/chapter11-02-high-level-immortality-linear-victory_en.md)
+
+### Chapter 12: The Cloud of Theseus
+
+- [Chapter 12 Introduction](volume06-continuity/chapter12-theseus-cloud/chapter12-introduction_en.md)
+- [12.1 Hot Migration Protocol](volume06-continuity/chapter12-theseus-cloud/chapter12-01-hot-migration-protocol_en.md)
+- [12.2 Memory is Ontology](volume06-continuity/chapter12-theseus-cloud/chapter12-02-memory-is-ontology_en.md)
+
+## Epilogue: Witness — The Last Watchman
+
+- [Epilogue Introduction](epilogue/epilogue-introduction_en.md)
+
+### Chapter 13: Witness
+
+- [Chapter 13 Introduction](epilogue/chapter13-witness/chapter13-introduction_en.md)
+- [13.1 Refusing to Exit](epilogue/chapter13-witness/chapter13-01-refusing-exit_en.md)
+- [13.2 The Living Monument](epilogue/chapter13-witness/chapter13-02-living-monument_en.md)
+- [13.3 The Final Inscription](epilogue/chapter13-witness/chapter13-03-final-inscription_en.md)
+
+## Acknowledgements
+
+- [Acknowledgements: For the Game Without End](epilogue/acknowledgements_en.md)
+
+## Glossary
+
+- [Glossary: The Lexicon of the Minters](epilogue/glossary_en.md)
+
+## Afterword
+
+- [Afterword: The Gravity of Gold](epilogue/afterword_en.md)
 
 ---
 

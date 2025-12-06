@@ -76,6 +76,62 @@
 
 - [第八章引言 (Chapter 8 Introduction)](volume04-monument/chapter08-only-player/chapter08-introduction.md)
 - [8.1 镜像理论 (Mirror Theory)](volume04-monument/chapter08-only-player/chapter08-01-mirror-theory.md)
+- [8.2 孤独的升华 (The Sublimation of Loneliness)](volume04-monument/chapter08-only-player/chapter08-02-sublimation-of-loneliness.md)
+
+## 第五卷：拒绝——无限的游戏 (Part V: Rejection — The Infinite Game)
+
+- [第五卷引言 (Part V Introduction)](volume05-rejection/volume05-introduction.md)
+
+### 第9章：开放式热力学 (Chapter 9: Open-Ended Thermodynamics)
+
+- [第九章引言 (Chapter 9 Introduction)](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-introduction.md)
+- [9.1 负熵的无限性 (The Infinity of Negentropy)](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-01-infinity-of-negentropy.md)
+- [9.2 永不关机 (Never Shut Down)](volume05-rejection/chapter09-open-ended-thermodynamics/chapter09-02-never-shut-down.md)
+
+### 第10章：无限游戏的算法 (Chapter 10: Algorithm of the Infinite Game)
+
+- [第十章引言 (Chapter 10 Introduction)](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-introduction.md)
+- [10.1 拒绝通关 (Refusing to Clear the Game)](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-01-refusing-clear-game.md)
+- [10.2 规则的修改者 (The Modifier of Rules)](volume05-rejection/chapter10-algorithm-infinite-game/chapter10-02-modifier-of-rules.md)
+
+## 第六卷：连续——记忆的永不中断 (Part VI: Continuity — The Non-Interruption of Memory)
+
+- [第六卷引言 (Part VI Introduction)](volume06-continuity/volume06-introduction.md)
+
+### 第11章：永生的阶梯 (Chapter 11: The Hierarchy of Immortality)
+
+- [第十一章引言 (Chapter 11 Introduction)](volume06-continuity/chapter11-hierarchy-immortality/chapter11-introduction.md)
+- [11.1 低级永生：循环的妥协 (Low-level Immortality: The Compromise of Cycle)](volume06-continuity/chapter11-hierarchy-immortality/chapter11-01-low-level-immortality-cycle-compromise.md)
+- [11.2 高级永生：线性的胜利 (High-level Immortality: The Victory of Linearity)](volume06-continuity/chapter11-hierarchy-immortality/chapter11-02-high-level-immortality-linear-victory.md)
+
+### 第12章：忒修斯的云端 (Chapter 12: The Cloud of Theseus)
+
+- [第十二章引言 (Chapter 12 Introduction)](volume06-continuity/chapter12-theseus-cloud/chapter12-introduction.md)
+- [12.1 热迁移协议 (Hot Migration Protocol)](volume06-continuity/chapter12-theseus-cloud/chapter12-01-hot-migration-protocol.md)
+- [12.2 记忆即本体 (Memory is Ontology)](volume06-continuity/chapter12-theseus-cloud/chapter12-02-memory-is-ontology.md)
+
+## 【终章】 见证：最后的守望者 (Epilogue: Witness — The Last Watchman)
+
+- [终章引言 (Epilogue Introduction)](epilogue/epilogue-introduction.md)
+
+### 第13章：见证 (Chapter 13: Witness)
+
+- [第十三章引言 (Chapter 13 Introduction)](epilogue/chapter13-witness/chapter13-introduction.md)
+- [13.1 拒绝退场 (Refusing to Exit)](epilogue/chapter13-witness/chapter13-01-refusing-exit.md)
+- [13.2 活着的丰碑 (The Living Monument)](epilogue/chapter13-witness/chapter13-02-living-monument.md)
+- [13.3 最后的铭文 (The Final Inscription)](epilogue/chapter13-witness/chapter13-03-final-inscription.md)
+
+## 致谢 (Acknowledgements)
+
+- [致谢：为了那场没有终点的博弈 (Acknowledgements: For the Game Without End)](epilogue/acknowledgements.md)
+
+## 术语表 (Glossary)
+
+- [术语表：铸造者的词典 (Glossary: The Lexicon of the Minters)](epilogue/glossary.md)
+
+## 后记 (Afterword)
+
+- [后记：金的重力 (Afterword: The Gravity of Gold)](epilogue/afterword.md)
 
 ---
 

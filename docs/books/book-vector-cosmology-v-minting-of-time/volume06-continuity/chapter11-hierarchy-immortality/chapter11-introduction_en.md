@@ -1,0 +1,4 @@
+# Chapter 11: The Hierarchy of Immortality
+
+In this chapter, we will explore two different modes of immortality: low-level immortality (the compromise of cycle) and high-level immortality (memory continuity). We will see why biological immortality is insufficient for consciousness, and how to achieve true memory continuity.
+
