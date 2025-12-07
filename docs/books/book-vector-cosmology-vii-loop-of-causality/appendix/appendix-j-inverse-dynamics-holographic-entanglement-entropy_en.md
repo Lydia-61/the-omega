@@ -92,3 +92,5 @@ All memories, all love, all choices are recorded intact in the form of **quantum
 
 **Because the universe itself is a monument built for "not forgetting."**
 
+
+

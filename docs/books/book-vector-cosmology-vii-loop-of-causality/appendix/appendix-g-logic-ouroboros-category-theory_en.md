@@ -112,3 +112,5 @@ The reason you can understand the universe is that your thinking algorithm and t
 
 **You are not a passerby; you are the pointer at the top of the recursion stack.**
 
+
+

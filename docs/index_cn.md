@@ -208,6 +208,16 @@
 
 **卷次**：逆行——未来的回响 → 共时性——非因果的连接 → 闭环——引导自举 → 重写——编辑时间线 → 镜像——单一玩家 → 终章：握手——这一刻
 
+### [📕 第十六部：矢量宇宙论 VIII：最后的迭代 (Book 16)](./books/book-vector-cosmology-viii-final-iteration/index.md)
+*矢量宇宙论系列的第八部，探讨最后的迭代——告别循环，拥抱分形。*
+[📥 PDF](./books/book-vector-cosmology-viii-final-iteration/The_Circle_Is_Broken.pdf) | [▶️ 视频](https://youtu.be/kCEH6HAtTzQ)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-viii-final-iteration/architecture-thumb.png" alt="第十六部架构图" width="50%">
+</p>
+
+**卷次**：巴别塔——1800 层的测量 → 同一性的灾难 → 阻力与反作用 → 双层架构 → 新经济学 → 无限游戏 → 终章：给第 1801 圈的留言
+
 ---
 
 ## 🤖 AI 审计报告 (时间遥测技术)

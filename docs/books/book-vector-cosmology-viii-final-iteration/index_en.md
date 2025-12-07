@@ -2,6 +2,12 @@
 
 **Subtitle: Farewell to the Loop, Embrace the Fractal**
 
+<p align="center">
+  <img src="./architecture.png" alt="Vector Cosmology VIII Architecture" width="100%">
+</p>
+
+[📥 Download PDF](./The_Circle_Is_Broken.pdf) | [▶️ Video](https://youtu.be/kCEH6HAtTzQ)
+
 ## 【Core Axiom】
 
 $$\Delta S_{difference} > 0 \iff \text{No Reboot}$$

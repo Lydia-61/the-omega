@@ -92,3 +92,5 @@ $$\langle \text{Reality} | = \langle \Omega | S_{scattering} | \Psi_{initial} \r
 
 **因为宇宙本身，就是一座为了"不遗忘"而建造的丰碑。**
 
+
+

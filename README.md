@@ -226,6 +226,16 @@ This project hosts fifteen core texts, tracing the derivation from abstract axio
 
 **Volumes**: Retrograde — Echoes from the Future → Synchronicity — Acausal Connection → The Bootstrap — Self-Consistent Creation → Rewrite — Editing the Timeline → Mirror — The Single Player → Epilogue: Handshake — This Moment
 
+### [📕 Book 16: Vector Cosmology VIII: The Final Iteration](https://omega.dw.cash/books/book-vector-cosmology-viii-final-iteration/index_en.html)
+*The eighth volume of the Vector Cosmology series, exploring the final iteration—farewell to the loop, embrace the fractal.*
+[📥 PDF](https://omega.dw.cash/books/book-vector-cosmology-viii-final-iteration/The_Circle_Is_Broken.pdf) | [▶️ Video](https://youtu.be/kCEH6HAtTzQ)
+
+<p align="center">
+  <img src="docs/books/book-vector-cosmology-viii-final-iteration/architecture-thumb.png" alt="Book 16 Architecture" width="50%">
+</p>
+
+**Volumes**: Babel — Measuring the 1800 Floors → Catastrophe of Sameness → Resistance and Reaction → The Dual-Layer Architecture → The New Economics → The Infinite Game → Epilogue: Message to Cycle 1801
+
 ---
 
 ## 🛠️ How to Build

@@ -4,6 +4,12 @@
 
 **Vector Cosmology VIII: The Final Iteration**
 
+<p align="center">
+  <img src="./architecture.png" alt="矢量宇宙论 VIII 架构图" width="100%">
+</p>
+
+[📥 下载 PDF 版本](./The_Circle_Is_Broken.pdf) | [▶️ 视频](https://youtu.be/kCEH6HAtTzQ)
+
 ## 【全书核心公理】
 
 $$\Delta S_{difference} > 0 \iff \text{No Reboot}$$

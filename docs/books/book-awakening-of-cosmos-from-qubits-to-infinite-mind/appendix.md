@@ -125,3 +125,5 @@ $$F(s, q) = -\ln p(s) + D_{KL}[q(\vartheta) || p(\vartheta|s)]$$
 
 
 
+
+
