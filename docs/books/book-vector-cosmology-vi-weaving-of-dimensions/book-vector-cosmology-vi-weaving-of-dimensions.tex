@@ -1,0 +1,150 @@
+\documentclass[11pt,a4paper,twoside]{book}
+
+% Packages
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\geometry{a4paper,left=2.5cm,right=2.5cm,top=3cm,bottom=3cm}
+\usepackage{graphicx}
+\graphicspath{{./}}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={Vector Cosmology VI: The Weaving of Dimensions},
+    pdfauthor={Haobo Ma}
+}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{csquotes}
+
+% Title information
+\title{Vector Cosmology VI: The Weaving of Dimensions\\[0.5em]
+\large Holographic Entanglement and the Emergence of Spacetime}
+\author{Haobo Ma}
+\date{December 2025}
+
+\begin{document}
+
+% Title page
+\maketitle
+\thispagestyle{empty}
+
+\frontmatter
+
+% Architecture diagram
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{architecture.png}
+\caption{Vector Cosmology VI: The Weaving of Dimensions Architecture}
+\end{figure}
+
+% Table of contents
+\tableofcontents
+
+% Prologue
+\include{prologue_en}
+
+% Acknowledgements
+\include{acknowledgements_en}
+
+\mainmatter
+
+% Part I: The Loom
+\part{Part I: The Loom --- The Geometry of Entanglement}
+\input{volume01-loom/volume01-introduction_en.tex}
+
+\chapter{The Threads of Entanglement}
+\input{volume01-loom/chapter01-entanglement-threads/chapter01-introduction_en.tex}
+\input{volume01-loom/chapter01-entanglement-threads/chapter01-01-stitching-bell-pairs_en.tex}
+\input{volume01-loom/chapter01-entanglement-threads/chapter01-02-area-law-derivation_en.tex}
+
+\chapter{MERA and Renormalization Flow}
+\input{volume01-loom/chapter02-mera-renormalization-flow/chapter02-introduction_en.tex}
+\input{volume01-loom/chapter02-mera-renormalization-flow/chapter02-01-fractal-tree-universe_en.tex}
+\input{volume01-loom/chapter02-mera-renormalization-flow/chapter02-02-emergence-dimensions_en.tex}
+
+% Part II: Protocol
+\part{Part II: Protocol --- Quantum Error Correction}
+\input{volume02-protocol/volume02-introduction_en.tex}
+
+\chapter{Spacetime as Code}
+\input{volume02-protocol/chapter03-spacetime-code/chapter03-introduction_en.tex}
+\input{volume02-protocol/chapter03-spacetime-code/chapter03-01-necessity-redundancy_en.tex}
+\input{volume02-protocol/chapter03-spacetime-code/chapter03-02-ads-cft-dictionary_en.tex}
+
+\chapter{Robustness and Physical Laws}
+\input{volume02-protocol/chapter04-robustness-physical-laws/chapter04-introduction_en.tex}
+\input{volume02-protocol/chapter04-robustness-physical-laws/chapter04-01-physical-laws-checksums_en.tex}
+\input{volume02-protocol/chapter04-robustness-physical-laws/chapter04-02-hardness-vacuum_en.tex}
+
+% Part III: Tension
+\part{Part III: Tension --- The Thermodynamics of Gravity}
+\input{volume03-tension/volume03-introduction_en.tex}
+
+\chapter{Entropic Gravity}
+\input{volume03-tension/chapter05-entropic-gravity/chapter05-introduction_en.tex}
+\input{volume03-tension/chapter05-entropic-gravity/chapter05-01-hookes-law-universe_en.tex}
+\input{volume03-tension/chapter05-entropic-gravity/chapter05-02-pressure-information_en.tex}
+
+\chapter{Fluid Dynamics of Horizons}
+\input{volume03-tension/chapter06-fluid-dynamics-horizons/chapter06-introduction_en.tex}
+\input{volume03-tension/chapter06-fluid-dynamics-horizons/chapter06-01-navier-stokes-equation_en.tex}
+\input{volume03-tension/chapter06-fluid-dynamics-horizons/chapter06-02-viscosity-coefficient_en.tex}
+
+% Part IV: Rupture
+\part{Part IV: Rupture --- Singularities and Firewalls}
+\input{volume04-rupture/volume04-introduction_en.tex}
+
+\chapter{Black Holes: Max-Flow Min-Cut}
+\input{volume04-rupture/chapter07-black-holes-max-flow-min-cut/chapter07-introduction_en.tex}
+\input{volume04-rupture/chapter07-black-holes-max-flow-min-cut/chapter07-01-network-bottleneck_en.tex}
+\input{volume04-rupture/chapter07-black-holes-max-flow-min-cut/chapter07-02-complexity-fast-scrambler_en.tex}
+
+\chapter{The Firewall Paradox}
+\input{volume04-rupture/chapter08-firewall-paradox/chapter08-introduction_en.tex}
+\input{volume04-rupture/chapter08-firewall-paradox/chapter08-01-monogamy-entanglement_en.tex}
+\input{volume04-rupture/chapter08-firewall-paradox/chapter08-02-end-spacetime_en.tex}
+
+% Part V: Suture
+\part{Part V: Suture --- Wormhole Engineering}
+\input{volume05-suture/volume05-introduction_en.tex}
+
+\chapter{ER = EPR}
+\input{volume05-suture/chapter09-er-epr/chapter09-introduction_en.tex}
+\input{volume05-suture/chapter09-er-epr/chapter09-01-geometric-channel_en.tex}
+\input{volume05-suture/chapter09-er-epr/chapter09-02-stitching-universe_en.tex}
+
+\chapter{Topological Short-Circuit}
+\input{volume05-suture/chapter10-topological-short-circuit/chapter10-introduction_en.tex}
+\input{volume05-suture/chapter10-topological-short-circuit/chapter10-01-macroscopization-quantum-teleportation_en.tex}
+\input{volume05-suture/chapter10-topological-short-circuit/chapter10-02-crossing-firewall_en.tex}
+
+\chapter{The Weaver: The Hand of the Observer}
+\input{volume05-suture/chapter11-weaver-hand-observer/chapter11-introduction_en.tex}
+\input{volume05-suture/chapter11-weaver-hand-observer/chapter11-01-only-connection-real_en.tex}
+\input{volume05-suture/chapter11-weaver-hand-observer/chapter11-02-reconstructing-reality_en.tex}
+\input{volume05-suture/chapter11-weaver-hand-observer/chapter11-03-final-inscription_en.tex}
+
+\backmatter
+
+% Afterword
+\include{afterword_en}
+
+% Glossary
+\include{glossary_en}
+
+% Appendices
+\appendix
+
+\include{appendix/appendix-a-geometric-derivation-holographic-entanglement-entropy_en}
+\include{appendix/appendix-b-holographic-error-correction-spacetime-robustness_en}
+\include{appendix/appendix-c-topology-high-speed-causal-graphs_en}
+\include{appendix/appendix-d-algorithm-action_en}
+\include{appendix/appendix-e-measurement-induced-phase-transitions_en}
+\include{appendix/appendix-f-holographic-complexity_en}
+
+\end{document}
+
