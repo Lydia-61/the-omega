@@ -1,0 +1,123 @@
+\section{Physical Theory as Object in Topos}
+
+In classical mechanics, we are accustomed to saying: "State space of system is a manifold $M$, physical quantities are real functions on $M$." This actually defaults to working in $\mathbf{Set}$ (category of sets). But in QCA discrete ontology, observers are limited by finite information and local horizons; they cannot overlook entire state sets like God.
+
+This section will argue that natural mathematical model of QCA universe is \textbf{Grothendieck Topos}. In this structure, physical systems manifest as dynamic objects varying with "observation windows," i.e., \textbf{Presheaves}.
+
+\subsection{Why Leave Category of Sets?}
+
+In category of sets $\mathbf{Set}$, logic is absolute:
+
+\begin{enumerate}
+\item \textbf{Law of Excluded Middle}: $P \lor \neg P = \text{True}$.
+
+\item \textbf{Elementality}: A set is uniquely determined by definite elements it contains.
+\end{enumerate}
+
+However, quantum mechanics (and QCA theory) violates these intuitions:
+
+\begin{itemize}
+\item \textbf{Kochen-Specker Theorem}: For Hilbert spaces of dimension $d \ge 3$, there exists no global valuation function that simultaneously assigns definite values to all observables. This means there is no underlying "microscopic state set" to carry these values.
+
+\item \textbf{Contextuality}: Physical meaning (measurement result) of an operator $\hat{A}$ depends on whether we measure it together with $\hat{B}$ or with $\hat{C}$ (if $[\hat{A},\hat{B}]=0$ but $[\hat{B},\hat{C}] \neq 0$).
+\end{itemize}
+
+Therefore, physical reality cannot be a set in $\mathbf{Set}$. It must be a mathematical object capable of \textbf{accommodating all possible classical observation contexts and their interrelations}.
+
+\subsection{Construction of Physical Topos: Döring-Isham Scheme}
+
+To mathematize this idea, we introduce "quantum physical topos" framework proposed by Andreas Döring and Chris Isham, adapting it to QCA networks.
+
+\begin{definition}[Observation Context Category $\mathcal{V}(\mathcal{H})$]
+\label{def:context-category}
+Let algebra of QCA system be $\mathcal{A}$ (finite-dimensional von Neumann algebra).
+
+Define category $\mathcal{V}(\mathcal{A})$, whose \textbf{objects} are all commutative subalgebras $V$ of $\mathcal{A}$ (representing classical observation perspectives, or sets of compatible observables).
+
+Its \textbf{morphisms} are inclusion relations of subalgebras $i_{V'V}: V' \hookrightarrow V$ (representing refinement from coarse-grained perspective to fine perspective).
+
+This category $\mathcal{V}(\mathcal{A})$ constitutes the \textbf{Site} or \textbf{Reference Frame Network} of physical world.
+\end{definition}
+
+\begin{definition}[Physical Topos $\mathcal{T}_\mathcal{A}$]
+\label{def:physical-topos}
+Physical topos of system is defined as \textbf{Category of Presheaves} on $\mathcal{V}(\mathcal{A})$:
+$$\mathcal{T}_\mathcal{A} = \mathbf{Set}^{\mathcal{V}(\mathcal{A})^{op}}$$
+
+An object (presheaf) $P$ in this topos is a functor $P: \mathcal{V}(\mathcal{A})^{op} \to \mathbf{Set}$. It assigns a set $P(V)$ (local states seen in this perspective) to each observation context $V$, and specifies how these states transform when perspectives switch.
+\end{definition}
+
+\textbf{Physical Interpretation}:
+
+In $\mathbf{Set}$, state is a point.
+
+In $\mathcal{T}_\mathcal{A}$, state is a \textbf{Spectral Presheaf} $\underline{\Sigma}$.
+
+\begin{itemize}
+\item $\underline{\Sigma}(V)$ is Gelfand spectrum of commutative algebra $V$, i.e., all possible classical microscopic state spaces of $V$.
+
+\item Physical system has no single "true state," but a family of \textbf{local states varying with context $V$}, and these local states must satisfy consistency conditions in overlapping contexts.
+\end{itemize}
+
+\subsection{States as Sections on Truth Object}
+
+In topos, logical truth is no longer $\{0, 1\}$, but a more complex algebraic structure—\textbf{Subobject Classifier} $\Omega$.
+
+\begin{theorem}[Heyting Algebra of Physical Truth]
+\label{thm:heyting}
+In physical topos $\mathcal{T}_\mathcal{A}$, truth object $\Omega$ is a Heyting Algebra.
+
+Truth value $[\![ \Delta ]\!]$ of physical proposition "system is in state $\Delta$" (where $\Delta$ is subobject of spectral presheaf) is not simply true or false, but a \textbf{Sieve}: it is in which observation contexts $V$ this proposition is verified as true.
+$$[\![ \Delta ]\!] \in \Gamma(\Omega)$$
+
+This explains quantum complementarity: proposition "electron spin is up" may be "true" in context of $z$-direction observation, but \textbf{undefined} (not "false") in context of $x$-direction observation.
+
+\textbf{Truth is Local (Contextual), not Global (Absolute)}.
+\end{theorem}
+
+\subsection{Sheaf-Theoretic Description of QCA Networks}
+
+In QCA discrete networks, this topos structure has intuitive spatial meaning.
+
+\begin{definition}[Sheaf Model of QCA]
+\label{def:sheaf-qca}
+Physical fields on QCA network $G$ can be viewed as \textbf{Sheaves} defined on network topology.
+
+\begin{itemize}
+\item \textbf{Base Space}: Causal network and its open sets (causal diamonds).
+
+\item \textbf{Stalk}: Local Hilbert space $\mathcal{H}_x$ at each lattice point $x$.
+
+\item \textbf{Restriction Maps}: Reduced density matrix maps from large regions to small regions.
+\end{itemize}
+
+QCA evolution $U$ is a \textbf{Sheaf Morphism} on this sheaf space.
+
+In this view, \textbf{global wave function} (Global Section) may not exist at all (if network topology is non-trivial, such as topological defects). Physical reality consists only of collections of \textbf{Local Sections}, which satisfy \textbf{Cohomology} constraints in overlapping regions.
+\end{definition}
+
+\begin{corollary}[Topological Obstacle to Objectivity]
+\label{cor:topological-obstacle}
+If sheaf $\mathcal{S}$ describing physical states has non-trivial first cohomology group $H^1(G, \mathcal{S}) \neq 0$, then local observation results cannot be pieced together into a single, contradiction-free global state.
+
+This is the topos interpretation of "Wigner's friend paradox" in Section 22.1: there exists no global $\mathbf{Set}$ model accommodating all friend's observation results. World is essentially defined \textbf{Patchwise}.
+\end{corollary}
+
+\subsection{Summary: From Set-Theoretic Ontology to Topos Ontology}
+
+This section completes a profound ontological paradigm shift:
+
+\begin{enumerate}
+\item \textbf{Old Paradigm (Set Theory)}: Universe is a huge set containing all atoms. States are points in sets.
+
+\item \textbf{New Paradigm (Topos)}: Universe is a \textbf{categorical object} varying with observation perspectives. States are sections on spectral presheaves.
+
+\begin{itemize}
+\item Physical quantities are transformations, not numerical values.
+
+\item Truth is context-dependent, not absolute.
+\end{itemize}
+\end{enumerate}
+
+This mathematical structure not only accommodates quantum mechanics, but also provides framework for unifying relativity (general covariance is sheaf-theoretic invariance under coordinate chart transformations). In the next section 24.2, we will further explore logical consequences of this structure: how \textbf{Intuitionistic Logic} becomes intrinsic physical logic of QCA universe. We will see that in quantum world, "not (not P)" does not equal "P".
+
