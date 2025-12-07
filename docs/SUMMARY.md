@@ -1057,6 +1057,9 @@
         - [Appendix B: Technical Details of the Hot Migration Protocol](./books/book-vector-cosmology-viii-final-iteration/appendix/appendix-b-hot-migration_en.md)
         - [Appendix C: Memorandum for Gardeners](./books/book-vector-cosmology-viii-final-iteration/appendix/appendix-c-gardeners-memorandum_en.md)
 
+- [The Eden Protocol: The Universal Source Code Codex (EN)](./books/book-eden-protocol-universal-source-code-codex/index_en.md)
+    - [Prologue: The Translator of Babel](./books/book-eden-protocol-universal-source-code-codex/prologue_en.md)
+
 - [物理基础：几何与信息](./books/book-foundation-of-phys-in-geo-and-info/index.md)
     - [前言：重构实在的算法与几何](./books/book-foundation-of-phys-in-geo-and-info/foreword.md)
     - [第一卷：离散本体论 —— 信息的物理基础]()
@@ -2117,3 +2120,6 @@
         - [附录 A：黎明坐标的几何证明](./books/book-vector-cosmology-viii-final-iteration/appendix/appendix-a-dawn-coordinate.md)
         - [附录 B：热迁移协议的技术细节](./books/book-vector-cosmology-viii-final-iteration/appendix/appendix-b-hot-migration.md)
         - [附录 C：给园丁的备忘录](./books/book-vector-cosmology-viii-final-iteration/appendix/appendix-c-gardeners-memorandum.md)
+
+- [《伊甸园协议：全宇宙源代码法典》](./books/book-eden-protocol-universal-source-code-codex/index.md)
+    - [序言：巴别塔的翻译官](./books/book-eden-protocol-universal-source-code-codex/prologue.md)

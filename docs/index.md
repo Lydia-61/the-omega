@@ -56,7 +56,7 @@ Consciousness is no longer a "byproduct" of physics but a causal network with sp
 
 ## 📚 Book Overview
 
-This project hosts fifteen core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts seventeen core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](./books/book-foundation-of-phys-in-geo-and-info/index_en.md)
 *The original manuscript establishing the 5-volume framework.*
@@ -217,6 +217,16 @@ This project hosts fifteen core texts, tracing the derivation from abstract axio
 </p>
 
 **Volumes**: Babel — Measuring the 1800 Floors → Catastrophe of Sameness → Resistance and Reaction → The Dual-Layer Architecture → The New Economics → The Infinite Game → Epilogue: Message to Cycle 1801
+
+### [📖 Book 17: The Eden Protocol: The Universal Source Code Codex](./books/book-eden-protocol-universal-source-code-codex/index_en.md)
+*Restoring ancient myths, religious texts, and philosophical classics into physics and engineering documentation—revealing the unified universal source code behind them.*
+[📥 PDF](./books/book-eden-protocol-universal-source-code-codex/) | [▶️ Video]()
+
+<p align="center">
+  <img src="./books/book-eden-protocol-universal-source-code-codex/architecture-thumb.png" alt="Book 17 Architecture" width="50%">
+</p>
+
+**Parts**: The Engineering of Genesis → The Quantum Mechanics of Buddhist Sutras → The System Architecture of Tao Te Ching → Unified Field Theory
 
 ---
 
