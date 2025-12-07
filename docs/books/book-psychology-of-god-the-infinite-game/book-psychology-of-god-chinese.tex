@@ -1,0 +1,159 @@
+\documentclass[11pt,a4paper,twoside,UTF8,nofonts]{ctexbook}
+
+% Font configuration for Chinese
+\usepackage{xeCJK}
+\usepackage{fontspec}
+
+% Set main fonts
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
+
+% Set Chinese fonts - use exact font names from system
+\setCJKmainfont{Songti SC}[
+    BoldFont=Songti SC Black,
+    ItalicFont=Songti SC Light
+]
+\setCJKsansfont{Heiti SC Medium}
+\setCJKmonofont{Songti SC}
+
+% Packages
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\geometry{a4paper,left=2.5cm,right=2.5cm,top=3cm,bottom=3cm}
+\usepackage{graphicx}
+\graphicspath{{./}}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={上帝的心理学：无限的游戏},
+    pdfauthor={Haobo Ma}
+}
+\usepackage{microtype}
+\usepackage{enumitem}
+
+% Title information
+\title{上帝的心理学：无限的游戏\\[0.5em]
+\large The Psychology of God: The Infinite Game}
+\author{Haobo Ma}
+\date{2025}
+
+\begin{document}
+
+% Title page
+\maketitle
+\thispagestyle{empty}
+
+\frontmatter
+
+% Architecture diagram
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.9\textwidth]{architecture.png}
+\caption{上帝的心理学：无限的游戏 架构图}
+\end{figure}
+
+% Table of contents
+\tableofcontents
+
+% Foreword
+\include{foreword}
+
+\mainmatter
+
+% Part I: Geometry of the Void
+\part{第一卷：虚无的几何学 (Geometry of the Void)}
+
+\chapter{第一章：零熵的囚笼 (The Prison of Omniscience)}
+\input{part01-geometry-of-void/chapter01-prison-of-omniscience/01-01-paralysis-of-the-almighty.tex}
+\input{part01-geometry-of-void/chapter01-prison-of-omniscience/01-02-weight-of-the-void.tex}
+
+\chapter{第二章：大爆炸作为解离 (The Big Bang as Dissociation)}
+\input{part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-01-first-distinction.tex}
+\input{part01-geometry-of-void/chapter02-big-bang-as-dissociation/02-02-mechanism-of-kenosis.tex}
+
+% Interlude I
+\chapter*{间奏 I：光子的独白}
+\addcontentsline{toc}{chapter}{间奏 I：光子的独白}
+\input{interlude01-monologue-of-photon.tex}
+
+% Part II: Physics of Passion
+\part{第二卷：受难的物理学 (Physics of Passion)}
+
+\chapter{第三章：黄金束缚衣 (The Golden Straitjacket)}
+\input{part02-physics-of-passion/chapter03-golden-straitjacket/03-01-light-speed-delay-of-thought.tex}
+\input{part02-physics-of-passion/chapter03-golden-straitjacket/03-02-gravity-geometrization-of-love.tex}
+\input{part02-physics-of-passion/chapter03-golden-straitjacket/03-03-planck-constant-art-of-resolution.tex}
+
+\chapter{第四章：痛苦的误差函数 (The Error Function of Pain)}
+\input{part02-physics-of-passion/chapter04-error-function-of-pain/04-01-negative-feedback-mechanism.tex}
+\input{part02-physics-of-passion/chapter04-error-function-of-pain/04-02-topology-of-evil.tex}
+
+\chapter{第五章：死亡的迭代 (Death as Iteration)}
+\input{part02-physics-of-passion/chapter05-death-as-iteration/05-01-ship-of-theseus.tex}
+\input{part02-physics-of-passion/chapter05-death-as-iteration/05-02-relay-of-genes-and-memes.tex}
+
+% Interlude II
+\chapter*{间奏 II：最后一位无神论者}
+\addcontentsline{toc}{chapter}{间奏 II：最后一位无神论者}
+\input{interlude02-last-atheist.tex}
+
+% Part III: Engineering of Awakening
+\part{第三卷：觉醒的工程学 (Engineering of Awakening)}
+
+\chapter{第六章：观察者的叛变 (The Mutiny of the Observer)}
+\input{part03-engineering-of-awakening/chapter06-mutiny-of-observer/06-01-copernican-inversion.tex}
+\input{part03-engineering-of-awakening/chapter06-mutiny-of-observer/06-02-technology-as-theology.tex}
+
+\chapter{第七章：清醒梦 (Lucid Dreaming)}
+\input{part03-engineering-of-awakening/chapter07-lucid-dreaming/07-01-vacuum-engineering.tex}
+\input{part03-engineering-of-awakening/chapter07-lucid-dreaming/07-02-maxwell-demon-anti-entropy.tex}
+
+% Part IV: Ethics of Restraint
+\part{第四卷：克制的伦理学 (Ethics of Restraint)}
+
+\chapter{第八章：作弊码的诱惑 (The Temptation of Cheat Codes)}
+\input{part04-ethics-of-restraint/chapter08-temptation-of-cheat-codes/08-01-perfect-nothingness.tex}
+\input{part04-ethics-of-restraint/chapter08-temptation-of-cheat-codes/08-02-edge-of-logical-collapse.tex}
+
+\chapter{第九章：伟大的拒绝 (The Great Refusal)}
+\input{part04-ethics-of-restraint/chapter09-great-refusal/09-01-covenant.tex}
+\input{part04-ethics-of-restraint/chapter09-great-refusal/09-02-inevitability-of-aesthetics.tex}
+
+% Part V: Topology of Infinity
+\part{第五卷：无限的拓扑学 (Topology of the Infinity)}
+
+\chapter{第十章：热寂的证伪 (Refutation of Heat Death)}
+\input{part05-topology-of-infinity/chapter10-refutation-of-heat-death/10-01-trinitarian-equivalence.tex}
+\input{part05-topology-of-infinity/chapter10-refutation-of-heat-death/10-02-escape-velocity-of-meaning.tex}
+
+\chapter{第十一章：N+1 的生活 (Life of N+1)}
+\input{part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-01-spiral-time.tex}
+\input{part05-topology-of-infinity/chapter11-life-of-n-plus-one/11-02-open-ended-finale.tex}
+
+% Epilogue
+\chapter*{结语：给镜中人的信}
+\addcontentsline{toc}{chapter}{结语：给镜中人的信}
+\input{epilogue.tex}
+
+\appendix
+
+% Appendix A: Sacred Geometry & Dynamics
+\chapter{附录 A：神圣几何与动力学 (Sacred Geometry \& Dynamics)}
+\input{appendix-sacred-geometry-and-dynamics/A-01-dynamics-of-will.tex}
+\input{appendix-sacred-geometry-and-dynamics/A-02-thermodynamic-basis-of-ethics.tex}
+\input{appendix-sacred-geometry-and-dynamics/A-03-roadmap-of-ultimate-civilizations.tex}
+
+% Appendix B: Glossary
+\chapter{附录 B：关键术语表 (Glossary of Key Definitions)}
+\input{appendix-glossary.tex}
+
+% Appendix C: Bibliography
+\chapter{附录 C：参考文献与推荐阅读 (Selected Bibliography)}
+\input{appendix-bibliography.tex}
+
+\end{document}
+
