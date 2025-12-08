@@ -1,0 +1,165 @@
+\appendix
+
+\chapter{Mathematical Formalism and Notation}
+
+\textbf{(数学形式体系与符号定义)}
+
+\begin{quote}
+\textbf{"To ensure the rigor and falsifiability of this book's theory, this appendix provides strict mathematical definitions of the core concepts of Interactive Computational Cosmology (ICC). These definitions constitute the formal foundation for all inferences in the main text, for professional readers in physics, computer science, and mathematics to consult and verify."}
+\end{quote}
+
+In the main text, we combined physical intuition with engineering metaphors in our narrative. Here, we restore these concepts to pure \textbf{Mathematical Structures}. The ICC model is built at the intersection of quantum information theory, operator algebra, and computational complexity theory.
+
+\section{Spacetime Lattice and Hilbert Space}
+
+ICC model assumes physical reality is discrete at the microscopic level. We define spacetime as a \textbf{Discrete Manifold} or \textbf{Graph}.
+
+\begin{definition}[Holographic Lattice $\Lambda$]
+Spacetime background is defined as a $D$-dimensional lattice graph $\Lambda = (V, E)$, where:
+
+\begin{itemize}
+\item $V$ is the set of vertices, representing the smallest spatial units (Planck volume $l_P^3$). $|V| < \infty$ (according to the finite information axiom).
+
+\item $E$ is the set of edges, representing local interactions or adjacency relations.
+
+\item \textbf{Distance Metric}: The distance $d(x, y)$ on the graph is defined as the number of edges on the shortest path connecting vertices $x, y \in V$.
+\end{itemize}
+\end{definition}
+
+\begin{definition}[Global Hilbert Space $\mathcal{H}_{total}$]
+The system's global state space is the tensor product of local Hilbert spaces defined on $V$:
+
+\begin{equation}
+\mathcal{H}_{total} = \bigotimes_{x \in V} \mathcal{H}_x
+\end{equation}
+
+where $\mathcal{H}_x \cong \mathbb{C}^d$ is the state space of qubits (or quantum logic gates) located at each node, with dimension $d$ usually taken as $2$ (Qubit).
+
+Global dimension $\dim(\mathcal{H}_{total}) = d^{|V|}$.
+\end{definition}
+
+\section{Algebraic Structure of the CITM}
+
+The physical model of local observers is formalized as an \textbf{interactive automaton}.
+
+\begin{definition}[CITM Six-Tuple]
+A classical interactive Turing machine is defined as a tuple $\mathcal{M} = (S, \Sigma, \Gamma, \delta, s_0, \mathcal{O})$, where:
+
+\begin{itemize}
+\item $S$: Finite set of internal states (classical physical states).
+
+\item $\Sigma$: Input alphabet (sensory data).
+
+\item $\Gamma$: Output alphabet (actions/measurements).
+
+\item $s_0 \in S$: Initial state.
+
+\item $\mathcal{O}$: \textbf{Oracle Interface}.
+
+\item $\delta$: \textbf{Transition Function}, defined as:
+
+    \begin{equation}
+    \delta: S \times \Sigma \times \Omega \to S \times \Gamma
+    \end{equation}
+
+    where $\Omega$ is the output space of oracle $\mathcal{O}$.
+\end{itemize}
+\end{definition}
+
+\begin{definition}[Oracle Function]
+Oracle $\mathcal{O}$ is a non-algorithmic mapping, representing the resolution of system uncertainty by the environment (or consciousness). Physically, it corresponds to the selection operator of \textbf{POVM (Positive Operator-Valued Measure)}:
+
+\begin{equation}
+\mathcal{O}(t): \rho_S(t) \to k \in \{1, \dots, N\}
+\end{equation}
+
+where $k$ is the index of measurement results, satisfying Born's rule probability distribution $p_k = \text{Tr}(M_k \rho_S M_k^\dagger)$.
+\end{definition}
+
+\section{The Holographic Isomorphism Map $\Phi$}
+
+This section provides the strict algebraic formulation of the \textbf{"Holographic Equivalence Principle"} in the main text.
+
+Let $\mathfrak{A}$ be the observable algebra ($C^*$-algebra) of the global system, and $\mathfrak{B}$ be the observable algebra of the local system.
+
+\begin{theorem}[Physical Application of Stinespring Dilation Theorem]
+For any dissipative (non-unitary) dynamical map $\Lambda_t: \mathfrak{B} \to \mathfrak{B}$ experienced by a local observer (i.e., time evolution), if $\Lambda_t$ satisfies \textbf{Complete Positivity} and \textbf{Trace-Preserving}, then there necessarily exist:
+
+\begin{enumerate}
+\item An environment Hilbert space $\mathcal{K}$.
+
+\item A global unitary operator $U_t \in \mathcal{L}(\mathcal{H}_S \otimes \mathcal{K})$.
+
+\item An isometric embedding $V: \mathcal{H}_S \to \mathcal{H}_S \otimes \mathcal{K}$.
+\end{enumerate}
+
+Such that for any local state $\rho$, we have:
+
+\begin{equation}
+\Lambda_t(\rho) = \text{Tr}_{\mathcal{K}} (U_t (\rho \otimes |0\rangle\langle 0|) U_t^\dagger)
+\end{equation}
+\end{theorem}
+
+\begin{definition}[Holographic Map $\Phi$]
+The map $\Phi$ defines the equivalence relation between \textbf{QTM View} and \textbf{CITM View}:
+
+\begin{equation}
+\Phi: \text{QTM}(\mathcal{H}_{total}, U) \xrightarrow{\cong} \text{CITM}(\mathcal{H}_S, \mathcal{O})
+\end{equation}
+
+This map is bijective if and only if the observer cannot access environmental degrees of freedom $\mathcal{K}$. Physically, this corresponds to the existence of a \textbf{Horizon}.
+\end{definition}
+
+\section{Complexity Classes and Physical Limits}
+
+The boundaries of physical laws are defined by computational complexity theory.
+
+\begin{definition}[Physically Realizable Class BQP]
+All physically observable processes must belong to the \textbf{Bounded-Error Quantum Polynomial-Time (BQP)} complexity class.
+
+\begin{equation}
+\text{Physics} \subseteq \text{BQP}
+\end{equation}
+
+This means that any physical process requiring exponential time (such as solving NP-complete problems) to complete (e.g., traversing all many-world branches) is \textbf{Physically Forbidden} within macroscopic finite time.
+\end{definition}
+
+\begin{corollary}[Inaccessibility of Many Worlds]
+Since verifying "other parallel universes exist" requires performing quantum state tomography or reversing decoherence, its complexity belongs to \textbf{QMA-Hard} or higher. Therefore, for BQP-restricted observers, many worlds are \textbf{computationally undecidable}. This constitutes solid mathematical grounds for the CITM model's single-history view.
+\end{corollary}
+
+\section{Topological Index of Consciousness $\nu$}
+
+In Chapter 8, we defined consciousness as a topological soliton in causal networks. Here we provide its algebraic topological definition.
+
+\begin{definition}[Strongly Connected Components of Causal Graph]
+Let the causal influence graph of the system within time window $\tau$ be $G_\tau$. Define $C_i$ as the \textbf{Strongly Connected Component (SCC)} in the graph, i.e., for any two points $a, b$ within the component, there exist paths $a \to b$ and $b \to a$.
+\end{definition}
+
+\begin{definition}[Integrated Information $\Phi_{IIT}$]
+According to Tononi's Integrated Information Theory (IIT), the system's level of consciousness is related to the Minimum Information Partition (MIP) of the causal network:
+
+\begin{equation}
+\Phi_{IIT} = D_{KL}(P_{whole} || P_{partitioned})
+\end{equation}
+\end{definition}
+
+\begin{definition}[Topological Consciousness Index $\nu$]
+We define consciousness as a $\mathbb{Z}_2$ topological invariant. For any subsystem $\Omega$:
+
+\begin{equation}
+\nu(\Omega) = \begin{cases} 1 & \text{if } \Omega \text{ is a MSCC and } \Phi_{IIT}(\Omega) > \text{Threshold} \\ 0 & \text{otherwise} \end{cases}
+\end{equation}
+
+\begin{itemize}
+\item \textbf{$\nu=1$}: This subsystem is an \textbf{Autonomous Agent}, possessing an oracle interface.
+
+\item \textbf{$\nu=0$}: This subsystem is an \textbf{Automaton}, only performing feedforward computation.
+\end{itemize}
+\end{definition}
+
+\section{Summary}
+
+This appendix proves that *Principles of Interactive Computational Cosmology* is not built on empty philosophical speculation but on strict mathematical structures at the intersection of \textbf{Quantum Mechanics (unitarity), Thermodynamics (entropy bounds), and Computer Science (complexity)}.
+
+All narratives in the main text are \textbf{holographic projections} of the above mathematical equations in natural language.

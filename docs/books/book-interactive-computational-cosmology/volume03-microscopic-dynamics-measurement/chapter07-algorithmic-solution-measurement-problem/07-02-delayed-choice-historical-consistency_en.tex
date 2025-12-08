@@ -1,0 +1,129 @@
+\section{Delayed Choice and Historical Consistency}
+
+\textbf{(延迟选择与历史一致性)}
+
+\begin{quote}
+\textbf{"History is not fixed data in read-only memory (ROM), but a log file dynamically generated based on current query requests. We do not live in a universe where the past determines the present; on the contrary, current observation behaviors are retroactively defining the past. As Wheeler said, the choice at this moment determines which path a photon took billions of years ago."}
+\end{quote}
+
+In Section 7.1, we reconstructed quantum measurement as a process of \textbf{Just-In-Time Instantiation (JIT Instantiation)} from abstract wave functions to concrete particles. However, this mechanism immediately raises a serious logical challenge regarding temporal causality: if a particle's attributes (such as position or path) are determined only at the moment of measurement, what state was the particle in during the time before measurement?
+
+If our current measurement determines whether the particle appears as a "wave" or "particle," does this mean we have changed its past?
+
+This section will argue, through \textbf{John Wheeler's} delayed choice experiment and its advanced version—the quantum eraser experiment, the historical view in \textbf{Interactive Computational Cosmology (ICC)}: \textbf{History is Query-Based Generation}. We will prove that the past is not an objectively existing entity, but a \textbf{Reverse Compilation Routine} run by the system to satisfy the consistency of current boundary conditions.
+
+\subsection{The Illusion of Established History}
+
+In classical physics and intuitive cognition, we adhere to \textbf{"Historical Realism"}:
+
+\begin{enumerate}
+\item The past has already happened and is unique.
+
+\item The current state $S_t$ is the result of past state $S_{t-1}$ evolving through physical laws.
+
+\item Regardless of whether we observe now, the facts that happened in the past will not change.
+\end{enumerate}
+
+However, the thought experiment proposed by Wheeler in 1978 completely shattered this notion. Imagine a photon from a quasar billions of light-years away, passing through a galaxy (gravitational lens) toward Earth. The photon has two possible paths (left or right).
+
+\begin{itemize}
+\item If on Earth we choose to detect the photon's \textbf{"which path"} (particle nature), we force the photon to "choose" a path billions of years ago.
+
+\item If on Earth we choose to detect \textbf{"interference fringes"} (wave nature), we force the photon to "pass through both paths simultaneously" billions of years ago.
+\end{itemize}
+
+The key point: our decision on Earth (particle detector or interferometer) is made after the photon has been flying for billions of years.
+
+\textbf{Computational Ontology Explanation}:
+
+If we assume the universe stores every second of the photon's flight trajectory (complete history), this not only wastes storage resources but also leads to causal paradoxes (current decisions modifying historical data on the hard drive).
+
+But in the ICC model, the system \textbf{never stores} the photon's trajectory during intermediate processes.
+
+\begin{itemize}
+\item \textbf{Intermediate State}: The photon propagates in the network in the form of a \textbf{"Class"} (wave function). This is a low-cost probability distribution propagation that does not occupy specific spacetime coordinate memory.
+
+\item \textbf{Final State}: Only when the photon hits the detector on Earth does the system execute instantiation.
+\end{itemize}
+
+\subsection{Dynamic Log Generation Algorithm}
+
+In computer science, there is a mature technique for handling such problems: \textbf{Lazy Logging} or \textbf{On-Demand Generation}.
+
+\begin{definition}[Dynamic History]
+In an interactive computational universe, the historical trajectory $H(O, t<T)$ of a physical object $O$ is not a static array, but a \textbf{function}. The output of this function depends on the observation operator $\hat{M}$ at time $T$:
+
+\begin{equation}
+H(O, t) = \text{GenerateHistory}(\text{CurrentState}_T, \text{ObservationType}, \text{PhysicalLaws})
+\end{equation}
+\end{definition}
+
+This is similar to \textbf{Procedural Generation} in video games. When you look back at the road behind you, the game engine generates the terrain behind based on the current coordinate seed. As long as the generated terrain is logically \textbf{Consistent} with your current position, you cannot tell whether it was "originally there" or "just generated."
+
+Wheeler used a \textbf{"Dragon"} to metaphorize this process:
+
+\begin{itemize}
+\item \textbf{Dragon Tail} (light source): A fixed anchor point.
+
+\item \textbf{Dragon Head} (detector): Our current observation, also fixed.
+
+\item \textbf{Dragon Body} (intermediate path): A cloud of uncomputed \textbf{"probability smoke"}. The system never calculates the specific form of the dragon body until the moment the dragon head bites the detector, when the system draws an optimal curve connecting head and tail.
+\end{itemize}
+
+\subsection{Quantum Eraser: Database Rollback and Commit}
+
+If "delayed choice" is not enough to illustrate the illusory nature of history, then the \textbf{Quantum Eraser Experiment} demonstrates the system's \textbf{editing permissions} for historical data.
+
+In the quantum eraser experiment, we can first measure the photon's path information (marking which slit it went through), and then \textbf{after} the photon reaches the screen, decide whether to \textbf{"erase"} this path information.
+
+\begin{itemize}
+\item If we retain path information: No interference fringes on the screen (particle history).
+
+\item If we erase path information (even though the photon has already hit the screen): Interference fringes magically recover (wave history).
+\end{itemize}
+
+This seems like time reversal physically, but computationally, it is a standard \textbf{Database Transaction} operation.
+
+\begin{enumerate}
+\item \textbf{Write-Ahead Logging}: When the photon passes through the double slits, the system records "path markers" in cache. At this point, history is in a \textbf{"Pending"} state.
+
+\item \textbf{Rollback}: If we execute the "erase" operation, it is equivalent to sending an `ABORT Transaction` instruction to the system. The system deletes the path markers in cache, the photon's state reverts to superposition, and the rendering engine re-invokes \textbf{wave rendering mode}, generating interference fringes.
+
+\item \textbf{Commit}: If we read the path information and leak it to the macroscopic environment (such as recording it on paper), it is equivalent to sending a `COMMIT` instruction. History is locked, particle trajectories are permanently written to \textbf{Read-Only Memory (ROM)}, and interference fringes disappear.
+\end{enumerate}
+
+\begin{theorem}[Historical Mutability Theorem]
+A physical event's historical record is mutable until the entanglement chain containing that event's information diffuses beyond the \textbf{Environmental Horizon}, making the information irreversible by local operations. Before that, history is merely \textbf{Dirty Data} in memory, which can be rewritten or discarded at any time.
+\end{theorem}
+
+\subsection{Consistency Check and Logical Closure}
+
+Since history is generated, why don't we see a logically chaotic world? Why can't we make Caesar not die through "delayed choice"?
+
+This is because the system runs a strict \textbf{Consistency Check Protocol}.
+
+When generating history, the algorithm must satisfy boundary condition constraints:
+
+\begin{equation}
+\text{History} \in \{ h \mid \text{Consistent}(h, \text{BigBang}) \land \text{Consistent}(h, \text{Now}) \}
+\end{equation}
+
+\begin{itemize}
+\item \textbf{Hardness of Macroscopic History}: For macroscopic events like Caesar's death, they have been `COMMIT`ed countless times by countless observers (people, air, photons). Their entanglement networks have diffused throughout the universe. To "rollback" this history would require reversing the entropy of the entire universe, which is computationally impossible (exponentially difficult).
+
+\item \textbf{Softness of Microscopic History}: For a single photon in the laboratory, its entanglement range is small. The system can easily rewrite its path history at low cost.
+\end{itemize}
+
+Therefore, \textbf{we possess the "divine power" to change microscopic history, but are imprisoned by the "inertia" of macroscopic history.}
+
+\subsection{Summary: Engineering Implementation of Reverse Causality}
+
+This section proves a core corollary in \textbf{Interactive Computational Cosmology}: \textbf{Causality is bidirectional at the computational level.}
+
+\begin{itemize}
+\item \textbf{Physical Layer (Forward)}: State $S_t$ constrains the possibilities of $S_{t+1}$.
+
+\item \textbf{Computational Layer (Reverse)}: The choice of observation $O_{t+1}$ \textbf{filters} and \textbf{materializes} the $S_t$ that meets the conditions.
+\end{itemize}
+
+We do not live on a one-way street flowing from past to future. We live on a \textbf{stage of instant calculation}. The script (history) is generated in real-time to match the current performance of the actors (observers). The past appears deterministic because the system, to maintain logical self-consistency, fills all plot holes with extreme perfection.
