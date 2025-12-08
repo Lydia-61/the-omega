@@ -67,3 +67,5 @@ Since we know perception is logarithmic, does this mathematical structure also m
 This leads to the theme of the next section: **$\ln$ as Decoder**. We will see that not only physics but even our nervous systems are constructed according to this logarithmic law.
 
 
+
+

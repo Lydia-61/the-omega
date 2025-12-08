@@ -1,0 +1,105 @@
+\section{Symmetric Monoidal Category (SMC) as Axiomatic Language of Physics}
+
+Physics is essentially the science of \textbf{Processes}: system A transforms into system B through process f. In traditional mathematics, we use set theory to describe states and functions to describe evolution. However, set theory focuses too much on "content of elements" while ignoring "structure of processes."
+
+Category theory places "processes" (morphisms) at the core. This section will establish \textbf{categorical axiomatic system} of physics, arguing that Symmetric Monoidal Categories (SMC) are the natural language for describing quantum information, spacetime causality, and matter interactions.
+
+\subsection{Categorization of Physical Processes: Objects and Morphisms}
+
+We first map the physical world into the structure of category $\mathbf{Phys}$.
+
+\begin{definition}[Basic Elements of Physical Category]
+\label{def:physical-category}
+\begin{enumerate}
+\item \textbf{Objects}: Objects $A, B, C, \dots$ in the category represent \textbf{Physical Systems}. In QCA context, they can be single lattice point's Hilbert space $\mathcal{H}_x$, or macroscopic subsystems (such as black holes or observers).
+
+\item \textbf{Morphisms}: Arrows $f: A \to B$ connecting two objects represent \textbf{Physical Processes}.
+
+\begin{itemize}
+\item \textbf{Dynamics}: Time evolution operator $U: \mathcal{H}_t \to \mathcal{H}_{t+1}$ is a morphism.
+
+\item \textbf{Measurement}: Coupling of apparatus with system $\mathcal{M}: \mathcal{H}_{sys} \to \mathcal{H}_{sys} \otimes \mathcal{H}_{meter}$ is a morphism.
+
+\item \textbf{States}: Physical state $|\psi\rangle$ is viewed as morphism $\psi: I \to A$ from trivial object (vacuum/unit) $I$ to system $A$ (preparation process).
+\end{itemize}
+
+\item \textbf{Composition}: Concatenation of morphisms $g \circ f: A \to C$ represents \textbf{temporal connection} of physical processes. If process $f$ occurs immediately followed by $g$, the overall effect is described by composite morphism. This corresponds to operator products in Heisenberg picture.
+\end{enumerate}
+\end{definition}
+
+\subsection{Tensor Structure of Composite Systems: Monoidal Category}
+
+A core feature of physics is that we can consider two independent systems $A$ and $B$ together, forming a composite system $A \otimes B$. This structure is described by \textbf{Monoidal Category} in category theory.
+
+\begin{definition}[Tensor Product and Monoidal Structure]
+\label{def:monoidal}
+Physical category $\mathbf{Phys}$ is equipped with a bifunctor $\otimes: \mathbf{Phys} \times \mathbf{Phys} \to \mathbf{Phys}$ satisfying:
+
+\begin{enumerate}
+\item \textbf{Object Product}: $A \otimes B$ is composite system of systems $A$ and $B$. In quantum mechanics, this is tensor product of Hilbert spaces; in classical mechanics, this is Cartesian product of phase spaces.
+
+\item \textbf{Morphism Product}: $f \otimes g: A \otimes B \to C \otimes D$ represents two processes occurring \textbf{in parallel}. $f$ acts on $A$, $g$ acts on $B$, without interference.
+
+\item \textbf{Unit Object $I$}: There exists a special "empty" system $I$ (vacuum), satisfying $A \otimes I \cong A \cong I \otimes A$. In QCA, $I$ corresponds to empty set with no degrees of freedom or ground state background.
+\end{enumerate}
+\end{definition}
+
+\textbf{Physical Corollary (Categorization of Causal Structure)}:
+
+\begin{itemize}
+\item \textbf{Vertical Composition ($g \circ f$)}: Represents \textbf{Causal Order} or time flow.
+
+\item \textbf{Horizontal Composition ($f \otimes g$)}: Represents \textbf{Spacelike Separation} or no causal correlation.
+\end{itemize}
+
+Category-theoretic diagrams naturally capture light cone structure of special relativity: morphisms that cannot be connected via $\circ$ must be connected via $\otimes$.
+
+\subsection{Commutability of Information: Symmetry}
+
+In physics, when we say "system A and system B," its physical meaning should not depend on the order we name them. That is, $A \otimes B$ should be equivalent to $B \otimes A$ in some natural sense.
+
+\begin{definition}[Symmetry and Swap Morphisms]
+\label{def:symmetry}
+Category $\mathbf{Phys}$ is \textbf{Symmetric} if for any objects $A, B$, there exists a natural isomorphism (swap gate):
+$$\sigma_{A,B}: A \otimes B \to B \otimes A$$
+
+satisfying $\sigma_{B,A} \circ \sigma_{A,B} = \text{id}_{A \otimes B}$ (swapping twice returns to original state).
+\end{definition}
+
+\textbf{Physical Meaning and QCA Connection}:
+
+\begin{enumerate}
+\item \textbf{SWAP Gate}: In QCA networks, $\sigma_{A,B}$ corresponds to SWAP operator exchanging quantum states of two lattice points.
+
+\item \textbf{Non-locality}: Although $\sigma_{A,B}$ mathematically appears as just reordering indices, physically, if $A$ and $B$ are spatially separated, realization of $\sigma_{A,B}$ requires \textbf{quantum teleportation} or \textbf{physical exchange} paths.
+
+\item \textbf{Statistical Properties}: Bose/Fermi statistics discussed in Chapter 17 manifest as properties of $\sigma_{A,B}$ in category theory. For fermions, swap morphism introduces $-1$ phase factor (in fermion category).
+\end{enumerate}
+
+\subsection{Categorical Formulation of No-Cloning Theorem}
+
+Category theory can not only describe "what exists," but also describe "what doesn't exist" through \textbf{structural absence}. Quantum mechanics' most famous feature—no-cloning theorem—is a direct corollary of SMC structure.
+
+\begin{theorem}[Cartesian Category and No-Clonability]
+\label{thm:no-cloning}
+In classical physics category (Cartesian category), each object $A$ has natural \textbf{diagonal map (copy map)} $\Delta: A \to A \otimes A$ and \textbf{projection map (delete map)} $\epsilon: A \to I$. This allows free copying and deletion of information.
+
+In quantum physics category (SMC $\mathbf{Hilb}$), there \textbf{does not exist} universal, linear natural transformation $\Delta$ such that $\Delta(|\psi\rangle) = |\psi\rangle \otimes |\psi\rangle$ holds for all $|\psi\rangle$.
+
+Therefore, \textbf{quantum information conservation (Unitary) is manifestation that SMC structure does not support Cartesian structure}. This is consistent with arguments for black hole information conservation in Chapter 15: because physical laws are morphisms in SMC, information cannot be cloned (branched) or deleted (converged to $I$), but can only flow between isomorphism classes.
+\end{theorem}
+
+\subsection{Summary: Grammar of Physics}
+
+Symmetric Monoidal Categories (SMC) constitute the underlying grammar of physics:
+
+\begin{enumerate}
+\item \textbf{Vocabulary}: Objects (systems) and morphisms (processes).
+
+\item \textbf{Syntax}: Concatenation (time) and parallel (space).
+
+\item \textbf{Logic}: No-cloning and information conservation.
+\end{enumerate}
+
+This language not only unifies quantum mechanics ($\mathbf{Hilb}$ category) and general relativity ($\mathbf{nCob}$ cobordism category), but also paves the way for introducing more powerful \textbf{Dagger Compact Categories (DCC)} in the next section 23.2. We will see how elegant geometric meaning "Hermitian conjugate ($\dagger$)" and "Bell states ($\cup$)" in quantum mechanics have in category theory.
+

@@ -78,3 +78,5 @@ $$|\psi_{final}\rangle = U_{loop} |\psi_{initial}\rangle = e^{i\theta} |\psi_{in
 
 它一旦建立，就会在希尔伯特空间中永恒旋转，既不消耗能量，也不产生废热。它是 **"存在"** 最经济的形式。
 
+
+

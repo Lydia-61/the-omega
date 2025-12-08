@@ -1,0 +1,84 @@
+\section{Causal Locality Theorem: Deriving Strict Light Cone Structure from Finite Propagation Radius}
+
+In Section 3.1, we established the kinematic foundation of QCA universe and introduced the dynamical core---local unitary update operator $U$. This section will prove that it is precisely the algebraic locality (Algebraic Locality) of $U$ that strictly derives the crucial \textbf{Light Cone Structure} in physics on discrete graph background.
+
+In continuous quantum field theory, causality is usually imposed as an axiom a priori (e.g., microcausality axiom: field operators at spacelike separation commute). But in the discrete ontology of this book, causality is not an a priori assumption, but a \textbf{emergent} theorem from microscopic discrete dynamics. We will prove that there exists a strict upper bound on information propagation speed, which manifests as light speed $c$ in the macroscopic limit.
+
+\subsection{Algebraic Support and Heisenberg Evolution}
+
+To mathematically describe ``information propagation,'' we need to examine evolution of observables (operators) over time in Heisenberg picture (Heisenberg Picture).
+
+\textbf{Definition 3.2.1 (Support Set of Operator)}
+
+For a local operator $O$ in total algebra $\mathcal{A}$, if it acts non-trivially only on subset $R \subset \Lambda$ (i.e., acts as identity operator $\mathbb{1}$ on complement of $R$), then $R$ is called the \textbf{support set} of this operator, denoted $\text{supp}(O)$.
+
+Formally, if $O \in \mathcal{A}_R \otimes \mathbb{1}_{\Lambda \setminus R}$, then $\text{supp}(O) \subseteq R$.
+
+\textbf{Definition 3.2.2 (Dynamical Mapping)}
+
+Let $U$ be the one-step update operator of QCA. For any operator $A \in \mathcal{A}$, its one-step time evolution is given by automorphism $\alpha$:
+
+\[
+\alpha(A) = U^\dagger A U
+\]
+
+$t$-step evolution is denoted $\alpha^t(A) = (U^\dagger)^t A U^t$.
+
+\subsection{Strict Locality Theorem}
+
+Lieb-Robinson bounds in continuous systems show that information propagation decays exponentially outside light cones, but mathematically still not strictly zero. In sharp contrast, the discrete structure of QCA guarantees \textbf{Strict} locality, i.e., information leakage outside light cones is strictly zero.
+
+\textbf{Theorem 3.2.3 (Finite Propagation Radius Theorem)}
+
+Let QCA update operator $U$ satisfy structural locality (Definition 3.1.2), i.e., for any single-point operator $A_x$ (supported on $x$), $\text{supp}(\alpha(A_x)) \subset \mathcal{N}(x)$, where $\mathcal{N}(x)$ is the finite neighborhood of $x$.
+
+Then for any local operator $O$ and its $t$-step evolution $\alpha^t(O)$, there exists a finite region $\mathcal{C}_t(\text{supp}(O))$ depending only on graph structure and $t$, such that:
+
+\[
+\text{supp}(\alpha^t(O)) \subseteq \mathcal{C}_t(\text{supp}(O))
+\]
+
+This region $\mathcal{C}_t$ grows linearly with time $t$.
+
+\textbf{Proof}:
+
+We proceed by induction on time step $t$.
+
+\begin{enumerate}
+\item \textbf{Base Case ($t=0$)}: $\alpha^0(O) = O$, support set unchanged.
+
+\item \textbf{Inductive Step}: Assume at $t=k$, $\text{supp}(\alpha^k(O)) \subseteq R_k$.
+
+Consider $t=k+1$:
+
+\[
+\alpha^{k+1}(O) = \alpha(\alpha^k(O))
+\]
+
+Since $\alpha^k(O)$ can be decomposed as a linear combination of basis operators supported on $R_k$, and according to locality of $U$, operators supported on $y \in R_k$ evolve to have support within $\mathcal{N}(y)$.
+
+Therefore, support set of $\alpha^{k+1}(O)$ is contained in the neighborhood union of $R_k$:
+
+\[
+R_{k+1} = \bigcup_{y \in R_k} \mathcal{N}(y)
+\]
+
+If graph $\Lambda$ has uniform degree (e.g., lattice), and neighborhood radius is $r$, then linear scale (diameter) of $R_t$ grows at most by $2r$. This proves that expansion of support set is strictly bounded.
+\end{enumerate}
+
+$\square$
+
+\subsection{Construction of Geometric Light Cone}
+
+Based on Theorem 3.2.3, we can define \textbf{geometric light cone} purely from graph-theoretic perspective.
+
+\textbf{Definition 3.2.4 (Geometric Influence Cone)}
+
+For spacetime point $(x, n) \in \Lambda \times \mathbb{Z}$, its \textbf{future geometric light cone} $C_{geo}^+(x, n)$ is defined as the set of all spacetime points that may be affected by perturbations at $x$ at time $n$:
+
+\[
+C_{geo}^+(x, n) = \{ (y, m) \in \Lambda \times \mathbb{Z} \mid m \ge n, \text{dist}(x, y) \le R \cdot (m-n) \}
+\]
+
+where $\text{dist}(x, y)$ is graph distance (shortest path length), and $R$ is propagation radius of $U$.
+

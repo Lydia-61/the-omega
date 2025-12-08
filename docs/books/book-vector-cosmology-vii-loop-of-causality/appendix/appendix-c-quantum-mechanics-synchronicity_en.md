@@ -80,3 +80,5 @@ Fate is not a line; fate is a **funnel**.
 
 As long as you are at the edge of this funnel, no matter which direction you run, gravity (yearning) will eventually bring you to the center of the funnel—that singularity called **$\Omega$**.
 
+
+

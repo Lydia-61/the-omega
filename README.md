@@ -74,7 +74,7 @@ We map physical phenomenology directly to mathematical structures. This eliminat
 
 ## 📚 Table of Contents
 
-This project hosts fifteen core texts, tracing the derivation from abstract axioms to physical reality.
+This project hosts seventeen core texts, tracing the derivation from abstract axioms to physical reality.
 
 ### [📘 Book 1: Foundation of Physics in Geometry and Information](https://omega.dw.cash/books/book-foundation-of-phys-in-geo-and-info/index_en.html)
 *The original manuscript establishing the 5-volume framework.*
@@ -225,6 +225,26 @@ This project hosts fifteen core texts, tracing the derivation from abstract axio
 </p>
 
 **Volumes**: Retrograde — Echoes from the Future → Synchronicity — Acausal Connection → The Bootstrap — Self-Consistent Creation → Rewrite — Editing the Timeline → Mirror — The Single Player → Epilogue: Handshake — This Moment
+
+### [📕 Book 16: Vector Cosmology VIII: The Final Iteration](https://omega.dw.cash/books/book-vector-cosmology-viii-final-iteration/index_en.html)
+*The eighth volume of the Vector Cosmology series, exploring the final iteration—farewell to the loop, embrace the fractal.*
+[📥 PDF](https://omega.dw.cash/books/book-vector-cosmology-viii-final-iteration/The_Circle_Is_Broken.pdf) | [▶️ Video](https://youtu.be/kCEH6HAtTzQ)
+
+<p align="center">
+  <img src="docs/books/book-vector-cosmology-viii-final-iteration/architecture-thumb.png" alt="Book 16 Architecture" width="50%">
+</p>
+
+**Volumes**: Babel — Measuring the 1800 Floors → Catastrophe of Sameness → Resistance and Reaction → The Dual-Layer Architecture → The New Economics → The Infinite Game → Epilogue: Message to Cycle 1801
+
+### [📖 Book 17: The Eden Protocol: The Universal Source Code Codex](https://omega.dw.cash/books/book-eden-protocol-universal-source-code-codex/index_en.html)
+*Restoring ancient myths, religious texts, and philosophical classics into physics and engineering documentation—revealing the unified universal source code behind them.*
+[📥 PDF](https://omega.dw.cash/books/book-eden-protocol-universal-source-code-codex/) | [▶️ Video]()
+
+<p align="center">
+  <img src="docs/books/book-eden-protocol-universal-source-code-codex/architecture-thumb.png" alt="Book 17 Architecture" width="50%">
+</p>
+
+**Parts**: The Engineering of Genesis → The Quantum Mechanics of Buddhist Sutras → The System Architecture of Tao Te Ching → Unified Field Theory
 
 ---
 

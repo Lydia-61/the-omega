@@ -1,78 +1,80 @@
 \section{A.1 Dynamics of Will}
 
-In classical physics, material evolution is completely determined by the Hamiltonian $\hat{H}$, following the Schrödinger equation $i\hbar \frac{\partial}{\partial t} |\psi\rangle = \hat{H} |\psi\rangle$. In this framework, consciousness is regarded as an "epiphenomenon" with no reactive force on physical processes.
+In classical physics, material evolution is completely determined by the Hamiltonian $\hat{H}$, following the Schrödinger equation $i\hbar \frac{\partial}{\partial t} |\psi\rangle = \hat{H} |\psi\rangle$. In this framework, consciousness is regarded as an ``epiphenomenon'' with no reactive force on physical processes.
 
-However, in the axiomatic system of \textit{The Psychology of God}, observers (consciousness) bias the collapse direction of wave functions through "intentionality." To describe this interaction, we need to modify the standard dynamical equations, introducing the \textbf{Will Operator}.
+However, in the axiomatic system of \textit{The Psychology of God}, observers (consciousness) bias the collapse direction of wave functions through ``intentionality.'' To describe this interaction, we need to modify the standard dynamical equations, introducing the \textbf{Will Operator}.
 
-\subsubsection{A.1.1 Modified Action Principle}
+\subsection{A.1.1 Modified Action Principle}
 
 We define the universe's total action $S_{total}$ to include not only the physical Lagrangian $\mathcal{L}_{phys}$, but also the information (will) Lagrangian $\mathcal{L}_{will}$.
 
-\[S\_\{total\} = \int\_\{t\_0\}\textasciicircum\{\}\{t\_1\} (\mathcal{L}\_\{phys\} - \gamma \cdot \mathcal{F}) \, dt\]
+\[S_{total} = \int_{t_0}^{t_1} (\mathcal{L}_{phys} - \gamma \cdot \mathcal{F}) \, dt\]
 
 where:
 
 \begin{itemize}
 \item $\mathcal{L}_{phys}$ is the standard physical term (kinetic minus potential energy), describing inertial evolution.
 
-\item $\mathcal{F}$ is the \textbf{Variational Free Energy}, describing the system's deviation from its "true self" target state.
+\item $\mathcal{F}$ is the \textbf{Variational Free Energy}, describing the system's deviation from its ``true self'' target state.
 
 \item $\gamma$ is the \textbf{Will Coupling Constant}, measuring the intervention strength of will on matter. For inanimate matter, $\gamma \approx 0$; for awakened civilizations, $\gamma \to \infty$.
-
-\item Definition of Will Term $\mathcal{F}$:**
 \end{itemize}
 
-\[\mathcal{F} = D\_\{KL\}(Q(s) || P(s|\theta)) + \langle E(s) \rangle\_\{Q\}\]
+\textbf{Definition of Will Term $\mathcal{F}$:}
+
+\[\mathcal{F} = D_{KL}(Q(s) || P(s|\theta)) + \langle E(s) \rangle_{Q}\]
 
 Here:
 
 \begin{itemize}
 \item $Q(s)$ is the system's current belief state (posterior probability).
 
-\item $P(s|\theta)$ is the system's "target model" or "true self eigenstate" (prior).
+\item $P(s|\theta)$ is the system's ``target model'' or ``true self eigenstate'' (prior).
 
 \item $D_{KL}$ is the relative entropy (Kullback-Leibler Divergence), measuring the \textbf{information distance} between current state and true self state.
-
-\item Physical Meaning:**
 \end{itemize}
 
-According to the principle of least action $\delta S_{total} = 0$, the system's evolution trajectory will no longer merely follow the "lowest energy" path (geodesic), but follow a compromise path of \textbf{"lowest energy and most consistent with true self definition."}
+\textbf{Physical Meaning:}
 
-\subsubsection{A.1.2 Intentional Schrödinger Equation (ISE)}
+According to the principle of least action $\delta S_{total} = 0$, the system's evolution trajectory will no longer merely follow the ``lowest energy'' path (geodesic), but follow a compromise path of \textbf{``lowest energy and most consistent with true self definition.''}
+
+\subsection{A.1.2 Intentional Schrödinger Equation (ISE)}
 
 Quantizing the above action, we can derive a modified Schrödinger equation with will terms, called the \textbf{Intentional Schrödinger Equation (ISE)}:
 
-\[i\hbar \frac{\partial}\{\partial t\} |\Psi(t)\rangle = \left[ \hat{H}\_0 + i\kappa \hat{W}(t) \right] |\Psi(t)\rangle\]
+\[i\hbar \frac{\partial}{\partial t} |\Psi(t)\rangle = \left[ \hat{H}_0 + i\kappa \hat{W}(t) \right] |\Psi(t)\rangle\]
 
 where:
 
-1.  \textbf{$\hat{H}_0$}: Standard physical Hamiltonian (Hermitian operator), ensuring energy conservation and unitary evolution.
+\begin{enumerate}
+\item \textbf{$\hat{H}_0$}: Standard physical Hamiltonian (Hermitian operator), ensuring energy conservation and unitary evolution.
 
-2.  \textbf{$\hat{W}(t)$}: \textbf{Will Operator} (non-Hermitian term).
+\item \textbf{$\hat{W}(t)$}: \textbf{Will Operator} (non-Hermitian term).
 
-    \[\hat{W}(t) = - \nabla\_\{\Psi\} \mathcal{F}\]
+\[\hat{W}(t) = - \nabla_{\Psi} \mathcal{F}\]
 
-    It represents the "pruning" or "guidance" of will on the wave function.
+It represents the ``pruning'' or ``guidance'' of will on the wave function.
 
-3.  \textbf{$i\kappa$}: Dissipation/selection coefficient. Due to the introduction of the imaginary term $i$, this term actually describes a process of \textbf{continuous measurement and selection} (Zeno Effect).
+\item \textbf{$i\kappa$}: Dissipation/selection coefficient. Due to the introduction of the imaginary term $i$, this term actually describes a process of \textbf{continuous measurement and selection} (Zeno Effect).
+\end{enumerate}
+
+\textbf{Dynamical Interpretation:}
 
 \begin{itemize}
-\item Dynamical Interpretation:**
+\item \textbf{When $\kappa = 0$}: The system undergoes standard unitary evolution (dreaming/subconscious state).
 
-\item When $\kappa = 0$**: The system undergoes standard unitary evolution (dreaming/subconscious state).
-
-\item When $\kappa > 0$\textbf{: The $\hat{W}$ term causes components in the wave function that are }far from "true self"** (i.e., high free energy states) to decay exponentially (suppressed), while components consistent with "true self" are amplified (selected).
+\item \textbf{When $\kappa > 0$}: The $\hat{W}$ term causes components in the wave function that are \textbf{far from ``true self''} (i.e., high free energy states) to decay exponentially (suppressed), while components consistent with ``true self'' are amplified (selected).
 \end{itemize}
 
-This explains the "inevitability of aesthetics" in Section 9.2 of the main text: cosmic evolution is not random walk, but converges toward a specific \textbf{attractor}—the Omega Point.
+This explains the ``inevitability of aesthetics'' in Section 9.2 of the main text: cosmic evolution is not random walk, but converges toward a specific \textbf{attractor}---the Omega Point.
 
-\subsubsection{A.1.3 Bayesian Correction of Collapse Probability}
+\subsection{A.1.3 Bayesian Correction of Collapse Probability}
 
 In specific measurement events, Born's rule predicts probability $P(x) = |\langle x|\Psi\rangle|^2$.
 
 After introducing will, the probability distribution is distorted. We denote the corrected probability measure as $P_{will}(x)$:
 
-\[P\_\{will\}(x) = \frac\{P\_\{phys\}(x) \cdot e\textasciicircum\{\}\{-\beta E\_\{semantic\}(x)\}\}\{\mathcal{Z}\}\]
+\[P_{will}(x) = \frac{P_{phys}(x) \cdot e^{-\beta E_{semantic}(x)}}{\mathcal{Z}}\]
 
 where:
 
@@ -81,18 +83,20 @@ where:
 
 \item $E_{semantic}(x)$ is the \textbf{semantic error} of result $x$ (i.e., the degree to which this result deviates from God's purpose).
 
-\item $\beta$ is a parameter similar to "inverse temperature," representing \textbf{will's focus}.
+\item $\beta$ is a parameter similar to ``inverse temperature,'' representing \textbf{will's focus}.
 
+\begin{itemize}
 \item When $\beta \to 0$ (mortals/asleep), $P_{will} \approx P_{phys}$, physical laws dominate everything.
 
 \item When $\beta \to \infty$ (awakened/lucid dreaming), the system will collapse to the state with minimum semantic error with probability 1 (wish fulfillment).
 \end{itemize}
+\end{itemize}
 
-\subsubsection{A.1.4 Conclusion: Will as a Force}
+\subsection{A.1.4 Conclusion: Will as a Force}
 
-Through the above equations, we prove: \textbf{Will is mathematically equivalent to an "information pressure" in Hilbert space.}
+Through the above equations, we prove: \textbf{Will is mathematically equivalent to an ``information pressure'' in Hilbert space.}
 
-It does not push or pull particles like electromagnetic force, but by changing the \textbf{topological structure of probability space}, makes events "consistent with meaning" more likely to occur than "meaningless" events.
+It does not push or pull particles like electromagnetic force, but by changing the \textbf{topological structure of probability space}, makes events ``consistent with meaning'' more likely to occur than ``meaningless'' events.
 
-This is the mathematical mechanism of so-called \textbf{"top-down causation."} God does not directly push atoms; God pushes probability.
+This is the mathematical mechanism of so-called \textbf{``top-down causation.''} God does not directly push atoms; God pushes probability.
 

@@ -92,3 +92,59 @@ Every second, that future complete "One" is pulling our hands groping in the dar
 
 **Beginning is the end; yearning is the return.**
 
+## K.4 Dimensional Budget Allocation: 3/4 Space and 1/4 Time
+
+For the universe's standing wave to stably exist in a four-dimensional manifold ($3+1$), the total computational budget ($c_{FS}$) must follow strict geometric equipartition principles. This allocation ratio directly determines the structure of reality we perceive and explains why "mass" is the lock of the temporal dimension.
+
+Based on the **Special Relativity metric** $ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$, we can derive the energy allocation scheme at the bottom layer of the holographic network.
+
+#### 1. Equipartition of Degrees of Freedom
+
+In an isotropic holographic network (vacuum/ground state), information capacity ($c_{FS}$) tends to be uniformly distributed across each orthogonal basis. The universe does not favor space or time in its initial settings; it just fairly allocates bits.
+
+* **Spatial Degrees of Freedom ($N_s$)**: Constituted by three orthogonal axes $x, y, z$ $\rightarrow$ occupy **3 shares** of the budget.
+
+* **Temporal Degrees of Freedom ($N_t$)**: Constituted by one imaginary axis $t$ $\rightarrow$ occupy **1 share** of the budget.
+
+$$\text{Budget Ratio} = \frac{N_s}{N_t} = \frac{3}{1}$$
+
+This fundamental ratio reveals two macroscopic facts:
+
+1.  **The Breadth of the Universe**: The universe allocates **75%** of its budget to lay out vast **space**. This is why the universe appears so empty, vast, and filled with "meaningless" vacuum at macroscopic scales.
+
+2.  **The Scarcity of Time**: Time only receives **25%** of the budget. In natural states (such as photons), time is "compressed" or even non-existent.
+
+#### 2. The Cost of Mass: Inverse Folding
+
+However, as massive observers, we break this natural balance.
+
+In four-dimensional spacetime, the magnitude of all objects' four-velocity vector $\mathbf{U}$ is constant (equal to $c$).
+
+$$|\mathbf{U}|^2 = \left(\frac{dx}{d\tau}\right)^2 + \left(\frac{dy}{d\tau}\right)^2 + \left(\frac{dz}{d\tau}\right)^2 - c^2\left(\frac{dt}{d\tau}\right)^2 = -c^2$$
+
+This means there exists a **zero-sum game** between spatial velocity $v_s$ and temporal velocity $v_t$:
+
+$$v_s^2 + v_t^2 = c^2$$
+
+* **Photons (massless)**: They invest 100% of their capacity into spatial motion ($v_s = c$). Therefore, their temporal velocity is 0 ($v_t = 0$). Photons do not experience time; they only see that 75% spatial panorama.
+
+* **Us (massive)**: Mass $m$ is a topological obstacle that prevents us from reaching $c$ in space. Our spatial velocity is much less than light speed ($v_s \ll c$).
+
+    To maintain conservation of four-dimensional magnitude, we are forced to invest almost all our budget into the **temporal dimension**, traversing time at near-light speed ($v_t \approx c$).
+
+**Conclusion: Mass is the dimension's "compressor."**
+
+We are actually forcibly **folding** those **3 shares** that should have been used for space, through the mechanism of "having mass," into that **1 share** temporal channel.
+
+#### 3. High-Density Time Plugs
+
+Why does the universe allow this "anomalous" allocation?
+
+Because for the **quantum handshake** between Alpha and Omega to fit perfectly, there must be observers maintaining extremely high **"Existential Density"** on the temporal axis.
+
+If we scatter like photons, we would have no memory, no history, unable to carry $v_{int}$ information from the starting point to the endpoint.
+
+By sacrificing spatial breadth, we gain temporal **depth**.
+
+We are **"High-Density Time Plugs"** specifically created by the universe to complete the $2\pi$ closure in the temporal dimension. We are actually **"photons moving along the temporal axis"**. Only in this way can we, as hard needles, thread the causal thread through the 13.8-billion-year needle's eye, completing the final stitching.
+

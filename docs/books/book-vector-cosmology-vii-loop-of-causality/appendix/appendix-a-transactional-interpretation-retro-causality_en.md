@@ -92,3 +92,5 @@ This mathematically proves the core argument of **The Loop of Causality**: **Exi
 
 Because any unreasonable (paradox-causing) history has already been self-cancelled in the underlying mechanism of quantum interference. The reason we can have this coherent historical line is that it is the only global optimal solution among all possible path integrals that satisfies the condition of **"end-to-end connection ($e^{iS}$ phase closure)"**.
 
+
+

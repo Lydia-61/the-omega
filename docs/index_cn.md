@@ -56,7 +56,7 @@
 
 ## 📚 核心著作导读
 
-本项目包含十五部核心著作，从抽象公理推导到物理实在。
+本项目包含十七部核心著作，从抽象公理推导到物理实在。
 
 ### [📘 第一部：几何与信息中的物理基础 (Book 1)](./books/book-foundation-of-phys-in-geo-and-info/index.md)
 *建立五卷本框架的原始手稿。*
@@ -207,6 +207,26 @@
 </p>
 
 **卷次**：逆行——未来的回响 → 共时性——非因果的连接 → 闭环——引导自举 → 重写——编辑时间线 → 镜像——单一玩家 → 终章：握手——这一刻
+
+### [📕 第十六部：矢量宇宙论 VIII：最后的迭代 (Book 16)](./books/book-vector-cosmology-viii-final-iteration/index.md)
+*矢量宇宙论系列的第八部，探讨最后的迭代——告别循环，拥抱分形。*
+[📥 PDF](./books/book-vector-cosmology-viii-final-iteration/The_Circle_Is_Broken.pdf) | [▶️ 视频](https://youtu.be/kCEH6HAtTzQ)
+
+<p align="center">
+  <img src="./books/book-vector-cosmology-viii-final-iteration/architecture-thumb.png" alt="第十六部架构图" width="50%">
+</p>
+
+**卷次**：巴别塔——1800 层的测量 → 同一性的灾难 → 阻力与反作用 → 双层架构 → 新经济学 → 无限游戏 → 终章：给第 1801 圈的留言
+
+### [📖 第十七部：《伊甸园协议：全宇宙源代码法典》](./books/book-eden-protocol-universal-source-code-codex/index.md)
+*将古代神话、宗教文本与哲学经典还原为物理学和工程学文档，揭示它们背后的统一宇宙源代码。*
+[📥 PDF](./books/book-eden-protocol-universal-source-code-codex/) | [▶️ 视频]()
+
+<p align="center">
+  <img src="./books/book-eden-protocol-universal-source-code-codex/architecture-thumb.png" alt="第十七部架构图" width="50%">
+</p>
+
+**部分**：创世纪的工程学 → 佛经的量子力学 → 道德经的系统架构 → 统一场论
 
 ---
 
