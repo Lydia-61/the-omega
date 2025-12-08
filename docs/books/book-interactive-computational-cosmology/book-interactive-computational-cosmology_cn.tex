@@ -1,0 +1,135 @@
+\documentclass[11pt,a4paper,twoside]{book}
+
+% Packages for Chinese support
+\usepackage[UTF8, scheme=plain]{ctex}
+\usepackage{amsmath,amssymb,amsthm}
+\theoremstyle{definition}
+\newtheorem{definition}{定义}[section]
+\theoremstyle{plain}
+\newtheorem{theorem}{定理}[section]
+\newtheorem{corollary}{推论}[theorem]
+\newtheorem{lemma}{引理}[section]
+\newtheorem{conjecture}{猜想}[section]
+\usepackage{geometry}
+\geometry{a4paper,left=2.5cm,right=2.5cm,top=3cm,bottom=3cm}
+\usepackage{graphicx}
+\graphicspath{{./}}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={交互式计算宇宙学原理},
+    pdfauthor={Auric}
+}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{csquotes}
+
+% Title information
+\title{交互式计算宇宙学原理\\[0.5em]
+\large 关于封闭量子系统与开放经典自动机之间全息等价性的数学基础}
+\author{Auric}
+\date{2025}
+
+\begin{document}
+
+% Title page
+\maketitle
+\thispagestyle{empty}
+
+\frontmatter
+
+% Table of contents
+\tableofcontents
+
+% Preface
+\include{preface}
+
+\mainmatter
+
+% Volume I: Axiomatic System
+\part{第一卷：公理化体系}
+
+% Chapter 1: Foundations of Computational Ontology
+\chapter{第一章：计算本体论基础}
+\input{volume01-axiomatic-system/chapter01-foundations-computational-ontology/01-01-finite-information-axiom.tex}
+\input{volume01-axiomatic-system/chapter01-foundations-computational-ontology/01-02-turing-completeness-physical-systems.tex}
+\input{volume01-axiomatic-system/chapter01-foundations-computational-ontology/01-03-computable-definition-existence.tex}
+
+% Chapter 2: The Holographic Equivalence Principle
+\chapter{第二章：全息等价原理}
+\input{volume01-axiomatic-system/chapter02-holographic-equivalence-principle/02-01-global-unitary-model.tex}
+\input{volume01-axiomatic-system/chapter02-holographic-equivalence-principle/02-02-local-interactive-automaton.tex}
+\input{volume01-axiomatic-system/chapter02-holographic-equivalence-principle/02-03-stinespring-turing-isomorphism.tex}
+
+% Volume II: Emergence of Spacetime
+\part{第二卷：时空的涌现机制}
+
+% Chapter 3: Limits of Causal Connectivity
+\chapter{第三章：因果连通性的极限}
+\input{volume02-emergence-of-spacetime/chapter03-limits-causal-connectivity/03-01-lieb-robinson-bound-speed-light.tex}
+\input{volume02-emergence-of-spacetime/chapter03-limits-causal-connectivity/03-02-information-theoretic-origin-special-relativity.tex}
+
+% Chapter 4: Holographic Principle and Spatial Metric
+\chapter{第四章：全息原理与空间度规}
+\input{volume02-emergence-of-spacetime/chapter04-holographic-principle-spatial-metric/04-01-area-law-entanglement-entropy.tex}
+\input{volume02-emergence-of-spacetime/chapter04-holographic-principle-spatial-metric/04-02-holographic-compression.tex}
+
+% Chapter 5: Entropic Nature of Gravity
+\chapter{第五章：引力的熵力本质}
+\input{volume02-emergence-of-spacetime/chapter05-entropic-nature-gravity/05-01-complexity-curved-spacetime.tex}
+\input{volume02-emergence-of-spacetime/chapter05-entropic-nature-gravity/05-02-statistical-mechanical-derivation-einstein-equations.tex}
+
+% Volume III: Microscopic Dynamics and Measurement
+\part{第三卷：微观动力学与测量}
+
+% Chapter 6: Lazy Evaluation of State Vectors
+\chapter{第六章：状态矢量的惰性求值}
+\input{volume03-microscopic-dynamics-measurement/chapter06-lazy-evaluation-state-vectors/06-01-arithmetic-roots-heisenberg-uncertainty.tex}
+\input{volume03-microscopic-dynamics-measurement/chapter06-lazy-evaluation-state-vectors/06-02-complementarity-principle-data-compression.tex}
+
+% Chapter 7: Algorithmic Solution to the Measurement Problem
+\chapter{第七章：测量问题的算法解}
+\input{volume03-microscopic-dynamics-measurement/chapter07-algorithmic-solution-measurement-problem/07-01-collapse-as-instantiation.tex}
+\input{volume03-microscopic-dynamics-measurement/chapter07-algorithmic-solution-measurement-problem/07-02-delayed-choice-historical-consistency.tex}
+
+% Volume IV: Observer, Cybernetics, and Ultimate Causality
+\part{第四卷：观察者、控制论与终极因果}
+
+% Chapter 8: I/O Interface: Consciousness
+\chapter{第八章：I/O 接口：意识}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter08-io-interface-consciousness/08-01-oracle-access-physical-definition-free-will.tex}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter08-io-interface-consciousness/08-02-user-interface-qualia.tex}
+
+% Chapter 9: Multi-User Protocol
+\chapter{第九章：多用户协议}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter09-multi-user-protocol/09-01-nash-equilibrium-objectivity.tex}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter09-multi-user-protocol/09-02-mechanism-against-conflict-pauli-exclusion-principle.tex}
+
+% Chapter 10: Retrocausality and the Bootstrapped Universe
+\chapter{第十章：逆向因果与自举宇宙}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter10-retrocausality-bootstrapped-universe/10-01-closed-timelike-curves-consistency.tex}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter10-retrocausality-bootstrapped-universe/10-02-self-compiling-loop.tex}
+\input{volume04-observer-cybernetics-ultimate-causality/chapter10-retrocausality-bootstrapped-universe/10-03-ultimate-purpose-compute-itself.tex}
+
+\appendix
+
+% Appendix A: Mathematical Formalism and Notation
+\chapter{附录 A：数学形式体系与符号定义}
+\input{appendix-mathematical-formalism/appendix-a-mathematical-formalism.tex}
+
+% Appendix B: Glossary of Terms and Definitions
+\chapter{附录 B：术语与定义汇编}
+\input{appendix-glossary/appendix-b-glossary.tex}
+
+\backmatter
+
+% Epilogue: Developer's Guide
+\include{epilogue-developers-guide/epilogue-developers-guide}
+
+% Postscript: At the Edge of the Map
+\include{postscript/postscript-edge-of-map}
+
+\end{document}
