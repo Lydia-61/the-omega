@@ -1,0 +1,85 @@
+\section{The Global Unitary Model}
+
+\textbf{(全局幺正演化模型)}
+
+In Chapter 1, we established the finiteness and computability of physical reality. Based on this, we can construct a complete mathematical model describing the entire universe (including all matter, energy, and observers). In this model, we treat the universe as a \textbf{Quantum Turing Machine (QTM)} that is isolated from the outside world and runs self-consistently.
+
+This model represents the ideal objective perspective pursued by physics—the ontology of the universe after removing all subjective observational effects. We will see that from this perspective, the universe is a strictly deterministic, information-conserving, static structure containing all historical branches.
+
+\subsection{Global Hilbert Space}
+
+According to the \textbf{Axiom of Finite Information}, the total degrees of freedom of the universe are finite. Let the universe contain $N$ basic information units (qubits), then the global Hilbert space $\mathcal{H}_{total}$ can be defined as the tensor product of $N$ local two-dimensional Hilbert spaces:
+
+\begin{equation}
+\mathcal{H}_{total} = \bigotimes_{x \in \Lambda} \mathcal{H}_x \cong (\mathbb{C}^2)^{\otimes N}
+\end{equation}
+
+where $\Lambda$ is a discrete spacetime lattice. The dimension of this space $D = 2^N$ is enormous but not infinite. The \textbf{Global Quantum State} $|\Psi(t)\rangle$ of the universe at any moment is a unit vector in $\mathcal{H}_{total}$.
+
+This state vector $|\Psi(t)\rangle$ contains the positions, momenta, spins of all particles in the universe, as well as all complex entanglement relationships. It is a \textbf{complete description} of physical reality. According to the linear superposition principle of quantum mechanics, it can be expanded as a linear combination of a set of orthogonal basis states (such as all possible classical configurations):
+
+\begin{equation}
+|\Psi(t)\rangle = \sum_{i=1}^{D} c_i(t) |World_i\rangle
+\end{equation}
+
+Here, each $|World_i\rangle$ represents a specific classical universe snapshot. The coefficients $c_i(t)$ are complex probability amplitudes, whose squared moduli $|c_i|^2$ represent the weight of that configuration in the global wave function.
+
+\subsection{Eternal Dynamics: Global Unitary Operator $\hat{U}$}
+
+In the QTM model, the universe is a closed system that does not interact with any external environment. Therefore, its evolution strictly follows the \textbf{Unitarity} of quantum mechanics.
+
+We encode physical laws as a global unitary evolution operator $\hat{U}$. The evolution equation of the universe state with discrete time steps $t$ is:
+
+\begin{equation}
+|\Psi(t+1)\rangle = \hat{U} |\Psi(t)\rangle
+\end{equation}
+
+This equation is the discrete version of the Schrödinger equation. The operator $\hat{U}$ must satisfy the unitary condition $\hat{U}^\dagger \hat{U} = I$, which ensures the conservation of the norm of the global wave function:
+
+\begin{equation}
+\langle \Psi(t+1) | \Psi(t+1) \rangle = \langle \Psi(t) | \hat{U}^\dagger \hat{U} | \Psi(t) \rangle = 1
+\end{equation}
+
+\textbf{Physical Implication: Information Conservation}
+
+Unitary evolution means that the evolution of the global quantum state is \textbf{Reversible}. If we know the current state $|\Psi(t)\rangle$ and the physical law $\hat{U}$, we can not only perfectly predict any future state $|\Psi(t+n)\rangle$, but also perfectly retrodict past states $|\Psi(t-n)\rangle = (\hat{U}^\dagger)^n |\Psi(t)\rangle$.
+
+In the QTM model, \textbf{information is never created nor destroyed}. What we call "entropy increase" or "forgetting" is merely information diffusing from local degrees of freedom into global entanglement correlations. For the omniscient God's perspective (possessing the computational capability of $\hat{U}^\dagger$), the von Neumann entropy of the universe always remains zero (pure state).
+
+\subsection{Block Universe and Feynman Path Summation}
+
+If we examine the expansion of $|\Psi(t)\rangle$ along the time axis, the QTM model presents a \textbf{Block Universe} picture.
+
+Using Feynman path integrals (path summation in the discrete architecture), the evolution from initial time $t=0$ to time $T$ can be expressed as coherent superposition of all possible historical paths:
+
+\begin{equation}
+|\Psi(T)\rangle = \sum_{\text{all paths } \gamma} \mathcal{A}[\gamma] |Final_\gamma\rangle
+\end{equation}
+
+where $\mathcal{A}[\gamma]$ is the complex amplitude of path $\gamma$, determined by the action $e^{iS}$.
+
+In this picture:
+
+\begin{enumerate}
+\item \textbf{Multiple Histories Coexist}: All historical paths consistent with physical laws (e.g., "cat dead" and "cat alive") have non-zero amplitudes in the wave function. They are parallel existing realities.
+
+\item \textbf{No Collapse}: Since the system is closed, there is no external observer to perform measurements, so the wave function never collapses. Schrödinger's cat forever remains in a superposition of life and death.
+
+\item \textbf{Static Spacetime}: The time parameter $t$ is merely an index in Hilbert space. The entire historical structure $(|\Psi(0)\rangle, |\Psi(1)\rangle, \dots, |\Psi(T)\rangle)$ is like a completed crystal, statically suspended in logical space.
+\end{enumerate}
+
+\subsection{The Absence of Subjective Experience}
+
+Although the QTM model is mathematically perfectly self-consistent, it faces a fatal explanatory gap: \textbf{it cannot derive the concepts of "now" and "I."}
+
+In a wave function containing all possibilities, all moments are equal, and all historical branches are equal. There is no special pointer marking "now is 2025" or "I see the cat alive."
+
+\begin{itemize}
+\item \textbf{No "Now"}: Because all states at different $t$ are rigidly connected by $\hat{U}$, past and future are ontologically equivalent.
+
+\item \textbf{No "Choice"}: Because all branches occur, so-called choices are illusions. A person walking left at a fork and a person walking right are merely different components in the global wave function.
+\end{itemize}
+
+This leads to the core question of this book: \textbf{Why do we, as observers within the universe, experience not parallel multiple histories, but a single, linear, random time flow?}
+
+To answer this question, we need to introduce the second endpoint of the duality—the \textbf{Classical Interactive Automaton Model (CITM)}, which will be detailed in the next section.

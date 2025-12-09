@@ -1,0 +1,85 @@
+\section{全局幺正演化模型}
+
+\textbf{(The Global Unitary Model, QTM)}
+
+在第一章中，我们确立了物理实在的有限性与可计算性。基于此，我们可以构建一个描述整个宇宙（包含所有物质、能量及观测者）的完备数学模型。在这一模型中，我们将宇宙视为一台与外界隔离的、自洽运行的\textbf{量子图灵机（Quantum Turing Machine, QTM）}。
+
+该模型代表了物理学追求的理想客观视角——即去除所有主观观测效应后的宇宙本体。我们将看到，在这个视角下，宇宙是一个严格决定论的、信息守恒的、包含所有历史分支的静态结构。
+
+\subsection{全域希尔伯特空间}
+
+根据\textbf{有限信息公理}，宇宙的总自由度是有限的。设宇宙包含 $N$ 个基本信息单元（量子比特），则全域希尔伯特空间 $\mathcal{H}_{total}$ 可以定义为 $N$ 个局域二维希尔伯特空间的张量积：
+
+\begin{equation}
+\mathcal{H}_{total} = \bigotimes_{x \in \Lambda} \mathcal{H}_x \cong (\mathbb{C}^2)^{\otimes N}
+\end{equation}
+
+其中 $\Lambda$ 是离散的时空晶格。这一空间的维数 $D = 2^N$ 虽然巨大，但并非无限。宇宙在任意时刻的\textbf{全域量子态（Global Quantum State）} $|\Psi(t)\rangle$ 是 $\mathcal{H}_{total}$ 中的一个单位向量。
+
+这一状态向量 $|\Psi(t)\rangle$ 包含了宇宙中所有粒子的位置、动量、自旋以及所有复杂的纠缠关系。它是对物理实在的\textbf{完备描述}。根据量子力学的线性叠加原理，它可以被展开为一组正交基底（如所有可能的经典构型）的线性组合：
+
+\begin{equation}
+|\Psi(t)\rangle = \sum_{i=1}^{D} c_i(t) |World_i\rangle
+\end{equation}
+
+这里，每一个 $|World_i\rangle$ 代表一个特定的经典宇宙快照（Snapshot）。系数 $c_i(t)$ 是复数概率幅，其模方 $|c_i|^2$ 代表该构型在全域波函数中的权重。
+
+\subsection{永恒的动力学：全局幺正算符 $\hat{U}$}
+
+在 QTM 模型中，宇宙是一个封闭系统，不与任何外部环境发生相互作用。因此，其演化严格遵循量子力学的\textbf{幺正性（Unitarity）}。
+
+我们将物理定律编码为一个全局幺正演化算符 $\hat{U}$。宇宙状态随离散时间步 $t$ 的演化方程为：
+
+\begin{equation}
+|\Psi(t+1)\rangle = \hat{U} |\Psi(t)\rangle
+\end{equation}
+
+这一方程是离散版本的薛定谔方程。算符 $\hat{U}$ 必须满足幺正条件 $\hat{U}^\dagger \hat{U} = I$，这保证了全域波函数的模长守恒：
+
+\begin{equation}
+\langle \Psi(t+1) | \Psi(t+1) \rangle = \langle \Psi(t) | \hat{U}^\dagger \hat{U} | \Psi(t) \rangle = 1
+\end{equation}
+
+\textbf{物理推论：信息守恒}
+
+幺正演化意味着全域量子态的演化是\textbf{可逆的（Reversible）}。如果我们知道当前时刻的状态 $|\Psi(t)\rangle$ 和物理定律 $\hat{U}$，我们不仅可以完美预测未来的任意状态 $|\Psi(t+n)\rangle$，也可以完美回溯过去的状态 $|\Psi(t-n)\rangle = (\hat{U}^\dagger)^n |\Psi(t)\rangle$。
+
+在 QTM 模型中，\textbf{信息从未被创造，也从未被销毁}。所谓的"熵增"或"遗忘"，仅仅是信息从局域自由度扩散到了全局纠缠关联中，对于全知全能的上帝视角（拥有 $\hat{U}^\dagger$ 的计算能力），宇宙的冯·诺依曼熵始终保持为零（纯态）。
+
+\subsection{块宇宙与费曼路径求和}
+
+如果我们考察 $|\Psi(t)\rangle$ 在时间轴上的展开，QTM 模型呈现出一个\textbf{块宇宙（Block Universe）}的图景。
+
+利用费曼路径积分（在离散架构下为路径求和），从初始时刻 $t=0$ 到时刻 $T$ 的演化可以表示为所有可能历史路径的相干叠加：
+
+\begin{equation}
+|\Psi(T)\rangle = \sum_{\text{all paths } \gamma} \mathcal{A}[\gamma] |Final_\gamma\rangle
+\end{equation}
+
+其中 $\mathcal{A}[\gamma]$ 是路径 $\gamma$ 的复数振幅，由作用量 $e^{iS}$ 决定。
+
+在这个图景中：
+
+\begin{enumerate}
+\item \textbf{多重历史并存}：所有符合物理定律的历史路径（例如"猫死了"和"猫活着"）都在波函数中拥有非零的振幅。它们是并行存在的实在。
+
+\item \textbf{没有坍缩}：由于系统是封闭的，不存在外部观测者来执行测量，因此波函数永远不会坍缩。薛定谔的猫永远处于生死叠加态。
+
+\item \textbf{静态时空}：时间参数 $t$ 仅仅是希尔伯特空间中的一个索引。整个历史结构 $(|\Psi(0)\rangle, |\Psi(1)\rangle, \dots, |\Psi(T)\rangle)$ 就像一块已经完成的晶体，静态地悬浮在逻辑空间中。
+\end{enumerate}
+
+\subsection{主观体验的缺失}
+
+QTM 模型虽然在数学上完美自洽，但它面临一个致命的解释鸿沟：\textbf{它无法推导出"现在"和"我"的概念。}
+
+在一个包含所有可能性的波函数中，所有的时刻都是平权的，所有的历史分支都是平权的。不存在一个特殊的指针来标记"现在是 2025 年"或"我看到了猫活着"。
+
+\begin{itemize}
+\item \textbf{没有"现在"}：因为所有 $t$ 的状态都由 $\hat{U}$ 刚性连接，过去和未来在本体论上是等价的。
+
+\item \textbf{没有"选择"}：因为所有分支都发生了，所谓的选择只是幻觉。一个在分叉路口向左走的人和一个向右走的人，都只是全局波函数中的不同分量。
+\end{itemize}
+
+这就引出了本书的核心问题：\textbf{为什么我们作为身处宇宙内部的观测者，体验到的不是并行的多重历史，而是单一的、线性的、充满随机性的时间流？}
+
+为了回答这个问题，我们需要引入对偶的第二端点——\textbf{局域交互自动机模型（CITM）}，这将在下一节详细阐述。

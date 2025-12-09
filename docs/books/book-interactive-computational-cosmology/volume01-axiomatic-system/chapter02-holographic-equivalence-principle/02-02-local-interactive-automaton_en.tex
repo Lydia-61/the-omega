@@ -1,0 +1,121 @@
+\section{The Local Interactive Automaton}
+
+\textbf{(局域交互自动机模型)}
+
+\begin{quote}
+\textbf{"In God's perspective, the universe is a static crystal; but in the player's perspective, the universe is a dynamic game. Without introducing a local model constrained by horizons and equipped with input interfaces, physics can never explain the flowing sense of 'now,' nor can it accommodate the observer's free will."}
+\end{quote}
+
+In the previous section, we established the Global Unitary Model (QTM), which describes a deterministic block universe containing all possible histories. However, this model has a fatal flaw: it cannot describe the subjective experience of observers \textbf{embedded within the universe}. For us—finite agents embedded in this universe—we do not see superpositions of dead and alive cats, nor do we see future scripts. We see a continuously collapsing, single, uncertainty-filled reality.
+
+To describe this subjective perspective, we need to introduce a dual computational model: the \textbf{Classical Interactive Turing Machine (CITM)}. This section will strictly define this model and reconstruct "wave function collapse" in physics as "external input interrupt" in computer science.
+
+\subsection{Local Horizon and Classical State Space}
+
+First, we must define the observer's boundary. In the QTM model, the observer is merely part of the global wave function $|\Psi\rangle$. But in the CITM model, the observer $\mathcal{A}$ is treated as the subject of computation.
+
+Due to the \textbf{Axiom of Finite Information} and \textbf{speed of light limit} (detailed in Volume II), the observer can only access a subregion of the universe at any moment $t$, which we call the \textbf{Local Horizon ($\mathcal{H}_A$)}.
+
+\begin{definition}[Classical State]
+Although the physical ontology within the horizon is quantum (Hilbert space), the observer can only read information through a specific \textbf{"Pointer Basis"} (e.g., photon impact positions on the retina, or readings on instruments). Therefore, for the observer, the effective state of the system is not a vector $|\psi\rangle$, but a \textbf{Classical Bit String} $s_t$.
+
+\begin{equation}
+s_t \in \mathcal{S} = \{0, 1\}^K
+\end{equation}
+
+where $K$ is the maximum distinguishable number of bits within the observer's horizon (constrained by the Bekenstein Bound).
+\end{definition}
+
+\textbf{Physical Meaning}:
+
+This classicalization process corresponds to \textbf{Decoherence} in physics. But in computational ontology, we interpret it as \textbf{Type Casting}: to adapt to the observer's limited I/O bandwidth, the system "compresses" high-dimensional quantum complex vectors into low-dimensional classical enumeration values.
+
+\subsection{Oracle Interface: Mathematical Definition of Free Will}
+
+QTM is closed, while CITM is \textbf{open}. This is an essential distinction.
+
+In classical computation theory, if a Turing machine encounters a problem that cannot be solved by the current algorithm during execution (e.g., undecidable propositions, or choices requiring true random numbers), it can pause and query an external black box, called an \textbf{Oracle ($\mathcal{O}$)}.
+
+\begin{definition}[Physical Oracle]
+We define the physical oracle $\mathcal{O}$ as an \textbf{input channel} connecting the observer with the outside of the horizon (Environment/Exoverse).
+
+\begin{equation}
+\mathcal{O}: \mathcal{S} \times \mathbb{N} \to \Omega
+\end{equation}
+
+where $\Omega$ is the set of possible observation outcomes (e.g., spin up/down).
+\end{definition}
+
+When CITM runs to a \textbf{Branching Point}—the moment when quantum mechanics predicts a superposition—the system does not split, but initiates a query to $\mathcal{O}$.
+
+\begin{itemize}
+\item \textbf{Input}: Current superposition coefficients (probability amplitudes).
+
+\item \textbf{Output}: A definite classical result (collapse).
+\end{itemize}
+
+\textbf{Ontological Implication}:
+
+In the CITM model, \textbf{"free will" and "quantum randomness" are synonymous}. They both represent \textbf{Non-algorithmic Information Flow} injected from outside the system into the local system. This is not a failure of physical laws, but \textbf{I/O communication} at the system level.
+
+\subsection{Interactive Dynamics: Interrupt and Jump}
+
+With state space and oracle, we can write the evolution equation of CITM. This is no longer the linear Schrödinger equation, but a \textbf{Hybrid Dynamical System}.
+
+The system state $s_t$ updates according to the following rule:
+
+\begin{equation}
+s_{t+1} = 
+\begin{cases} 
+\mathcal{L}(s_t) & \text{if } \text{Query}_t = \text{False} \\
+\text{Update}(s_t, \mathcal{O}(s_t)) & \text{if } \text{Query}_t = \text{True} 
+\end{cases}
+\end{equation}
+
+\begin{enumerate}
+\item \textbf{Default Mode ($\mathcal{L}$)}: When no observation occurs, the system follows \textbf{classical physical laws} (such as discretized versions of Newtonian mechanics or Maxwell's equations). This is low-cost inertial evolution, equivalent to \textbf{background suspension} or \textbf{linear extrapolation} in computers.
+
+\item \textbf{Interactive Mode ($\mathcal{O}$)}: When the observer performs a measurement (Query), the system is \textbf{interrupted}. The oracle injects a new value (observation result), forcing a nonlinear \textbf{jump} in the system state.
+\end{enumerate}
+
+This perfectly corresponds to \textbf{von Neumann's hypothesis} in quantum mechanics:
+
+\begin{itemize}
+\item \textbf{Process II} (unitary evolution) corresponds to default mode.
+
+\item \textbf{Process I} (wave function collapse) corresponds to interactive mode.
+\end{itemize}
+
+From the CITM perspective, collapse is not physical "destruction," but a \textbf{Write} operation on data.
+
+\subsection{Lazy Loading and Single History Generation}
+
+The QTM model computes all possible histories, while the CITM model uses \textbf{Lazy Evaluation} mechanism to compute only the observed history.
+
+\begin{itemize}
+\item \textbf{When unobserved}: Mountains and rivers do not exist as definite pixels; they are only stored on the hard drive as generation rules (wave functions/code).
+
+\item \textbf{When observed}: Only when the observer's gaze (query) turns there does the system call the oracle, performing \textbf{Just-in-Time (JIT) compilation} to generate specific physical properties.
+\end{itemize}
+
+\begin{definition}[Dynamic History]
+In CITM, history $H_t = (s_0, s_1, \dots, s_t)$ is not pre-existing static data, but a \textbf{Log File} \textbf{minted} by a series of oracle inputs as time $t$ progresses.
+\end{definition}
+
+This means: \textbf{The future is not discovered; the future is generated.}
+
+\subsection{Summary: Legitimacy of the Player's Perspective}
+
+The CITM model provides us with an intuitive physical picture:
+
+\begin{enumerate}
+\item \textbf{The world is classical} (because our interface is classical).
+
+\item \textbf{The future is open} (because the oracle continuously injects new information).
+
+\item \textbf{Resources are finite} (because we only compute a single history).
+\end{enumerate}
+
+The core question now is: Can this seemingly "bandwidth-saving" simple model (CITM) really be equivalent to that grand, perfect God model (QTM)?
+
+In the next section, we will prove the most important theorem of this book—the \textbf{Steinspring-Turing Isomorphism Theorem}, which will mathematically strictly prove: \textbf{For local observers, these two models are statistically completely indistinguishable.}
